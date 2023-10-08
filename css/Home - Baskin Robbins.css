@@ -11,14 +11,12 @@
     width: 100%;
     height: 100px;
     top: 0;
-    background-color: #fff;
 }
 
 .title-bar {
     width: 94%;
     height: 100px;
     margin-left: 3%;
-    margin-top: 10px;
     margin-right: 3%;
     margin-bottom: 10px;
     display: flex;
@@ -66,6 +64,9 @@
     border: 1px solid #F20C90;
 }
 
+.btn-close{
+    background-color: var(--sixth-dark);
+}
 
 /* ------------------------------------------------------------------------------------------------
 -------------------------------Responsive-------------------------------------------------
@@ -149,17 +150,143 @@
 }
 
 /* <!-- -------------------------------------------- -->
-<!-------------------- TOP SLIDER ------------------>
+<!-------------------- Light Dark ------------------>
 <!-- -------------------------------------------- --> */
 
+.mode-title{
+    width: 100%;
+    height: 50px;
+    background-color: #e876cd;
+    display: flex;
+    justify-content: space-between;
+}
+
+body{
+    --primary-dark: rgb(255, 255, 255);
+    --secondary-dark:rgb(0, 0, 0);
+    --third-dark:#3f2021;
+    --fourth-dark:rgb(71, 38, 14);;
+    --fifth-dark:#c977ae;
+    --sixth-dark:rgb(255, 255, 255);
+    --mode-dark:rgb(47, 46, 46);
+}
+
+.mydark{
+    --primary-dark: rgb(0, 0, 0);
+    --secondary-dark:  rgb(136, 132, 132);
+    --third-dark:#ea3d9f;
+    --fourth-dark:rgb(193, 57, 227);
+    --fifth-dark:rgb(0, 0, 0);
+    --sixth-dark:rgb(255, 255, 255);
+    --mode-dark:rgb(255, 255, 255);
+}
+
+.primary-dark{
+    background-color: var(--primary-dark);
+}
+
+.secondary-dark{
+    color: var(--secondary-dark);
+}
+
+.third-dark{
+    color: var(--third-dark);
+}
+
+.fourth-dark{
+    color: var(--fourth-dark);
+}
+
+.fifth-dark{
+    background-color: var(--fifth-dark);
+}
+
+.sixth-dark{
+    background-color: var(--sixth-dark);
+}
+
+.mode-dark{
+    background-color: var(--mode-dark);
+}
+
+input[type="checkbox"]{
+    -webkit-appearance: none;
+    position: relative;
+    width: 60px;
+    height: 30px;
+    margin-top: 10px;
+    margin-right: 4%;
+    border-radius: 50px;
+    outline: none;
+    background-image: url(https://i.ibb.co/cyQK66j/Screenshot-2020-04-16-at-1-07-06-PM.png);
+    background-size: cover;
+}
+
+input[type="checkbox"]::before{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 30px;
+    width: 50%;
+    background-color: var(--mode-dark);
+    border-radius: 50px;
+}
+
+input[type="checkbox"]:checked:before{
+    transform: translate(100%);
+}
+
+input[type="checkbox"]:checked{
+    background-image: url(https://i.ibb.co/zFjwSPm/Screenshot-2020-04-16-at-1-07-19-PM.png);
+}
+
+/* <!-- -------------------------------------------- -->
+<!-------------------- Coupen------------------>
+<!-- -------------------------------------------- --> */
+
+#coupen{
+    height: 558px;
+    width: 70%;
+    color: #c40772;
+    background-color: black;
+    position: absolute;
+    margin-top: -3%;
+    margin-left: 15%;
+    z-index: 2;
+}
+
+#coupen .btn-align{
+    margin-left: 96%;
+     margin-top: -5%;
+    width: 5%;
+    height: 10%;
+    border: transparent;
+    background-color: transparent;
+    color: white;
+ }
+ 
+ #coupen h2{
+    margin-top: -3%;
+    color: #c40772;
+    margin-left: 1%;
+    font-weight: bolder;
+    font-family: 'EamesBold';
+    letter-spacing: 1px;
+ }
+
+ #coupen img{
+    height: 500px;
+    width: 100%;
+ }
+
+/* <!-- -------------------------------------------- -->
+<!-------------------- TOP SLIDER ------------------>
+<!-- -------------------------------------------- --> */
 
 .slide-1 {
     width: 100%;
     height: 550px;
-}
-
-.top-dots {
-    color: black;
 }
 
 /* <!-- ----------------------------------------------------------------------------------------- -->
@@ -174,15 +301,14 @@
     margin-right: 10%;
     margin-top: 10%;
     margin-bottom: 3%;
-    /* border: 2px solid blue; */
 }
 
 .slider1 .container {
     margin: 0 auto;
 }
 
-.container .slider1-title span {
-    color: rgb(71, 38, 14);
+.container .slider1-title .word{
+    color: var(--fourth-dark);
 }
 
 .container .slider1-title{
@@ -191,7 +317,6 @@
 }
 
 .container .slider1-title h1 {
-    /* text-align: center; */
     margin-top: 3%;
     color: #F20C90;
     font-family: EamesBold;
@@ -204,7 +329,7 @@
 }
 
 .image-wrapper {
-    max-width: 80%;
+    max-width: 100%;
     max-height: 80%;
     margin: 0 auto;
 }
@@ -217,23 +342,18 @@
 }
 
 .name {
-    /* font-size: 30px; */
     font-weight: bolder;
-    color: #3f2021;
     text-align: center;
 }
 
 .description {
     margin-top: -15px;
-    /* font-size: 20px; */
     font-weight: 500;
-    color: rgb(0, 0, 0);
     text-align: center;
 }
 
 .button {
     border: 1px solid #f04e98;
-    /* font-size: 15px; */
     font-weight: bolder;
     color: rgb(224, 221, 221);
     padding: 5px 10px;
@@ -245,7 +365,6 @@
 
 .button1 {
     border: 1px solid #f04e98;
-    /* font-size: 15px; */
     font-weight: bolder;
     color: rgb(224, 221, 221);
     padding: 5px 10px;
@@ -274,10 +393,7 @@
     margin-top: 5%;
     width: 100%;
     margin-bottom: 5%;
-    /* height: 600px; */
-    border: 2px solid black;
-    background-color: #c977ae;
-    
+    border: 2px solid black; 
 }
 
 .slide2-container {
@@ -286,6 +402,7 @@
     margin-bottom: 3%;
     margin-left: 10%;
 }
+
 .slide2-image-wrapper {
     max-width: 100%;
     max-height: 50%;
@@ -296,16 +413,15 @@
     margin-left: 10%;
     margin-bottom: 5%;
 }
+
 .slide2-arrow {
     color: #f23a8d;
-    /* width: -10%; */
 }
 
 .slide2-text1{
     color: white;
     font-weight: bold;
     font-size: 250%;
-    /* margin-left: 15%; */
     margin-top: -50%;
 }
 
@@ -313,7 +429,6 @@
     color: white;
     font-weight: bold;
     font-size: 250%;
-    /* margin-left: 15%; */
     margin-top: -35%;
 }
 
@@ -321,7 +436,6 @@
     color: white;
     font-weight: bold;
     font-size: 250%;
-    /* margin-left: 15%; */
     margin-top: -23%;
 }
 
@@ -329,6 +443,7 @@
 /* <!-------------------------------------------------------------------------------------------->
 <!--------------------------------------- RESPONSIVE -------------------------------------------->
 <!--------------------------------------------------------------------------------------------> */
+
 @media screen and (max-width:300px) {
     .slide2-text1 {
         font-size: 180%;
@@ -352,7 +467,6 @@
     }
 }
 
-
 /* <!-------------------------------------------------------------------------------------------->
 <!--------------------------------------- SLIDER3 -------------------------------------------->
 <!--------------------------------------------------------------------------------------------> */
@@ -360,12 +474,9 @@
 .slide3-name {
     font-size: 30px;
     font-weight: bolder;
-    color: rgb(141, 84, 23);
     text-align: center;
     margin-top: -15px;
 }
-
-
 
 /* <!-------------------------------------------------------------------------------------------->
 <!--------------------------------------- News Info -------------------------------------------->
@@ -375,7 +486,6 @@
     width: 100%;
     margin-bottom: 5%;
     margin-top: 10%;
-
 }
 
 .info-content {
@@ -385,8 +495,6 @@
 
 .info-content .info-title h1{
     color: #f04e98;
-    /* font-size: 25px;
-    font-weight: bolder; */
     margin-left: 2%;
     font-family: EamesBold;
     font-weight: 800;
@@ -394,7 +502,7 @@
 }
 
 .info-title h1 span {
-    color: #3f2021;
+    color: var(--fourth-dark);
 }
 
 .info-title{
@@ -434,8 +542,6 @@
 .more a:hover {
     color: #f00b6e;
 }
-
-
 
 /* <!-------------------------------------------------------------------------------------------->
 <!--------------------------------------- Social Info -------------------------------------------->
@@ -495,21 +601,17 @@
     margin-right: 5%;
 }
 
-
-
-
-
 /* <!-------------------------------------------------------------------------------------------->
 <!--------------------------------------- Footer -------------------------------------------->
 <!--------------------------------------------------------------------------------------------> */
+
 .footer {
     margin-top: 10%;
     background-image: url('https://i.ibb.co/dQpn66v/Footer-BG-New.webp');
     background-size: cover;
-    /* background-color: #d97bb0; */
     width: 100%;
     height: 900px;
-    border: 1px solid white;
+    border: 1px solid transparent;
     font-family: Arial,sans-serif;
 }
 

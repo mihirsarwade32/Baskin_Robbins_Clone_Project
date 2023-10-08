@@ -13,38 +13,38 @@
     <!-- Swipper slider -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css" />
 
-    
+
     <link href="https://i.ibb.co/hHQM6Mv/BR-Icon.webp" rel="icon">
     <link rel="stylesheet" href="css/Home - Baskin Robbins.css">
     <title>Baskin Robbins India Store</title>
 </head>
 
 
-<body>
+<body id="main-body" class="primary-dark">
 
     <!-- -------------------------------------------- -->
     <!-------------------- TOP SLIDER ------------------>
     <!-- -------------------------------------------- -->
-    <div class="title">
+    <div class="title primary-dark">
         <header class="title-bar">
             <div class="title-right">
                 <a data-bs-toggle="offcanvas" href="#offcanvasExample" role="button" aria-controls="offcanvasExample">
                     <img src="https://i.ibb.co/VMZNVR2/Burger-Menu.png" alt="" width="30">
                 </a>
 
-                <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasExample"
+                <div class="offcanvas offcanvas-start primary-dark" tabindex="-1" id="offcanvasExample"
                     aria-labelledby="offcanvasExampleLabel">
                     <div class="offcanvas-header">
-                        <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas"
+                        <button type="button" class="btn-close text-reset sixth-dark" data-bs-dismiss="offcanvas"
                             aria-label="Close"></button>
                         <!-- <h5 class="offcanvas-title" id="offcanvasExampleLabel">Offcanvas</h5> -->
                     </div>
                     <div class="offcanvas-body">
                         <!-- <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton"> -->
-                        <ul><a class="dropdown-item" href="#">Shop</a></ul>
-                        <ul><a class="dropdown-item" href="#">Partner With Us</a></ul>
-                        <ul><a class="dropdown-item" href="#">About Us</a></ul>
-                        <ul><a class="dropdown-item" href="#">Our Stores</a></ul>
+                        <ul><a class="dropdown-item secondary-dark" href="#">Shop</a></ul>
+                        <ul><a class="dropdown-item secondary-dark" href="#">Partner With Us</a></ul>
+                        <ul><a class="dropdown-item secondary-dark" href="#">About Us</a></ul>
+                        <ul><a class="dropdown-item secondary-dark" href="#">Our Stores</a></ul>
                         <!-- </ul> -->
                     </div>
                 </div>
@@ -59,6 +59,20 @@
         </header>
     </div>
 
+    <!-- -------------------------------------------- -->
+    <!-------------------- Light Dark  ------------------>
+    <!-- -------------------------------------------- -->
+    <div class="mode-title">
+        <div class="weather"></div>
+        <!-- <button onClick="changeMode()">Change Mode</button> -->
+        <input type="checkbox" id="mode">
+    </div>
+
+    <div id="coupen">
+        <span><button class="btn-align" onClick="closeCoupen()">&times;</button></span>
+        <h2 class="text-center">OFFERS FOR YOU</h2>
+        <a href="#"><img src="https://i.ibb.co/Cv1QQwh/Baskin-Robbins-Feat-31-Mar-2016.jpg" alt=""></a>
+    </div>
 
 
     <!-- -------------------------------------------- -->
@@ -102,174 +116,174 @@
         <div class="slider1">
             <div class="container">
                 <div class="slider1-title text-center">
-                    <h1>What's <span>New?</span></h1>
+                    <h1>What's <span class="word fourth-dark">New?</span></h1>
                 </div>
                 <div class="swiper card-slider">
-                    <div class="swiper-wrapper">
+                    <div class="swiper-wrapper  primary-dark">
                         <div class="swiper-slide">
-                            <div class="card border-0">
-                                <div class="image-wrapper">
+                            <div class="card border-0"  style="width: 90%;">
+                                <div class="image-wrapper primary-dark">
                                     <img src="https://i.ibb.co/gjcx4D7/slide1.webp" class="card-img-top" alt="...">
                                 </div>
-                                <div class="card-body">
-                                    <h2 class="name">Unicorn</h2>
-                                    <p class="description">Sundae</p>
+                                <div class="card-body primary-dark">
+                                    <h2 class="name third-dark">Unicorn</h2>
+                                    <p class="description secondary-dark">Sundae</p>
                                     <a href="#"><button class="button1">SHOP NOW</button></a>
                                 </div>
                             </div>
                         </div>
 
                         <div class="swiper-slide">
-                            <div class="card border-0">
-                                <div class="image-wrapper">
+                            <div class="card border-0"  style="width: 90%;">
+                                <div class="image-wrapper primary-dark">
                                     <img src="https://i.ibb.co/SXB9rH9/slide2.webp" class="card-img-top" alt="...">
                                 </div>
-                                <div class="card-body">
-                                    <h2 class="name">Blueberry and White Chocolate</h2>
-                                    <p class="description">Icecream</p>
+                                <div class="card-body primary-dark">
+                                    <h2 class="name third-dark">Blueberry and White Chocolate</h2>
+                                    <p class="description secondary-dark">Icecream</p>
                                     <a href="#"><button class="button">SHOP NOW</button></a>
                                 </div>
                             </div>
                         </div>
 
                         <div class="swiper-slide">
-                            <div class="card border-0">
-                                <div class="image-wrapper">
+                            <div class="card border-0" style="width: 90%;">
+                                <div class="image-wrapper primary-dark">
                                     <img src="https://i.ibb.co/FWKbMs2/slide3.webp" class="card-img-top" alt="...">
                                 </div>
-                                <div class="card-body">
-                                    <h2 class="name">Ice Cream</h2>
-                                    <p class="description">Rocks</p>
+                                <div class="card-body primary-dark">
+                                    <h2 class="name third-dark">Ice Cream</h2>
+                                    <p class="description secondary-dark">Rocks</p>
                                     <a href="#"><button class="button1">SHOP NOW</button></a>
                                 </div>
                             </div>
                         </div>
 
                         <div class="swiper-slide">
-                            <div class="card border-0">
-                                <div class="image-wrapper">
+                            <div class="card border-0" style="width: 90%;">
+                                <div class="image-wrapper primary-dark">
                                     <img src="https://i.ibb.co/MkZyCL2/slide4.webp" class="card-img-top" alt="...">
                                 </div>
-                                <div class="card-body">
-                                    <h2 class="name">Mermind</h2>
-                                    <p class="description">Sundae</p>
+                                <div class="card-body primary-dark">
+                                    <h2 class="name third-dark">Mermind</h2>
+                                    <p class="description secondary-dark">Sundae</p>
                                     <a href="#"><button class="button1">SHOP NOW</button></a>
                                 </div>
                             </div>
                         </div>
 
                         <div class="swiper-slide">
-                            <div class="card border-0">
-                                <div class="image-wrapper">
+                            <div class="card border-0" style="width: 90%;">
+                                <div class="image-wrapper primary-dark">
                                     <img src="https://i.ibb.co/DfWvB6K/slide5.webp" class="card-img-top" alt="...">
                                 </div>
-                                <div class="card-body">
-                                    <h2 class="name">Vanilla fruit <br>Cream</h2>
-                                    <p class="description">Sundae</p>
+                                <div class="card-body primary-dark">
+                                    <h2 class="name third-dark">Vanilla fruit <br>Cream</h2>
+                                    <p class="description secondary-dark">Sundae</p>
                                     <a href="#"><button class="button">SHOP NOW</button></a>
                                 </div>
                             </div>
                         </div>
 
                         <div class="swiper-slide">
-                            <div class="card border-0">
-                                <div class="image-wrapper">
+                            <div class="card border-0" style="width: 90%;">
+                                <div class="image-wrapper primary-dark">
                                     <img src="https://i.ibb.co/p432T5n/slide6.webp" class="card-img-top" alt="...">
                                 </div>
-                                <div class="card-body">
-                                    <h2 class="name">Mango fruit <br>Cream</h2>
-                                    <p class="description">Sundae</p>
+                                <div class="card-body primary-dark">
+                                    <h2 class="name third-dark">Mango fruit <br>Cream</h2>
+                                    <p class="description secondary-dark">Sundae</p>
                                     <a href="#"><button class="button">SHOP NOW</button></a>
                                 </div>
                             </div>
                         </div>
 
                         <div class="swiper-slide">
-                            <div class="card border-0">
-                                <div class="image-wrapper">
+                            <div class="card border-0" style="width: 90%;">
+                                <div class="image-wrapper primary-dark">
                                     <img src="https://i.ibb.co/rcWgH1J/slide7.webp" class="card-img-top" alt="...">
                                 </div>
-                                <div class="card-body">
-                                    <h2 class="name">Strawberry fruit <br>Cream</h2>
-                                    <p class="description">Sundae</p>
+                                <div class="card-body primary-dark">
+                                    <h2 class="name third-dark">Strawberry fruit <br>Cream</h2>
+                                    <p class="description secondary-dark">Sundae</p>
                                     <a href="#"><button class="button">SHOP NOW</button></a>
                                 </div>
                             </div>
                         </div>
 
                         <div class="swiper-slide">
-                            <div class="card border-0">
-                                <div class="image-wrapper">
+                            <div class="card border-0" style="width: 90%;">
+                                <div class="image-wrapper primary-dark">
                                     <img src="https://i.ibb.co/tCZqg4c/slide8.webp" class="card-img-top" alt="...">
                                 </div>
-                                <div class="card-body">
-                                    <h2 class="name">Cotton Candy</h2>
-                                    <p class="description">Rocks</p>
+                                <div class="card-body primary-dark">
+                                    <h2 class="name third-dark">Cotton Candy</h2>
+                                    <p class="description secondary-dark">Rocks</p>
                                     <a href="#"><button class="button1">SHOP NOW</button></a>
                                 </div>
                             </div>
                         </div>
 
                         <div class="swiper-slide">
-                            <div class="card border-0">
-                                <div class="image-wrapper">
+                            <div class="card border-0" style="width: 90%;">
+                                <div class="image-wrapper primary-dark">
                                     <img src="https://i.ibb.co/gjZddSH/slide9.webp" class="card-img-top" alt="...">
                                 </div>
-                                <div class="card-body">
-                                    <h2 class="name">Three Cheers <br>Chocolate</h2>
-                                    <p class="description">Icecream</p>
+                                <div class="card-body primary-dark">
+                                    <h2 class="name third-dark">Three Cheers <br>Chocolate</h2>
+                                    <p class="description secondary-dark">Icecream</p>
                                     <a href="#"><button class="button">SHOP NOW</button></a>
                                 </div>
                             </div>
                         </div>
 
                         <div class="swiper-slide">
-                            <div class="card border-0">
-                                <div class="image-wrapper">
+                            <div class="card border-0" style="width: 90%;">
+                                <div class="image-wrapper primary-dark">
                                     <img src="https://i.ibb.co/3Nc67Wp/slide10.webp" class="card-img-top" alt="...">
                                 </div>
-                                <div class="card-body">
-                                    <h2 class="name">Black Current</h2>
-                                    <p class="description">Icecream</p>
+                                <div class="card-body primary-dark">
+                                    <h2 class="name third-dark">Black Current</h2>
+                                    <p class="description secondary-dark">Icecream</p>
                                     <a href="#"><button class="button1">SHOP NOW</button></a>
                                 </div>
                             </div>
                         </div>
 
                         <div class="swiper-slide">
-                            <div class="card border-0">
-                                <div class="image-wrapper">
+                            <div class="card border-0" style="width: 90%;">
+                                <div class="image-wrapper primary-dark">
                                     <img src="https://i.ibb.co/0Qb58r1/slide11.webp" class="card-img-top" alt="...">
                                 </div>
-                                <div class="card-body">
-                                    <h2 class="name">Fruit Ninja</h2>
-                                    <p class="description">Icecream</p>
+                                <div class="card-body primary-dark">
+                                    <h2 class="nam third-darke">Fruit Ninja</h2>
+                                    <p class="description secondary-dark">Icecream</p>
                                     <a href="#"><button class="button1">SHOP NOW</button></a>
                                 </div>
                             </div>
                         </div>
 
                         <div class="swiper-slide">
-                            <div class="card border-0">
-                                <div class="image-wrapper">
+                            <div class="card border-0" style="width: 90%;">
+                                <div class="image-wrapper primary-dark">
                                     <img src="https://i.ibb.co/m61tMmp/slide12.webp" class="card-img-top" alt="...">
                                 </div>
-                                <div class="card-body">
-                                    <h2 class="name">Caramel Milk Cake</h2>
-                                    <p class="description">Icecream</p>
+                                <div class="card-body primary-dark">
+                                    <h2 class="name third-dark">Caramel Milk Cake</h2>
+                                    <p class="description secondary-dark">Icecream</p>
                                     <a href="#"><button class="button1">SHOP NOW</button></a>
                                 </div>
                             </div>
                         </div>
 
                         <div class="swiper-slide">
-                            <div class="card border-0">
-                                <div class="image-wrapper">
+                            <div class="card border-0" style="width: 90%;">
+                                <div class="image-wrapper primary-dark">
                                     <img src="https://i.ibb.co/1m2tsFS/slide13.webp" class="card-img-top" alt="...">
                                 </div>
-                                <div class="card-body">
-                                    <h2 class="name">Very Berry <br>Strawberry</h2>
-                                    <p class="description">Icecream</p>
+                                <div class="card-body primary-dark">
+                                    <h2 class="name third-dark">Very Berry <br>Strawberry</h2>
+                                    <p class="description secondary-dark">Icecream</p>
                                     <a href="#"><button class="button">SHOP NOW</button></a>
                                 </div>
                             </div>
@@ -289,15 +303,15 @@
     <!--------------------------------------- SLIDER2 -------------------------------------------->
     <!-------------------------------------------------------------------------------------------->
     <section>
-        <div class="slider2">
+        <div class="slider2 fifth-dark">
             <div class="container">
                 <div class="slider1-title text-center">
-                    <h1>Shop by <span>Range</span></h1>
+                    <h1>Shop by <span class="word fourth-dark">Range</span></h1>
                 </div>
                 <div class="swiper swiper-slide2">
 
                     <div class="swiper-wrapper swiper-slide2-wrapper">
-                        
+
                         <div class="swiper-slide">
                             <a href="#"><img src="https://i.ibb.co/25vHsBH/slide1.webp" alt=""
                                     class="slide2-image-wrapper"></a>
@@ -351,77 +365,77 @@
         <div class="slider1">
             <div class="container">
                 <div class="slider1-title text-center">
-                    <h1>All time <br><span>Favourite</span></h1>
+                    <h1>All time <br><span class="word fourth-dark">Favourite</span></h1>
                 </div>
                 <div class="swiper card-slider">
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
-                            <div class="card border-0">
-                                <div class="image-wrapper">
+                            <div class="card border-0" style="width: 90%;">
+                                <div class="image-wrapper primary-dark">
                                     <img src="https://i.ibb.co/3Nc67Wp/slide10.webp" class="card-img-top" alt="...">
                                 </div>
-                                <div class="card-body">
-                                    <h2 class="name">Black Current</h2>
+                                <div class="card-body primary-dark">
+                                    <h2 class="name third-dark">Black Current</h2>
                                     <a href="#"><button class="button1">SHOP NOW</button></a>
                                 </div>
                             </div>
                         </div>
 
                         <div class="swiper-slide">
-                            <div class="card border-0">
-                                <div class="image-wrapper">
+                            <div class="card border-0" style="width: 90%;">
+                                <div class="image-wrapper primary-dark">
                                     <img src="https://i.ibb.co/3C2NZdt/slide2.webp" class="card-img-top" alt="...">
                                 </div>
-                                <div class="card-body">
-                                    <h2 class="name">Hazelnut Rocher</h2>
+                                <div class="card-body primary-dark">
+                                    <h2 class="name third-dark">Hazelnut Rocher</h2>
                                     <a href="#"><button class="button1">SHOP NOW</button></a>
                                 </div>
                             </div>
                         </div>
 
                         <div class="swiper-slide">
-                            <div class="card border-0">
-                                <div class="image-wrapper">
+                            <div class="card border-0" style="width: 90%;">
+                                <div class="image-wrapper primary-dark">
                                     <img src="https://i.ibb.co/1m2tsFS/slide13.webp" class="card-img-top" alt="...">
                                 </div>
-                                <div class="card-body">
-                                    <h2 class="name">Very Berry <br>Strawberry</h2>
+                                <div class="card-body primary-dark">
+                                    <h2 class="name third-dark">Very Berry <br>Strawberry</h2>
                                     <a href="#"><button class="button">SHOP NOW</button></a>
                                 </div>
                             </div>
                         </div>
 
                         <div class="swiper-slide">
-                            <div class="card border-0">
-                                <div class="image-wrapper">
+                            <div class="card border-0" style="width: 90%;">
+                                <div class="image-wrapper primary-dark">
                                     <img src="https://i.ibb.co/1MsXNGN/slide4.webp" class="card-img-top" alt="...">
                                 </div>
-                                <div class="card-body">
-                                    <h2 class="name">Cookies 'N Cream</h2>
+                                <div class="card-body primary-dark">
+                                    <h2 class="name third-dark">Cookies 'N Cream</h2>
                                     <a href="#"><button class="button1">SHOP NOW</button></a>
                                 </div>
                             </div>
                         </div>
 
                         <div class="swiper-slide">
-                            <div class="card border-0">
-                                <div class="image-wrapper">
+                            <div class="card border-0" style="width: 90%;">
+                                <div class="image-wrapper primary-dark">
                                     <img src="https://i.ibb.co/ctrXmqB/slide5.webp" class="card-img-top" alt="...">
                                 </div>
-                                <div class="card-body">
-                                    <h2 class="name">Classic Vanilla</h2>
+                                <div class="card-body primary-dark">
+                                    <h2 class="name third-dark">Classic Vanilla</h2>
                                     <a href="#"><button class="button1">SHOP NOW</button></a>
                                 </div>
                             </div>
                         </div>
 
                         <div class="swiper-slide">
-                            <div class="card border-0">
-                                <div class="image-wrapper">
+                            <div class="card border-0" style="width: 90%;">
+                                <div class="image-wrapper primary-dark">
                                     <img src="https://i.ibb.co/gjZddSH/slide9.webp" class="card-img-top" alt="...">
                                 </div>
-                                <div class="card-body">
-                                    <h2 class="name">Three Cheers <br>Chocolate</h2>
+                                <div class="card-body primary-dark">
+                                    <h2 class="name third-dark">Three Cheers <br>Chocolate</h2>
                                     <a href="#"><button class="button">SHOP NOW</button></a>
                                 </div>
                             </div>
@@ -441,16 +455,18 @@
         <div class="info">
             <div class="container info-content">
                 <div class="info-title text-center">
-                    <h1><img src="https://i.ibb.co/hHQM6Mv/BR-Icon.webp" alt="" style="width: 7%;"> Inside <span>Scoop</span></h1>
+                    <h1 class="fourth-dark"><img src="https://i.ibb.co/hHQM6Mv/BR-Icon.webp" alt="" style="width: 7%;"> Inside
+                        <span>Scoop</span></h1>
                 </div>
                 <div class="swiper info-slider">
                     <div class="swiper-wrapper ">
                         <div class="swiper-slide">
                             <div class="card border-0">
                                 <div class="news-image-wrapper">
-                                    <img src="https://i.ibb.co/PTSL3JQ/news1.webp" class="card-img-top" alt="..." class="info-image">
+                                    <img src="https://i.ibb.co/PTSL3JQ/news1.webp" class="card-img-top" alt="..."
+                                        class="info-image">
                                 </div>
-                                <div class="news-card-body">
+                                <div class="news-card-body primary-dark">
                                     <p class="info-title">Here Are 7 Delicacies To Satiate Those Summer Craving Before
                                         The Season Comes
                                         To A close</p><br>
@@ -465,9 +481,10 @@
                         <div class="swiper-slide">
                             <div class="card border-0">
                                 <div class="news-image-wrapper">
-                                    <img src="https://i.ibb.co/7pLXy1R/news2.webp" class="card-img-top" alt="..." class="info-image">
+                                    <img src="https://i.ibb.co/7pLXy1R/news2.webp" class="card-img-top" alt="..."
+                                        class="info-image">
                                 </div>
-                                <div class="news-card-body">
+                                <div class="news-card-body primary-dark">
                                     <p class="info-title">5 new ice cream flavours to elevate your desert manu this
                                         summer
                                         To A close</p><br>
@@ -482,9 +499,10 @@
                         <div class="swiper-slide">
                             <div class="card border-0">
                                 <div class="news-image-wrapper">
-                                    <img src="https://i.ibb.co/JFMQBHG/news3.png" class="card-img-top" alt="..." class="info-image">
+                                    <img src="https://i.ibb.co/JFMQBHG/news3.png" class="card-img-top" alt="..."
+                                        class="info-image">
                                 </div>
-                                <div class="news-card-body">
+                                <div class="news-card-body primary-dark">
                                     <p class="info-title">This Thanksgiving Day, surprise your loved ones with these 5
                                         gifts</p><br>
                                     <p class="info-info">Be it for your guests, friends, and family, or simply to adorn
@@ -498,9 +516,10 @@
                         <div class="swiper-slide">
                             <div class="card border-0">
                                 <div class="news-image-wrapper">
-                                    <img src="https://i.ibb.co/N2Jtpfx/news4.png" class="card-img-top" alt="..." class="info-image">
+                                    <img src="https://i.ibb.co/N2Jtpfx/news4.png" class="card-img-top" alt="..."
+                                        class="info-image">
                                 </div>
-                                <div class="news-card-body">
+                                <div class="news-card-body primary-dark">
                                     <p class="info-title">Celebrating the festive season with good food and love: Here's
                                         what to pick for your loved onces</p><br>
                                     <p class="info-info">here is a detailed guid for foodies who are searching for the
@@ -513,9 +532,10 @@
                         <div class="swiper-slide">
                             <div class="card border-0">
                                 <div class="news-image-wrapper">
-                                    <img src="https://i.ibb.co/Z8cpBks/news5.png" class="card-img-top" alt="..." class="info-image">
+                                    <img src="https://i.ibb.co/Z8cpBks/news5.png" class="card-img-top" alt="..."
+                                        class="info-image">
                                 </div>
-                                <div class="news-card-body">
+                                <div class="news-card-body primary-dark">
                                     <p class="info-title">Which Ice Cream Suits Your BFF?</p><br>
                                     <p class="info-info">celebrating our crazy, unlike-anyone-else friends this
                                         Friendship Day! The Day we all enjoyed as kids is finally here...Friendship Day!
@@ -528,9 +548,10 @@
                         <div class="swiper-slide">
                             <div class="card border-0">
                                 <div class="news-image-wrapper">
-                                    <img src="https://i.ibb.co/ZTD7XrS/news6.webp" class="card-img-top" alt="..." class="info-image">
+                                    <img src="https://i.ibb.co/ZTD7XrS/news6.webp" class="card-img-top" alt="..."
+                                        class="info-image">
                                 </div>
-                                <div class="news-card-body">
+                                <div class="news-card-body primary-dark">
                                     <p class="info-title">A (Vegan) Twist In The Tale: Introducing vegan Ice Creams by
                                         Basking Robbins</p><br>
                                     <p class="info-info">If we say 'ice cream', one of the first things you'd associate
@@ -555,7 +576,8 @@
     <section>
         <div class="social">
             <div class="slider1-title text-center">
-                <h1><img src="https://i.ibb.co/hHQM6Mv/BR-Icon.webp" alt="" style="width: 6%;" class="social-img"> . Social</h1>
+                <h1><img src="https://i.ibb.co/hHQM6Mv/BR-Icon.webp" alt="" style="width: 6%;" class="social-img"> .
+                    Social</h1>
             </div>
 
 
@@ -675,14 +697,14 @@
                 <a href="#">Copyright&copy; | Baskin Robbins India</a>
             </div>
             <div class="bottom-foot2">
-                <a href="https://www.youtube.com/user/BaskinRobbinsIn" target="_blank"><img src="https://i.ibb.co/hMmh539/Youtube.webp"
-                        alt="" class="foot-logo"></a>
+                <a href="https://www.youtube.com/user/BaskinRobbinsIn" target="_blank"><img
+                        src="https://i.ibb.co/hMmh539/Youtube.webp" alt="" class="foot-logo"></a>
                 <a href="https://www.instagram.com/baskinrobbinsin/?hl=en" target="_blank"><img
                         src="https://i.ibb.co/LN2cQYC/Instagram.webp" alt="" class="foot-logo"></a>
-                <a href="https://twitter.com/BaskinRobbinsIn" target="_blank"><img src="https://i.ibb.co/cCY7Tg0/Twitter.webp" alt=""
-                        class="foot-logo"></a>
-                <a href="https://www.facebook.com/BaskinRobbinsIn/" target="_blank"><img src="https://i.ibb.co/Kwjck43/Facebook.webp"
-                        alt="" class="foot-logo"></a>
+                <a href="https://twitter.com/BaskinRobbinsIn" target="_blank"><img
+                        src="https://i.ibb.co/cCY7Tg0/Twitter.webp" alt="" class="foot-logo"></a>
+                <a href="https://www.facebook.com/BaskinRobbinsIn/" target="_blank"><img
+                        src="https://i.ibb.co/Kwjck43/Facebook.webp" alt="" class="foot-logo"></a>
             </div>
             <div class="bottom-foot3">
                 <a href="#">Sitemap</a>
@@ -711,7 +733,9 @@
     <!-- Swipper slides -->
     <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
 
+
     <!-- Initialize Swiper -->
+    <script src="js/index.js"></script>
     <script>
         var swiper = new Swiper(".top-slider", {
             slidesPerView: 1,
@@ -825,6 +849,9 @@
                 },
             },
         });
+
+        window.onload = onloadPage();
+
     </script>
 
 
