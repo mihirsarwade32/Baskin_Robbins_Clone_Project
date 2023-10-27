@@ -25,7 +25,7 @@
     <!-- -------------------------------------------- -->
     <!-------------------- TOP SLIDER ------------------>
     <!-- -------------------------------------------- -->
-    <div class="title primary-dark">
+    <div class="title primary-dark" id="title-id">
         <header class="title-bar">
             <div class="title-right">
                 <a data-bs-toggle="offcanvas" href="#offcanvasExample" role="button" aria-controls="offcanvasExample">
@@ -62,15 +62,21 @@
     <!-- -------------------------------------------- -->
     <!-------------------- Light Dark  ------------------>
     <!-- -------------------------------------------- -->
-    <div class="mode-title">
-        <div class="weather" id="my-weather"></div>
-        <input type="checkbox" id="mode">
-    </div>
+    <div class="mode-title" id="mode-id">
+        <div class="weather-info">
+            <p id="locate" onclick="geolocation()"><button>Current Location</button></p>
+            <p id="weather"></p>
+        </div>
+        <span id="out"></span>
 
-    <div id="coupen">
-        <span><button class="btn-align" onClick="closeCoupen()">&times;</button></span>
-        <h2 class="text-center">OFFERS FOR YOU</h2>
-        <a href="#"><img src="https://i.ibb.co/Cv1QQwh/Baskin-Robbins-Feat-31-Mar-2016.jpg" alt=""></a>
+        <!-- <button onClick="changeMode()">Change Mode</button> -->
+        <input type="checkbox" id="mode">
+        <div id="coupen">
+            <span><button class="btn-align" onClick="closeCoupen()">&times;</button></span>
+            <h2 class="text-center">OFFERS FOR YOU</h2>
+            <a href="#"><img src="https://i.ibb.co/Cv1QQwh/Baskin-Robbins-Feat-31-Mar-2016.jpg" alt=""></a>
+        </div>
+        
     </div>
 
 
@@ -78,7 +84,7 @@
     <!-------------------- TOP SLIDER ------------------>
     <!-- -------------------------------------------- -->
 
-    <div class="swiper top-slider">
+    <div class="swiper top-slider" id="topslider-id">
         <div class="swiper-wrapper">
             <div class="swiper-slide">
                 <img src="https://i.ibb.co/tH3kzh0/silde1.webp" alt="" class="slide-1">
@@ -735,6 +741,7 @@
 
     <!-- Initialize Swiper -->
     <script src="js/index.js"></script>
+    
     <script>
         var swiper = new Swiper(".top-slider", {
             slidesPerView: 1,
@@ -850,6 +857,38 @@
         });
 
         window.onload = onloadPage();
+
+
+        let x = document.getElementById('out');
+        let y = document.getElementById('weather');
+
+        function geolocation() {
+            if (navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(showPosition)
+            } else {
+                x.innerText = "Geo Not Supported"
+            }
+        }
+
+        function showPosition(data) {
+            console.log(data)
+            let lat = data.coords.latitude;
+            let lon = data.coords.longitude;
+            // x.innerText = `Latitude is ${lat} and longitude is ${lon}`
+            const url = `https://api.openweathermap.org/data/2.5/forecast/daily?lat=${lat}&lon=${lon}&mode=json&units=metric&cnt=5&appid=fbf712a5a83d7305c3cda4ca8fe7ef29`;
+            //api calling
+            fetch(url, { method: 'GET' })
+                //return promise
+                .then((res) => res.json())
+                //resolve the promise
+                .then((data) => {
+                    console.log(data)
+                    let cityName = data.city.name;
+                    // let countryName = data.country.name;
+                    let temp = data.list[0].temp.day + "°C"
+                    y.innerText = `${temp}, ${cityName}`
+                })
+        }
 
     </script>
 

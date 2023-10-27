@@ -244,41 +244,77 @@ input[type="checkbox"]:checked{
 /* <!-- -------------------------------------------- -->
 <!-------------------- Coupen------------------>
 <!-- -------------------------------------------- --> */
-
-#coupen{
+#coupen {
     height: 558px;
     width: 70%;
     color: #c40772;
     background-color: black;
     position: absolute;
-    margin-top: -3%;
     margin-left: 15%;
     z-index: 2;
+box-shadow: 10px 10px 7px rgb(54, 53, 53);
 }
 
-#coupen .btn-align{
+#coupen .btn-align {
     margin-left: 96%;
-     margin-top: -5%;
+    margin-top: -5%;
     width: 5%;
     height: 10%;
     border: transparent;
     background-color: transparent;
     color: white;
- }
- 
- #coupen h2{
+}
+
+#coupen h2 {
     margin-top: -3%;
     color: #c40772;
     margin-left: 1%;
     font-weight: bolder;
     font-family: 'EamesBold';
     letter-spacing: 1px;
- }
+}
 
- #coupen img{
+#coupen img {
     height: 500px;
     width: 100%;
- }
+}
+
+
+/* <!-- -------------------------------------------- -->
+<!-------------------- Weather------------------>
+<!-- -------------------------------------------- --> */
+.weather-info {
+    display: flex;
+}
+
+.mode-title #weather {
+    height: 80% !important;
+    width: 100% !important;
+    border: 1px solid black;
+    background-color: white;
+    color: black;
+    margin-top: 5px;
+    border-radius: 10px;
+    margin-left: 2%;
+    font-size: 15px;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-top: 8px;
+
+}
+
+#locate button {
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 100% !important;
+    font-size: 12px;
+    font-weight: bold;
+    background-color: #f00b6e;
+    color: white;
+    border-radius: 10px;
+
+}
+
 
 /* <!-- -------------------------------------------- -->
 <!-------------------- TOP SLIDER ------------------>
