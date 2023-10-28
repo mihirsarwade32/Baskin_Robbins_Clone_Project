@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+
+    <!-- CSS -->
+    <link href="https://i.ibb.co/hHQM6Mv/BR-Icon.webp" rel="icon">
+    <link rel="stylesheet" href="/css/shop.css">
+   
+    <title>Baskin Robbins</title>
+</head>
+
+
+
+<body>
+
+    <!-- -------------------------------------------------------------------------------------------------
+    --------------------------------------Title Bar----------------------------------------------------
+    ------------------------------------------------------------------------------------------------- -->
+
+    <div class="title primary-dark">
+        <div class="title-img">
+            <img src="https://i.ibb.co/hHQM6Mv/BR-Icon.webp" alt="" style="width: 20%; height: 30px;"><span class="seventh-dark ">Baskin Robbins</span>
+        </div>
+        <input type="checkbox" id="mode">
+    </div>
+
+
+        <!-- -------------------------------------------------------------------------------------------------
+    --------------------------------------Main Content----------------------------------------------------
+    ------------------------------------------------------------------------------------------------- -->
+
+    <div class="main primary-dark">
+        <div class="main-content">
+            <div class="main-text">
+                <p class="first-line text-center">Let's get ordering </p>
+                <p class="second-line text-center"><span class="seventh-dark ">Set your delivery location to <br> get started. </span></p>
+            </div>
+            <div class="locate d-flex">
+                <div id="box1" onclick="geolocation()"><a href="#"><button>Use my Current Location</button></a></div>
+                <div>
+                    <p id="box3" class="seventh-dark"></p></p>
+                </div>
+                <span id="out"></span>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- /* ------------------------------------------------------------------------------------------------
+-------------------------------------Footer----------------------------------------------------
+------------------------------------------------------------------------------------------------ */ -->
+    <footer class="foot text-center primary-dark">
+        <div class="foot1">
+            <img src="https://i.ibb.co/DR6DhQf/footer-landing-new-image-1-7-march-2022.png" alt="" width="15%" class="sixth-dark"><br><br>
+            <p class="foot-head text-muted">Set your location</p>
+            <p class="text-muted">Tell us where you want to
+                get your items delivered</p>
+        </div>
+        <div class="foot2">
+            <img src="https://i.ibb.co/JcpRKTG/footer-landing-new-image-2-7-march-2022.png" alt="" width="15%" class="sixth-dark"><br><br>
+            <p class="foot-head text-muted">Choose your items</p>
+            <p class="text-muted">Add the items you<br>
+                want in your cart</p>
+        </div>
+        <div class="foot3">
+            <img src="https://i.ibb.co/dLs4m7W/footer-landing-new-image-3-7-march-2022.png" alt="" width="15%" class="sixth-dark"><br><br>
+            <p class="foot-head text-muted">Have it delivered instantly</p>
+            <p class="text-muted">Our delivery partners will deliver <br>
+                your order at your doorstep</p>
+        </div>
+    </footer>
+
+    <!-- -----------------------------------------------------------------------------------------
+    ----------------------------------Script--------------------------------------------------
+    ----------------------------------------------------------------------------------------- -->
+
+
+    <script src="/js/index.js"></script>
+    <script>
+        let x = document.getElementById('out');
+        let y = document.getElementById('box3');
+
+        function geolocation() {
+            if (navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(showPosition)
+            } else {
+                x.innerText = "Geo Not Supported"
+            }
+        }
+
+        function showPosition(data) {
+            console.log(data)
+            let lat = data.coords.latitude;
+            let lon = data.coords.longitude;
+            // x.innerText = `Latitude is ${lat} and longitude is ${lon}`
+            const url = `https://api.openweathermap.org/data/2.5/forecast/daily?lat=${lat}&lon=${lon}&mode=json&units=metric&cnt=5&appid=fbf712a5a83d7305c3cda4ca8fe7ef29`;
+            //api calling
+            fetch(url, { method: 'GET' })
+                //return promise
+                .then((res) => res.json())
+                //resolve the promise
+                .then((data) => {
+                    console.log(data)
+                    let cityName = data.city.name;
+                    // let countryName = data.country.name;
+                    let temp = data.list[0].temp.day + "°C"
+                    y.innerHTML = `${temp},${cityName}`
+                })
+        }
+    </script>
+</body>
+
+</html>
