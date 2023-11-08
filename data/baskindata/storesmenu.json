@@ -1,0 +1,258 @@
+[
+    {
+        "menu_id":1,
+        "menu_name": "Plant Sundae",
+        "description": "An edible masterpiece in a crispy waffle pot, layered with Cookies N' Cream and Vanilla ice cream, topped with cookie crumble soil and a white chocolate leaf. Savor the sweet symphony of Plant Sundae magic!",
+        "restaurant_id": 1,
+        "menu_image": "#",
+        "menu_price": "165"
+    },
+     {
+        "menu_id":2,
+        "menu_name": "Snickers Caramel Sundae",
+        "description": "Traditional melt-in-the-mouth Carrot Halwa with timeless Vanilla ice cream, condensed cream adorned with almond crunch. A heartwarming treat indeed!",
+        "restaurant_id": 1,
+        "menu_image": "#",
+        "menu_price": "210"
+    },
+     {
+        "menu_id":3,
+        "menu_name": "Jello Mello ice cream ",
+        "description": "oyful Vanilla icecream loaded with juicy colourful fruit jelly pieces. Get on to this jelly joyride. ",
+        "restaurant_id": 1,
+        "menu_image": "#",
+        "menu_price": "82"
+    },
+     {
+        "menu_id":4,
+        "menu_name": "California Pistachio ice cream ",
+        "description": "Exquisite California pistachio ice cream made with an authentic nutty pistachio paste. This is ultimate pistachio perfection ",
+        "restaurant_id": 1,
+        "menu_image": "#",
+        "menu_price": "94"
+    },
+     {
+        "menu_id":5,
+        "menu_name": "Cookies ‘N Cream arctic ice cream pizza slice ",
+        "description": "Baked ",
+        "restaurant_id": 1,
+        "menu_image": "#",
+        "menu_price": "99"
+    },
+     {
+        "menu_id":6,
+        "menu_name": "Pralines ‘N Cream arctic ice cream pizza slice ",
+        "description": "Baked ",
+        "restaurant_id": 1,
+        "menu_image": "#",
+        "menu_price": "99"
+    },
+     {
+        "menu_id":7,
+        "menu_name": "Mississippi Mud Ice cream",
+        "description": "Delectable chocolate fudge and ice cream, married by a fudge ribbon and sprinkled with brownie pieces. We?ve tripled up on chocolate with this Mississippi Mud flavour! Chocolate overload anyone? ",
+        "restaurant_id": 1,
+        "menu_image": "#",
+        "menu_price": "94"
+    },
+     {
+        "menu_id":8,
+        "menu_name": "Bavarian Chocolate Ice cream",
+        "description": "Rich chocolate based ice cream adorned with chocolate pieces and cashew nut crispies. If it?s Bavarian Chocolate flavour then it?s gotta be sinful and intensely indulgent. Throw in a bit of crunch and you?ve got a truly divine chocolate ice cream treat. ",
+        "restaurant_id": 1,
+        "menu_image": "#",
+        "menu_price": "94"
+    },
+     {
+        "menu_id":9,
+        "menu_name": "Mint Milk Chocolate Chips Ice cream",
+        "description": "An ice cream that tells the mint and chocolate love story like no other. This classic ice cream is a marriage of Mint and Milk Chocolate pieces. ",
+        "restaurant_id": 1,
+        "menu_image": "#",
+        "menu_price": "94"
+    },
+     {
+        "menu_id":10,
+        "menu_name": "Gold Medal Ribbon Ice cream",
+        "description": "A heavenly medley of vanilla and chocolate, embraced by a caramel ribbon. This vanilla and chocolate combo is our dream team! A thick, deep caramel ribbon intertwines the two flavours together in perfection. ",
+        "restaurant_id": 1,
+        "menu_image": "#",
+        "menu_price": "94"
+    },
+     {
+        "menu_id":11,
+        "menu_name": "Dutch Chocolate Ice cream",
+        "description": "Tempting chocolate ice cream with a distinct hint of cocoa. The mother of every chocolate ice cream creation of ours. ",
+        "restaurant_id": 1,
+        "menu_image": "#",
+        "menu_price": "82"
+    },
+     {
+        "menu_id":12,
+        "menu_name": "Chocolate Mousse Royale Ice cream",
+        "description": "Mischievous chocolate chips playing peekaboo with frozen chocolate mousse dessert. There?s no such thing as too much chocolate is there? How about you triple up on this cool chocolate Chip Mousse ice cream with a chocolate waffle cone? ",
+        "restaurant_id": 1,
+        "menu_image": "#",
+        "menu_price": "70"
+    },
+     {
+        "menu_id":13,
+        "menu_name": "Chocolate Almond Praline Ice cream",
+        "description": "Praline coated Almonds peeping out of Dark Chocolate ice cream (Contains milk & tree nuts (Almond)",
+        "restaurant_id": 1,
+        "menu_image": "#",
+        "menu_price": "94"
+    },
+     {
+        "menu_id":14,
+        "menu_name": "Butterscotch Fudge with Cookie Crumble",
+        "description": "Creamy Butterscotch ice cream with a swirly butterscotch ribbon, and loaded with Oreo cookie crumble. Perfection in a scoop!",
+        "restaurant_id": 1,
+        "menu_image": "#",
+        "menu_price": "94"
+    },
+     {
+        "menu_id":15,
+        "menu_name": "Classic Fudge Roll Cake",
+        "description": "This ice cream roll cake is a classic combination of vanilla ice cream wrapped in chocolate sponge & covered with chocolate fudge and almonds",
+        "restaurant_id": 1,
+        "menu_image": "#",
+        "menu_price": "753"
+    },
+	{
+        "menu_id":16,
+        "menu_name": "Bavarian Knight Roll Cake",
+        "description": "Bavarian Chocolate ice cream wrapped in chocolate sponge & covered with chocolate fudge and almonds. Chocolate, chocolate and then some more chocolate. This ice cream roll cake sounds perfect, doesn?t it? ",
+        "restaurant_id": 1,
+        "menu_image": "#",
+        "menu_price": "753"
+    },
+	{
+        "menu_id":17,
+        "menu_name": "Red Velvet Roll Cake",
+        "description": "Red Velvet ice cream wrapped in red velvet marble cake & white chocolate truffle, drizzled with red velvet and white chocolate confectionery. This white chocolate and red velvet ice cream roll cake will have you dreaming of Christmas! ",
+        "restaurant_id": 1,
+        "menu_image": "#",
+        "menu_price": "753"
+    },
+	{
+        "menu_id":18,
+        "menu_name": "Black Forest Cake",
+        "description": "A classic yet everyone's favourite. Layers of black forest ice cream with chocolate sponge cake, topped with dark chocolate shavings and sweet cherries. Do invite it to your next party! ",
+        "restaurant_id": 1,
+        "menu_image": "#",
+        "menu_price": "592"
+    },
+	{
+        "menu_id":19,
+        "menu_name": "Cotton Candy Cake",
+        "description": "A delicious 4 decker cake made with 2 layers of rich vanilla sponge cake intertwined with all-time-favourite cotton candy ice cream. Garnished with dark chocolate cigars and chocolate coated crispies. A treat for your eyes and taste buds! ",
+        "restaurant_id": 1,
+        "menu_image": "#",
+        "menu_price": "592"
+    },
+	{
+        "menu_id":20,
+        "menu_name": "Red Velvet Fantasy Cake",
+        "description": "A divine combo of soft red velvet?cake?intertwined with creamy Cookies n Cream ice cream topped with cookies and Red velvet?cake?crumble.? ",
+        "restaurant_id": 1,
+        "menu_image": "#",
+        "menu_price": "617"
+    },
+	{
+        "menu_id":21,
+        "menu_name": "Blueberry Cheesecake",
+        "description": "A beautiful biscuit crumble base layered with delicious cheesecake ice cream. Add to it another layer of fluffy vanilla sponge cake and some more cheesecake ice cream. Adorned with exotic blueberries and whipped cream. Get transported to NY! ",
+        "restaurant_id": 1,
+        "menu_image": "#",
+        "menu_price": "617"
+    },
+	{
+        "menu_id":22,
+        "menu_name": "Pineapple Cake",
+        "description": "A 4 decker cake made with alternate layers of super moist vanilla sponge cake and succulent pineapple ice cream. Garnished with white chocolate and whipped cream swirls. Pineapple cakes never run out of fashion! ",
+        "restaurant_id": 1,
+        "menu_image": "#",
+        "menu_price": "617"
+    },
+	{
+        "menu_id":23,
+        "menu_name": "Choco Lava Cake Sundae (Chocolate)",
+        "description": "For the love of Choco Lava! Soft chocolate sponge cake with a sinful scoop of Dutch Chocolate ice cream, drizzled with chocolate sauce and topped with chopped almonds. Oh, and did we mention that it comes with gooey chocolate sauce in the middle? ",
+        "restaurant_id": 1,
+        "menu_image": "#",
+        "menu_price": "199"
+    },
+	{
+        "menu_id":24,
+        "menu_name": "Plant Sundae",
+        "description": "An edible masterpiece in a crispy waffle pot, layered with Cookies N' Cream and Vanilla ice cream, topped with cookie crumble soil and a white chocolate leaf. Savor the sweet symphony of Plant Sundae magic! ",
+        "restaurant_id": 1,
+        "menu_image": "#",
+        "menu_price": "165"
+    },
+	{
+        "menu_id":25,
+        "menu_name": "Nutty Professor",
+        "description": "We made sure this treat is as nutty as its name. Crunchy Californian almond ice cream paired generously with nuts, almonds, cashews, and raisins drowning in a delicious hot fudge sauce and topped off with whipped cream. Going nutty has never been this fun before. ",
+        "restaurant_id": 1,
+        "menu_image": "#",
+        "menu_price": "240"
+    },
+	{
+        "menu_id":26,
+        "menu_name": "Mermaid Sundae",
+        "description": "Chocolate mermaid toppers with multicolored sprinkles on your choice of ice cream. A fairytale sundae! ",
+        "restaurant_id": 1,
+        "menu_image": "#",
+        "menu_price": "157"
+    },
+	{
+        "menu_id":27,
+        "menu_name": "Unicorn Sundaes",
+        "description": "Chocolate unicorn toppers with multicolored sprinkles on your choice of icecream. There's magic in every bite!Chocolate unicorn toppers with multicolored sprinkles on your choice of icecream. There's magic in every bite! ",
+        "restaurant_id": 1,
+        "menu_image": "#",
+        "menu_price": "157"
+    },
+	{
+        "menu_id":28,
+        "menu_name": "Carrot Halwa Sundae",
+        "description": "Traditional melt-in-the-mouth Carrot Halwa with timeless Vanilla ice cream, condensed cream adorned with almond crunch. A heartwarming treat indeed! ",
+        "restaurant_id": 1,
+        "menu_image": "#",
+        "menu_price": "210"
+    },
+	{
+        "menu_id":29,
+        "menu_name": "Snickers Caramel Milkshake",
+        "description": "Snickers caramel ice cream blended with Snickers chocolate chunks and creamy vanilla milk. Grab your snickers snack today! ",
+        "restaurant_id": 1,
+        "menu_image": "#",
+        "menu_price": "295"
+    },
+	{
+        "menu_id":30,
+        "menu_name": "Bavarian Chocolate Milkshake",
+        "description": "An intensely indulgent chocolate milkshake with ice cream, chocolate pieces, and cashew nut crispies. Crunchy, divine, and sinful all at once! ",
+        "restaurant_id": 1,
+        "menu_image": "#",
+        "menu_price": "255"
+    },
+	{
+        "menu_id":31,
+        "menu_name": "Roasted Californian Almond Milkshake",
+        "description": "A delightful milkshake made with Vanilla ice cream, a caramel ribbon, and almond praline. A flavour you’re not likely to forget ",
+        "restaurant_id": 1,
+        "menu_image": "#",
+        "menu_price": "255"
+    },
+	{
+        "menu_id":32,
+        "menu_name": "Snickers Dutch Chocolate Milkshake",
+        "description": "Decadent Dutch chocolate ice cream blended with Snickers chocolate chunks and creamy vanilla milk. Snack on snickers milkshake today ",
+        "restaurant_id": 1,
+        "menu_image": "#",
+        "menu_price": "275"
+    }
+]
