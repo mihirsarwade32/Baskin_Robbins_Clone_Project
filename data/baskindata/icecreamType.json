@@ -1,0 +1,42 @@
+[
+    {
+        "icecream_id": 1,
+        "icecreamtype": "Mississippi Mud Ice cream",
+        "meal_image": "https://i.ibb.co/QjLN3SN/Mississippi-Mud-jpg.jpg"
+    },
+    {
+        "icecream_id": 2,
+        "icecreamtype": "Bavarian Chocolate Ice cream",
+        "meal_image": "https://i.ibb.co/qpdqNYd/image-0061-Bavarian-Chocolate-cups-jpg.jpg"
+    },
+    {
+        "icecream_id": 3,
+        "icecreamtype": "Mint Milk Chocolate Chips Ice cream",
+        "meal_image": "https://i.ibb.co/3sZyBF7/Mint-Milk-Chocolate-jpg.jpg"
+    },
+    {
+        "icecream_id": 4,
+        "icecreamtype": "Gold Medal Ribbon Ice cream",
+        "meal_image": "https://i.ibb.co/J5Hcytb/Gold-Medal-Ribbon-Ice-cream.jpg"
+    },
+    {
+        "icecream_id": 5,
+        "icecreamtype": "Dutch Chocolate Ice cream",
+        "meal_image": "https://i.ibb.co/VpBt6wc/Dutch-Chocolate-Ice-cream.jpg"
+    },
+{
+        "icecream_id": 6,
+        "icecreamtype": "Chocolate Mousse Royale Ice cream",
+        "meal_image": "https://i.ibb.co/NpydNLk/Chocolate-Almond-Praline-Ice-cream.jpg"
+    },
+{
+        "icecream_id": 7,
+        "icecreamtype": "Chocolate Almond Praline Ice cream",
+        "meal_image": "https://i.ibb.co/7CthNQW/image-0053-Chocolate-Almond-Praline-Cup-jpg.jpg"
+    },
+{
+        "icecream_id": 8,
+        "icecreamtype": "Butterscotch Fudge with Cookie Crumble",
+        "meal_image": "https://i.ibb.co/rZRYGTc/Butterscotch-Fudge-with-Cookie-Crumble.jpg"
+    }
+]
