@@ -1,21 +1,25 @@
 [
     {
         "beverages_id": 1,
+        "category_id": 5,
         "beveragestype": "Snickers Caramel Milkshake",
         "meal_image": "https://i.ibb.co/PZDZTXw/Snickers-Caramel-Milkshake.jpg"
     },
     {
         "beverages_id": 2,
+        "category_id": 5,
         "beveragestype": "Bavarian Chocolate Milkshake",
         "meal_image": "https://i.ibb.co/k0hc8JK/Bavarian-Chocolate-Milkshake.jpg"
     },
     {
         "beverages_id": 3,
+        "category_id": 5,
         "beveragestype": "Roasted Californian Almond Milkshake",
         "meal_image": "https://i.ibb.co/TmxHLYX/Roasted-Californian-Almond-Milkshake.jpg"
     },
     {
         "beverages_id": 4,
+        "category_id": 5,
         "beveragestype": "Snickers Dutch Chocolate Milkshake",
         "meal_image": "https://i.ibb.co/Th5sNzV/Snickers-Dutch-Chocolate-Milkshake.jpg"
     }

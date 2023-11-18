@@ -1,31 +1,37 @@
 [
     {
         "sundaes_id": 1,
+        "category_id": 4,
         "sundaestype": "Choco Lava Cake Sundae (Chocolate)",
         "meal_image": "https://i.ibb.co/BVWgD1f/Choco-Lava-Cake-Sundae-Chocolate.jpg"
     },
     {
         "sundaes_id": 2,
+        "category_id": 4,
         "sundaestype": "Plant Sundae",
         "meal_image": "https://i.ibb.co/fvbWWNW/Plant-Sundae-jpg.jpg"
     },
     {
         "sundaes_id": 3,
+        "category_id": 4,
         "sundaestype": "Nutty Professor",
         "meal_image": "https://i.ibb.co/bRwnwKn/Nutty-Professor.jpg"
     },
     {
         "sundaes_id": 4,
+        "category_id": 4,
         "sundaestype": "Mermaid Sundae",
         "meal_image": "https://i.ibb.co/ZmK2L01/Mermaid-Sundae.jpg"
     },
     {
         "sundaes_id": 5,
+        "category_id": 4,
         "sundaestype": "Unicorn Sundaes",
         "meal_image": "https://i.ibb.co/KsBCXKM/Unicorn-Sundaes.jpg"
     },
-{
+    {
         "sundaes_id": 6,
+        "category_id": 4,
         "sundaestype": "Carrot Halwa Sundae",
         "meal_image": "https://i.ibb.co/Yttt7Jc/Carrot-Halwa-Sundae.jpg"
     }

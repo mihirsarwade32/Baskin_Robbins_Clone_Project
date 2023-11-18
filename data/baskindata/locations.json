@@ -1,317 +1,317 @@
 [
-    {
-            "location_id": 1,
-            "location_name": "Shop No.4, Daffodils Apts, Bhawani Nagar, Marol Maroshi Road, Mumbai",
-            "state_id": 1,
-            "state": "Maharashtra",
-            "country_name": "India"
-          },
-          {
-            "location_id": 2,
-            "location_name": "Ground Floor, Satyam Apts, Jetalpur Rd, beside Narayan Jewellers, Vadodara",
-            "state_id": 2,
-            "state": "Gujrat",
-            "country_name": "India"
-          },
-          {
-            "location_id": 3,
-            "location_name": "3rd Food Court, D B Mall, Arera Hills, Maharana Pratap Nagar, Bhopal",
-            "state_id": 3,
-            "state": "Madhya Pradesh",
-            "country_name": "India"
-          },
-          {
-            "location_id": 4,
-            "location_name": "25, 2, Millers Rd, next to Imperial Hotel, Vasanth Nagar, Bengaluru",
-            "state_id": 4,
-            "state": "Karnataka",
-            "country_name": "India"
-          },
-          {
-            "location_id": 5,
-            "location_name": "Digholi Pukhuri, MG Rd, Latasil, Uzan Bazar, Guwahati",
-            "state_id": 5,
-            "state": "Assam",
-            "country_name": "India"
-          },
-          {
-            "location_id": 6,
-            "location_name": "LGF B1-B4, Antas Mall, Extensions, Sector 1, Gomti Nagar, Lucknow",
-            "state_id": 6,
-            "state": "Uttar Pradesh",
-            "country_name": "India"
-          },
-          {
-            "location_id": 7,
-            "location_name": "Kapurthala-Jalandhar Road Mansurwal Dona, near Matka Market, Kapurthala",
-            "state_id": 7,
-            "state": "Punjab",
-            "country_name": "India"
-          },
-          {
-            "location_id": 8,
-            "location_name": "GROUNR FLOOR, ANAGHA BUILDING, Shihab Thangal Road, Kochi",
-            "state_id": 8,
-            "state": "Kerala",
-            "country_name": "India"
-          },
-          {
-            "location_id": 9,
-            "location_name": "137, Sri Santham Complex, Sarada College Rd, New Fairlands, Alagapuram Periyaputhur, Salem",
-            "state_id": 9,
-            "state": "Tamil Nadu",
-            "country_name": "India"
-          },
-          {
-            "location_id": 10,
-            "location_name": "Shop No. G 11, Khivansara Park Maiyfair Building, Ulkanagari, Aurangabad",
-            "state_id": 1,
-            "state": "Maharashtra",
-            "country_name": "India"
-          },
-          {
-            "location_id": 11,
-            "location_name": "Shop No -5, Kusum Plaza, Nagala Park, Kolhapur",
-            "state_id": 1,
-            "state": "Maharashtra",
-            "country_name": "India"
-          },
-          {
-            "location_id": 12,
-            "location_name": "Plot 38/11, P Jrd, chinchwad east, Pune",
-            "state_id": 1,
-            "state": "Maharashtra",
-            "country_name": "India"
-          },
-          {
-            "location_id": 13,
-            "location_name": "City Centre Mall, 3rd floor, Untwadi Road, Untwadi, Nashik",
-            "state_id": 1,
-            "state": "Maharashtra",
-            "country_name": "India"
-          },
-          {
-            "location_id": 14,
-            "location_name": "365-1, Sadat Apartments, Dargah Road, Near Domino's, Kershap Road, opposite Arvind Nagar, Lunsikui, Navsari",
-            "state_id": 2,
-            "state": "Gujrat",
-            "country_name": "India"
-          },
-          {
-            "location_id": 15,
-            "location_name": "Anu Enterprise, Shop No - 34, Super Mall - 2, Near GH-0 Circle, Infocity Rd, Infocity, Gandhinagar",
-            "state_id": 2,
-            "state": "Gujrat",
-            "country_name": "India"
-          },
-          {
-            "location_id": 16,
-            "location_name": "Ahmedabad One Mall, Kiosk 1, 3rd Floor Food Court, opp. TRENDS, Vastrapur, Ahmedabad",
-            "state_id": 2,
-            "state": "Gujrat",
-            "country_name": "India"
-          },
-          {
-            "location_id": 17,
-            "location_name": "Madina Masjid Rd, POLOGROUND, Alkapuri, Himatnagar",
-            "state_id": 2,
-            "state": "Gujrat",
-            "country_name": "India"
-          },
-          {
-            "location_id": 18,
-            "location_name": "5, The ONE, Block B, RNT Marg, opposite DAVV, South Tukoganj, Indore",
-            "state_id": 3,
-            "state": "Madhya Pradesh",
-            "country_name": "India"
-          },
-          {
-            "location_id": 19,
-            "location_name": "Parbha complex, Katanga, Narmada road, Katanga Rd, next to Allahabad Bank, Jabalpur",
-            "state_id": 3,
-            "state": "Madhya Pradesh",
-            "country_name": "India"
-          },
-          {
-            "location_id": 20,
-            "location_name": "She Lounge Market No. 10, E-4, Arera Colony, Bhopal",
-            "state_id": 3,
-            "state": "Madhya Pradesh",
-            "country_name": "India"
-          },
-          {
-            "location_id": 21,
-            "location_name": "Satkar Square, Parasia Rd, Chhindwara",
-            "state_id": 3,
-            "state": "Madhya Pradesh",
-            "country_name": "India"
-          },
-          {
-            "location_id": 22,
-            "location_name": "SNS Chambers, Mass Business World Sadashivnagar 239, G-4, Sankey Rd, Bengaluru",
-            "state_id": 4,
-            "state": "Karnataka",
-            "country_name": "India"
-          },
-          {
-            "location_id": 23,
-            "location_name": "1st & 2nd floor, Nelson Mandela Rd, Bannimantap A Layout, Mysuru",
-            "state_id": 4,
-            "state": "Karnataka",
-            "country_name": "India"
-          },
-          {
-            "location_id": 24,
-            "location_name": "Balmatta Rd, Hampankatta, Mangaluru",
-            "state_id": 4,
-            "state": "Karnataka",
-            "country_name": "India"
-          },
-          {
-            "location_id": 25,
-            "location_name": "Station Rd, Azad Nagar, Raichur",
-            "state_id": 4,
-            "state": "Karnataka",
-            "country_name": "India"
-          },
-          {
-            "location_id": 26,
-            "location_name": "Nitu Enterprise Baskin Robbins, Tengapara, Kokrajhar",
-            "state_id": 5,
-            "state": "Assam",
-            "country_name": "India"
-          },
-          {
-            "location_id": 27,
-            "location_name": "Professors Colony, Palashani, Nagaon",
-            "state_id": 5,
-            "state": "Assam",
-            "country_name": "India"
-          },
-          {
-            "location_id": 28,
-            "location_name": "Royal Arcade, Shop No. LG-02, below Tanishq Showroom, Gar-Ali, Jorhat",
-            "state_id": 5,
-            "state": "Assam",
-            "country_name": "India"
-          },
-          {
-            "location_id": 29,
-            "location_name": "NH37, near paper mill, Jagiroad",
-            "state_id": 5,
-            "state": "Assam",
-            "country_name": "India"
-          },
-          {
-            "location_id": 30,
-            "location_name": "M/s Pandit Restaurant, Kiosk Ground Floor Pandit Restaurant, Mall Rd, Kanpur",
-            "state_id": 6,
-            "state": "Uttar Pradesh",
-            "country_name": "India"
-          },
-          {
-            "location_id": 31,
-            "location_name": "Avas vikash colony bharatpuri, Circular Rd, Gonda, Uttar Pradesh",
-            "state_id": 6,
-            "state": "Uttar Pradesh",
-            "country_name": "India"
-          },
-          {
-            "location_id": 32,
-            "location_name": "Shop no.4 Food Court Sagar Ratna, NH 58, Muzaffarnagar",
-            "state_id": 6,
-            "state": "Uttar Pradesh",
-            "country_name": "India"
-          },
-          {
-            "location_id": 33,
-            "location_name": "S-72 Kisan Bazzar, Vibhuti Khand, Gomti Nagar, Lucknow",
-            "state_id": 6,
-            "state": "Uttar Pradesh",
-            "country_name": "India"
-          },
-          {
-            "location_id": 34,
-            "location_name": "QHF4+4X9, Dashmesh Enclave Ludhiana - Chandigarh, National Highway, Gharuan",
-            "state_id": 7,
-            "state": "Punjab",
-            "country_name": "India"
-          },
-          {
-            "location_id": 35,
-            "location_name": "Unit No. S-019 A, 2nd floor Mall of Amritsar , MBM Farm, Grand Trunk Rd, Amritsar",
-            "state_id": 7,
-            "state": "Punjab",
-            "country_name": "India"
-          },
-          {
-            "location_id": 36,
-            "location_name": "M-13 New jawhar nagar ,Chunmun Mall, Model Town, Jalandhar",
-            "state_id": 7,
-            "state": "Punjab",
-            "country_name": "India"
-          },
-          {
-            "location_id": 37,
-            "location_name": "SCO-79, MARKET, near SUBWAY, Phase 2, Urban Estate phase II, Jalandhar",
-            "state_id": 7,
-            "state": "Punjab",
-            "country_name": "India"
-          },
-          {
-            "location_id": 38,
-            "location_name": "Veerath Complex Civil Line Road, near Telephone Exchange, Sonia Nagar, Palarivattom, Ernakulam",
-            "state_id": 8,
-            "state": "Kerala",
-            "country_name": "India"
-          },
-          {
-            "location_id": 39,
-            "location_name": "C Achutha Menon Rd, opposite Omega tyres and granites, Punkunnam, Thrissur",
-            "state_id": 8,
-            "state": "Kerala",
-            "country_name": "India"
-          },
-          {
-            "location_id": 40,
-            "location_name": "4th Floor, Gokulam Galleria Mall, near Federal Bank Tower, Near Federal Tower, Arayidathupalam, Kozhikode,",
-            "state_id": 8,
-            "state": "Kerala",
-            "country_name": "India"
-          },
-          {
-            "location_id": 41,
-            "location_name": "2nd Floor, Food Court, Lulu Mall TVM, Kochuveli, Akkulam Bridge, Anayara Post, Thiruvananthapuram",
-            "state_id": 8,
-            "state": "Kerala",
-            "country_name": "India"
-          },
-          {
-            "location_id": 42,
-            "location_name": "27, Bazullah Road Old Airtel Showroom Building, Parthasarathi Puram, T. Nagar, Chennai",
-            "state_id": 9,
-            "state": "Tamil Nadu",
-            "country_name": "India"
-          },
-          {
-            "location_id": 43,
-            "location_name": "4/945, Vandiyur Main Rd, Anna Nagar, Madurai",
-            "state_id": 9,
-            "state": "Tamil Nadu",
-            "country_name": "India"
-          },
-          {
-            "location_id": 44,
-            "location_name": "102/1B Co -Operative Street, Mohanur - Namakkal Rd, Namakkal",
-            "state_id": 9,
-            "state": "Tamil Nadu",
-            "country_name": "India"
-          },
-          {
-            "location_id": 45,
-            "location_name": "B10, Shastri Rd, North East Extension, Tennur, Tiruchirappalli",
-            "state_id": 9,
-            "state": "Tamil Nadu",
-            "country_name": "India"
-          }
-    ]
+  {
+    "location_id": 1,
+    "location_name": "Shop No.4, Daffodils Apts, Bhawani Nagar, Marol Maroshi Road, Mumbai",
+    "state_id": 1,
+    "state": "Maharashtra",
+    "country_name": "India"
+  },
+  {
+    "location_id": 2,
+    "location_name": "Ground Floor, Satyam Apts, Jetalpur Rd, beside Narayan Jewellers, Vadodara",
+    "state_id": 2,
+    "state": "Gujrat",
+    "country_name": "India"
+  },
+  {
+    "location_id": 3,
+    "location_name": "3rd Food Court, D B Mall, Arera Hills, Maharana Pratap Nagar, Bhopal",
+    "state_id": 3,
+    "state": "Madhya Pradesh",
+    "country_name": "India"
+  },
+  {
+    "location_id": 4,
+    "location_name": "25, 2, Millers Rd, next to Imperial Hotel, Vasanth Nagar, Bengaluru",
+    "state_id": 4,
+    "state": "Karnataka",
+    "country_name": "India"
+  },
+  {
+    "location_id": 5,
+    "location_name": "Digholi Pukhuri, MG Rd, Latasil, Uzan Bazar, Guwahati",
+    "state_id": 5,
+    "state": "Assam",
+    "country_name": "India"
+  },
+  {
+    "location_id": 6,
+    "location_name": "LGF B1-B4, Antas Mall, Extensions, Sector 1, Gomti Nagar, Lucknow",
+    "state_id": 6,
+    "state": "Uttar Pradesh",
+    "country_name": "India"
+  },
+  {
+    "location_id": 7,
+    "location_name": "Kapurthala-Jalandhar Road Mansurwal Dona, near Matka Market, Kapurthala",
+    "state_id": 7,
+    "state": "Punjab",
+    "country_name": "India"
+  },
+  {
+    "location_id": 8,
+    "location_name": "GROUNR FLOOR, ANAGHA BUILDING, Shihab Thangal Road, Kochi",
+    "state_id": 8,
+    "state": "Kerala",
+    "country_name": "India"
+  },
+  {
+    "location_id": 9,
+    "location_name": "137, Sri Santham Complex, Sarada College Rd, New Fairlands, Alagapuram Periyaputhur, Salem",
+    "state_id": 9,
+    "state": "Tamil Nadu",
+    "country_name": "India"
+  },
+  {
+    "location_id": 10,
+    "location_name": "Shop No. G 11, Khivansara Park Maiyfair Building, Ulkanagari, Aurangabad",
+    "state_id": 1,
+    "state": "Maharashtra",
+    "country_name": "India"
+  },
+  {
+    "location_id": 11,
+    "location_name": "Shop No -5, Kusum Plaza, Nagala Park, Kolhapur",
+    "state_id": 1,
+    "state": "Maharashtra",
+    "country_name": "India"
+  },
+  {
+    "location_id": 12,
+    "location_name": "Plot 38/11, P Jrd, chinchwad east, Pune",
+    "state_id": 1,
+    "state": "Maharashtra",
+    "country_name": "India"
+  },
+  {
+    "location_id": 13,
+    "location_name": "City Centre Mall, 3rd floor, Untwadi Road, Untwadi, Nashik",
+    "state_id": 1,
+    "state": "Maharashtra",
+    "country_name": "India"
+  },
+  {
+    "location_id": 14,
+    "location_name": "365-1, Sadat Apartments, Dargah Road, Near Domino's, Kershap Road, opposite Arvind Nagar, Lunsikui, Navsari",
+    "state_id": 2,
+    "state": "Gujrat",
+    "country_name": "India"
+  },
+  {
+    "location_id": 15,
+    "location_name": "Anu Enterprise, Shop No - 34, Super Mall - 2, Near GH-0 Circle, Infocity Rd, Infocity, Gandhinagar",
+    "state_id": 2,
+    "state": "Gujrat",
+    "country_name": "India"
+  },
+  {
+    "location_id": 16,
+    "location_name": "Ahmedabad One Mall, Kiosk 1, 3rd Floor Food Court, opp. TRENDS, Vastrapur, Ahmedabad",
+    "state_id": 2,
+    "state": "Gujrat",
+    "country_name": "India"
+  },
+  {
+    "location_id": 17,
+    "location_name": "Madina Masjid Rd, POLOGROUND, Alkapuri, Himatnagar",
+    "state_id": 2,
+    "state": "Gujrat",
+    "country_name": "India"
+  },
+  {
+    "location_id": 18,
+    "location_name": "5, The ONE, Block B, RNT Marg, opposite DAVV, South Tukoganj, Indore",
+    "state_id": 3,
+    "state": "Madhya Pradesh",
+    "country_name": "India"
+  },
+  {
+    "location_id": 19,
+    "location_name": "Parbha complex, Katanga, Narmada road, Katanga Rd, next to Allahabad Bank, Jabalpur",
+    "state_id": 3,
+    "state": "Madhya Pradesh",
+    "country_name": "India"
+  },
+  {
+    "location_id": 20,
+    "location_name": "She Lounge Market No. 10, E-4, Arera Colony, Bhopal",
+    "state_id": 3,
+    "state": "Madhya Pradesh",
+    "country_name": "India"
+  },
+  {
+    "location_id": 21,
+    "location_name": "Satkar Square, Parasia Rd, Chhindwara",
+    "state_id": 3,
+    "state": "Madhya Pradesh",
+    "country_name": "India"
+  },
+  {
+    "location_id": 22,
+    "location_name": "SNS Chambers, Mass Business World Sadashivnagar 239, G-4, Sankey Rd, Bengaluru",
+    "state_id": 4,
+    "state": "Karnataka",
+    "country_name": "India"
+  },
+  {
+    "location_id": 23,
+    "location_name": "1st & 2nd floor, Nelson Mandela Rd, Bannimantap A Layout, Mysuru",
+    "state_id": 4,
+    "state": "Karnataka",
+    "country_name": "India"
+  },
+  {
+    "location_id": 24,
+    "location_name": "Balmatta Rd, Hampankatta, Mangaluru",
+    "state_id": 4,
+    "state": "Karnataka",
+    "country_name": "India"
+  },
+  {
+    "location_id": 25,
+    "location_name": "Station Rd, Azad Nagar, Raichur",
+    "state_id": 4,
+    "state": "Karnataka",
+    "country_name": "India"
+  },
+  {
+    "location_id": 26,
+    "location_name": "Nitu Enterprise Baskin Robbins, Tengapara, Kokrajhar",
+    "state_id": 5,
+    "state": "Assam",
+    "country_name": "India"
+  },
+  {
+    "location_id": 27,
+    "location_name": "Professors Colony, Palashani, Nagaon",
+    "state_id": 5,
+    "state": "Assam",
+    "country_name": "India"
+  },
+  {
+    "location_id": 28,
+    "location_name": "Royal Arcade, Shop No. LG-02, below Tanishq Showroom, Gar-Ali, Jorhat",
+    "state_id": 5,
+    "state": "Assam",
+    "country_name": "India"
+  },
+  {
+    "location_id": 29,
+    "location_name": "NH37, near paper mill, Jagiroad",
+    "state_id": 5,
+    "state": "Assam",
+    "country_name": "India"
+  },
+  {
+    "location_id": 30,
+    "location_name": "M/s Pandit Restaurant, Kiosk Ground Floor Pandit Restaurant, Mall Rd, Kanpur",
+    "state_id": 6,
+    "state": "Uttar Pradesh",
+    "country_name": "India"
+  },
+  {
+    "location_id": 31,
+    "location_name": "Avas vikash colony bharatpuri, Circular Rd, Gonda, Uttar Pradesh",
+    "state_id": 6,
+    "state": "Uttar Pradesh",
+    "country_name": "India"
+  },
+  {
+    "location_id": 32,
+    "location_name": "Shop no.4 Food Court Sagar Ratna, NH 58, Muzaffarnagar",
+    "state_id": 6,
+    "state": "Uttar Pradesh",
+    "country_name": "India"
+  },
+  {
+    "location_id": 33,
+    "location_name": "S-72 Kisan Bazzar, Vibhuti Khand, Gomti Nagar, Lucknow",
+    "state_id": 6,
+    "state": "Uttar Pradesh",
+    "country_name": "India"
+  },
+  {
+    "location_id": 34,
+    "location_name": "QHF4+4X9, Dashmesh Enclave Ludhiana - Chandigarh, National Highway, Gharuan",
+    "state_id": 7,
+    "state": "Punjab",
+    "country_name": "India"
+  },
+  {
+    "location_id": 35,
+    "location_name": "Unit No. S-019 A, 2nd floor Mall of Amritsar , MBM Farm, Grand Trunk Rd, Amritsar",
+    "state_id": 7,
+    "state": "Punjab",
+    "country_name": "India"
+  },
+  {
+    "location_id": 36,
+    "location_name": "M-13 New jawhar nagar ,Chunmun Mall, Model Town, Jalandhar",
+    "state_id": 7,
+    "state": "Punjab",
+    "country_name": "India"
+  },
+  {
+    "location_id": 37,
+    "location_name": "SCO-79, MARKET, near SUBWAY, Phase 2, Urban Estate phase II, Jalandhar",
+    "state_id": 7,
+    "state": "Punjab",
+    "country_name": "India"
+  },
+  {
+    "location_id": 38,
+    "location_name": "Veerath Complex Civil Line Road, near Telephone Exchange, Sonia Nagar, Palarivattom, Ernakulam",
+    "state_id": 8,
+    "state": "Kerala",
+    "country_name": "India"
+  },
+  {
+    "location_id": 39,
+    "location_name": "C Achutha Menon Rd, opposite Omega tyres and granites, Punkunnam, Thrissur",
+    "state_id": 8,
+    "state": "Kerala",
+    "country_name": "India"
+  },
+  {
+    "location_id": 40,
+    "location_name": "4th Floor, Gokulam Galleria Mall, near Federal Bank Tower, Near Federal Tower, Arayidathupalam, Kozhikode,",
+    "state_id": 8,
+    "state": "Kerala",
+    "country_name": "India"
+  },
+  {
+    "location_id": 41,
+    "location_name": "2nd Floor, Food Court, Lulu Mall TVM, Kochuveli, Akkulam Bridge, Anayara Post, Thiruvananthapuram",
+    "state_id": 8,
+    "state": "Kerala",
+    "country_name": "India"
+  },
+  {
+    "location_id": 42,
+    "location_name": "27, Bazullah Road Old Airtel Showroom Building, Parthasarathi Puram, T. Nagar, Chennai",
+    "state_id": 9,
+    "state": "Tamil Nadu",
+    "country_name": "India"
+  },
+  {
+    "location_id": 43,
+    "location_name": "4/945, Vandiyur Main Rd, Anna Nagar, Madurai",
+    "state_id": 9,
+    "state": "Tamil Nadu",
+    "country_name": "India"
+  },
+  {
+    "location_id": 44,
+    "location_name": "102/1B Co -Operative Street, Mohanur - Namakkal Rd, Namakkal",
+    "state_id": 9,
+    "state": "Tamil Nadu",
+    "country_name": "India"
+  },
+  {
+    "location_id": 45,
+    "location_name": "B10, Shastri Rd, North East Extension, Tennur, Tiruchirappalli",
+    "state_id": 9,
+    "state": "Tamil Nadu",
+    "country_name": "India"
+  }
+]

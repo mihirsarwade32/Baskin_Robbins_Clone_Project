@@ -1,32 +1,38 @@
 [
     {
         "newlylaunched_id": 1,
+        "category_id":1,
         "newlylaunchedtype": "Plant Sundae",
         "meal_image": "https://i.ibb.co/fvbWWNW/Plant-Sundae-jpg.jpg"
     },
     {
         "newlylaunched_id": 2,
+        "category_id":1,
         "newlylaunchedtype": "Snickers Caramel Sundae",
         "meal_image": "https://i.ibb.co/h2cthPt/Snickers-Caramel-Sundae-jpg.jpg"
     },
     {
         "newlylaunched_id": 3,
+        "category_id":1,
         "newlylaunchedtype": "Jello Mello ice cream",
         "meal_image": "https://i.ibb.co/mRv42FX/Jello-Mello-jpg.jpg"
     },
     {
         "newlylaunched_id": 4,
+        "category_id":1,
         "newlylaunchedtype": "California Pistachio ice cream",
         "meal_image": "https://i.ibb.co/1KjcbN8/californina-pistacho.jpg"
     },
     {
         "newlylaunched_id": 5,
-        "newlylaunchedtype": "Cookies ‘N Cream arctic ice cream pizza slice",
+        "category_id":1,
+        "newlylaunchedtype": "Cookies 'N Cream arctic ice cream pizza slice",
         "meal_image": "https://i.ibb.co/kmrf2VB/Cookies-N-Cream-arctic-ice-cream-pizza-slice.jpg"
     },
 {
         "newlylaunched_id": 6,
-        "newlylaunchedtype": "Pralines ‘N Cream arctic ice cream pizza slice",
+        "category_id":1,
+        "newlylaunchedtype": "Pralines 'N Cream arctic ice cream pizza slice",
         "meal_image": "https://i.ibb.co/J7pwD5g/Homepage-product-r1-30-copy-jpg.jpg"
     }
 ]

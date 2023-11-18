@@ -2543,7 +2543,7 @@
         "menu_image": "https://i.ibb.co/k0hc8JK/Bavarian-Chocolate-Milkshake.jpg",
         "menu_price": "255"
     },
-{
+    {
         "menu_id": 318,
         "menu_name": "Plant Sundae",
         "description": "An edible masterpiece in a crispy waffle pot, layered with Cookies N' Cream and Vanilla ice cream, topped with cookie crumble soil and a white chocolate leaf. Savor the sweet symphony of Plant Sundae magic!",
@@ -2703,7 +2703,7 @@
         "menu_image": "https://i.ibb.co/k0hc8JK/Bavarian-Chocolate-Milkshake.jpg",
         "menu_price": "255"
     },
-{
+    {
         "menu_id": 338,
         "menu_name": "Plant Sundae",
         "description": "An edible masterpiece in a crispy waffle pot, layered with Cookies N' Cream and Vanilla ice cream, topped with cookie crumble soil and a white chocolate leaf. Savor the sweet symphony of Plant Sundae magic!",
@@ -3776,1411 +3776,1411 @@
         "menu_price": "94"
     },
     {
-    "menu_id": 472,
-    "menu_name": "Blueberry Cheesecake",
-    "description": "A beautiful biscuit crumble base layered with delicious cheesecake ice cream. Add to it another layer of fluffy vanilla sponge cake and some more cheesecake ice cream. Adorned with exotic blueberries and whipped cream. Get transported to NY! ",
-    "store_id": 28,
-    "menu_image": "https://i.ibb.co/0KwmJxz/Blueberry-Cheesecake.jpg",
-    "menu_price": "617"
-},
-{
-    "menu_id": 473,
-    "menu_name": "Pineapple Cake",
-    "description": "A 4 decker cake made with alternate layers of super moist vanilla sponge cake and succulent pineapple ice cream. Garnished with white chocolate and whipped cream swirls. Pineapple cakes never run out of fashion! ",
-    "store_id": 28,
-    "menu_image": "https://i.ibb.co/Gknq46K/Pineapple-Cake.jpg",
-    "menu_price": "617"
-},
-{
-    "menu_id": 474,
-    "menu_name": "Plant Sundae",
-    "description": "An edible masterpiece in a crispy waffle pot, layered with Cookies N' Cream and Vanilla ice cream, topped with cookie crumble soil and a white chocolate leaf. Savor the sweet symphony of Plant Sundae magic! ",
-    "store_id": 28,
-    "menu_image": "https://i.ibb.co/fvbWWNW/Plant-Sundae-jpg.jpg",
-    "menu_price": "165"
-},
-{
-    "menu_id": 475,
-    "menu_name": "Nutty Professor",
-    "description": "We made sure this treat is as nutty as its name. Crunchy Californian almond ice cream paired generously with nuts, almonds, cashews, and raisins drowning in a delicious hot fudge sauce and topped off with whipped cream. Going nutty has never been this fun before. ",
-    "store_id": 28,
-    "menu_image": "https://i.ibb.co/bRwnwKn/Nutty-Professor.jpg",
-    "menu_price": "240"
-},
-{
-    "menu_id": 476,
-    "menu_name": "Bavarian Chocolate Milkshake",
-    "description": "An intensely indulgent chocolate milkshake with ice cream, chocolate pieces, and cashew nut crispies. Crunchy, divine, and sinful all at once! ",
-    "store_id": 28,
-    "menu_image": "https://i.ibb.co/k0hc8JK/Bavarian-Chocolate-Milkshake.jpg",
-    "menu_price": "255"
-},
-{
-    "menu_id": 477,
-    "menu_name": "Roasted Californian Almond Milkshake",
-    "description": "A delightful milkshake made with Vanilla ice cream, a caramel ribbon, and almond praline. A flavour you're not likely to forget ",
-    "store_id": 28,
-    "menu_image": "https://i.ibb.co/TmxHLYX/Roasted-Californian-Almond-Milkshake.jpg",
-    "menu_price": "255"
-},
-{
-    "menu_id": 478,
-    "menu_name": "Cookies 'N Cream arctic ice cream pizza slice ",
-    "description": "Baked ",
-    "store_id": 29,
-    "menu_image": "https://i.ibb.co/kmrf2VB/Cookies-N-Cream-arctic-ice-cream-pizza-slice.jpg",
-    "menu_price": "99"
-},
-{
-    "menu_id": 479,
-    "menu_name": "Pralines 'N Cream arctic ice cream pizza slice ",
-    "description": "Baked ",
-    "store_id": 29,
-    "menu_image": "https://i.ibb.co/J7pwD5g/Homepage-product-r1-30-copy-jpg.jpg",
-    "menu_price": "99"
-},
-{
-    "menu_id": 480,
-    "menu_name": "Chocolate Almond Praline Ice cream",
-    "description": "Praline coated Almonds peeping out of Dark Chocolate ice cream (Contains milk & tree nuts (Almond)",
-    "store_id": 29,
-    "menu_image": "https://i.ibb.co/7CthNQW/image-0053-Chocolate-Almond-Praline-Cup-jpg.jpg",
-    "menu_price": "94"
-},
-{
-    "menu_id": 481,
-    "menu_name": "Butterscotch Fudge with Cookie Crumble",
-    "description": "Creamy Butterscotch ice cream with a swirly butterscotch ribbon, and loaded with Oreo cookie crumble. Perfection in a scoop!",
-    "store_id": 29,
-    "menu_image": "https://i.ibb.co/rZRYGTc/Butterscotch-Fudge-with-Cookie-Crumble.jpg",
-    "menu_price": "94"
-},
-{
-"menu_id": 482,
-"menu_name": "Blueberry Cheesecake",
-"description": "A beautiful biscuit crumble base layered with delicious cheesecake ice cream. Add to it another layer of fluffy vanilla sponge cake and some more cheesecake ice cream. Adorned with exotic blueberries and whipped cream. Get transported to NY! ",
-"store_id": 29,
-"menu_image": "https://i.ibb.co/0KwmJxz/Blueberry-Cheesecake.jpg",
-"menu_price": "617"
-},
-{
-"menu_id": 483,
-"menu_name": "Pineapple Cake",
-"description": "A 4 decker cake made with alternate layers of super moist vanilla sponge cake and succulent pineapple ice cream. Garnished with white chocolate and whipped cream swirls. Pineapple cakes never run out of fashion! ",
-"store_id": 29,
-"menu_image": "https://i.ibb.co/Gknq46K/Pineapple-Cake.jpg",
-"menu_price": "617"
-},
-{
-"menu_id": 484,
-"menu_name": "Plant Sundae",
-"description": "An edible masterpiece in a crispy waffle pot, layered with Cookies N' Cream and Vanilla ice cream, topped with cookie crumble soil and a white chocolate leaf. Savor the sweet symphony of Plant Sundae magic! ",
-"store_id": 29,
-"menu_image": "https://i.ibb.co/fvbWWNW/Plant-Sundae-jpg.jpg",
-"menu_price": "165"
-},
-{
-"menu_id": 485,
-"menu_name": "Nutty Professor",
-"description": "We made sure this treat is as nutty as its name. Crunchy Californian almond ice cream paired generously with nuts, almonds, cashews, and raisins drowning in a delicious hot fudge sauce and topped off with whipped cream. Going nutty has never been this fun before. ",
-"store_id": 29,
-"menu_image": "https://i.ibb.co/bRwnwKn/Nutty-Professor.jpg",
-"menu_price": "240"
-},
-{
-"menu_id": 486,
-"menu_name": "Bavarian Chocolate Milkshake",
-"description": "An intensely indulgent chocolate milkshake with ice cream, chocolate pieces, and cashew nut crispies. Crunchy, divine, and sinful all at once! ",
-"store_id": 29,
-"menu_image": "https://i.ibb.co/k0hc8JK/Bavarian-Chocolate-Milkshake.jpg",
-"menu_price": "255"
-},
-{
-"menu_id": 487,
-"menu_name": "Roasted Californian Almond Milkshake",
-"description": "A delightful milkshake made with Vanilla ice cream, a caramel ribbon, and almond praline. A flavour you're not likely to forget ",
-"store_id": 29,
-"menu_image": "https://i.ibb.co/TmxHLYX/Roasted-Californian-Almond-Milkshake.jpg",
-"menu_price": "255"
-},
-{
-"menu_id": 488,
-"menu_name": "Cookies 'N Cream arctic ice cream pizza slice ",
-"description": "Baked ",
-"store_id": 30,
-"menu_image": "https://i.ibb.co/kmrf2VB/Cookies-N-Cream-arctic-ice-cream-pizza-slice.jpg",
-"menu_price": "99"
-},
-{
-"menu_id": 489,
-"menu_name": "Pralines 'N Cream arctic ice cream pizza slice ",
-"description": "Baked ",
-"store_id": 30,
-"menu_image": "https://i.ibb.co/J7pwD5g/Homepage-product-r1-30-copy-jpg.jpg",
-"menu_price": "99"
-},
-{
-"menu_id": 490,
-"menu_name": "Chocolate Almond Praline Ice cream",
-"description": "Praline coated Almonds peeping out of Dark Chocolate ice cream (Contains milk & tree nuts (Almond)",
-"store_id": 30,
-"menu_image": "https://i.ibb.co/7CthNQW/image-0053-Chocolate-Almond-Praline-Cup-jpg.jpg",
-"menu_price": "94"
-},
-{
-"menu_id": 491,
-"menu_name": "Butterscotch Fudge with Cookie Crumble",
-"description": "Creamy Butterscotch ice cream with a swirly butterscotch ribbon, and loaded with Oreo cookie crumble. Perfection in a scoop!",
-"store_id": 30,
-"menu_image": "https://i.ibb.co/rZRYGTc/Butterscotch-Fudge-with-Cookie-Crumble.jpg",
-"menu_price": "94"
-},
-{
-"menu_id": 492,
-"menu_name": "Blueberry Cheesecake",
-"description": "A beautiful biscuit crumble base layered with delicious cheesecake ice cream. Add to it another layer of fluffy vanilla sponge cake and some more cheesecake ice cream. Adorned with exotic blueberries and whipped cream. Get transported to NY! ",
-"store_id": 30,
-"menu_image": "https://i.ibb.co/0KwmJxz/Blueberry-Cheesecake.jpg",
-"menu_price": "617"
-},
-{
-"menu_id": 493,
-"menu_name": "Pineapple Cake",
-"description": "A 4 decker cake made with alternate layers of super moist vanilla sponge cake and succulent pineapple ice cream. Garnished with white chocolate and whipped cream swirls. Pineapple cakes never run out of fashion! ",
-"store_id": 30,
-"menu_image": "https://i.ibb.co/Gknq46K/Pineapple-Cake.jpg",
-"menu_price": "617"
-},
-{
-"menu_id": 494,
-"menu_name": "Plant Sundae",
-"description": "An edible masterpiece in a crispy waffle pot, layered with Cookies N' Cream and Vanilla ice cream, topped with cookie crumble soil and a white chocolate leaf. Savor the sweet symphony of Plant Sundae magic! ",
-"store_id": 30,
-"menu_image": "https://i.ibb.co/fvbWWNW/Plant-Sundae-jpg.jpg",
-"menu_price": "165"
-},
-{
-"menu_id": 495,
-"menu_name": "Nutty Professor",
-"description": "We made sure this treat is as nutty as its name. Crunchy Californian almond ice cream paired generously with nuts, almonds, cashews, and raisins drowning in a delicious hot fudge sauce and topped off with whipped cream. Going nutty has never been this fun before. ",
-"store_id": 30,
-"menu_image": "https://i.ibb.co/bRwnwKn/Nutty-Professor.jpg",
-"menu_price": "240"
-},
-{
-"menu_id": 496,
-"menu_name": "Bavarian Chocolate Milkshake",
-"description": "An intensely indulgent chocolate milkshake with ice cream, chocolate pieces, and cashew nut crispies. Crunchy, divine, and sinful all at once! ",
-"store_id": 30,
-"menu_image": "https://i.ibb.co/k0hc8JK/Bavarian-Chocolate-Milkshake.jpg",
-"menu_price": "255"
-},
-{
-"menu_id": 497,
-"menu_name": "Roasted Californian Almond Milkshake",
-"description": "A delightful milkshake made with Vanilla ice cream, a caramel ribbon, and almond praline. A flavour you're not likely to forget ",
-"store_id": 30,
-"menu_image": "https://i.ibb.co/TmxHLYX/Roasted-Californian-Almond-Milkshake.jpg",
-"menu_price": "255"
-},
-{
-"menu_id": 498,
-"menu_name": "Cookies 'N Cream arctic ice cream pizza slice ",
-"description": "Baked ",
-"store_id": 31,
-"menu_image": "https://i.ibb.co/kmrf2VB/Cookies-N-Cream-arctic-ice-cream-pizza-slice.jpg",
-"menu_price": "99"
-},
-{
-"menu_id": 499,
-"menu_name": "Pralines 'N Cream arctic ice cream pizza slice ",
-"description": "Baked ",
-"store_id": 31,
-"menu_image": "https://i.ibb.co/J7pwD5g/Homepage-product-r1-30-copy-jpg.jpg",
-"menu_price": "99"
-},
-{
-"menu_id": 500,
-"menu_name": "Chocolate Almond Praline Ice cream",
-"description": "Praline coated Almonds peeping out of Dark Chocolate ice cream (Contains milk & tree nuts (Almond)",
-"store_id": 31,
-"menu_image": "https://i.ibb.co/7CthNQW/image-0053-Chocolate-Almond-Praline-Cup-jpg.jpg",
-"menu_price": "94"
-},
-{
-"menu_id": 501,
-"menu_name": "Butterscotch Fudge with Cookie Crumble",
-"description": "Creamy Butterscotch ice cream with a swirly butterscotch ribbon, and loaded with Oreo cookie crumble. Perfection in a scoop!",
-"store_id": 31,
-"menu_image": "https://i.ibb.co/rZRYGTc/Butterscotch-Fudge-with-Cookie-Crumble.jpg",
-"menu_price": "94"
-},
-{
-"menu_id": 502,
-"menu_name": "Blueberry Cheesecake",
-"description": "A beautiful biscuit crumble base layered with delicious cheesecake ice cream. Add to it another layer of fluffy vanilla sponge cake and some more cheesecake ice cream. Adorned with exotic blueberries and whipped cream. Get transported to NY! ",
-"store_id": 31,
-"menu_image": "https://i.ibb.co/0KwmJxz/Blueberry-Cheesecake.jpg",
-"menu_price": "617"
-},
-{
-"menu_id": 503,
-"menu_name": "Pineapple Cake",
-"description": "A 4 decker cake made with alternate layers of super moist vanilla sponge cake and succulent pineapple ice cream. Garnished with white chocolate and whipped cream swirls. Pineapple cakes never run out of fashion! ",
-"store_id": 31,
-"menu_image": "https://i.ibb.co/Gknq46K/Pineapple-Cake.jpg",
-"menu_price": "617"
-},
-{
-"menu_id": 504,
-"menu_name": "Plant Sundae",
-"description": "An edible masterpiece in a crispy waffle pot, layered with Cookies N' Cream and Vanilla ice cream, topped with cookie crumble soil and a white chocolate leaf. Savor the sweet symphony of Plant Sundae magic! ",
-"store_id": 31,
-"menu_image": "https://i.ibb.co/fvbWWNW/Plant-Sundae-jpg.jpg",
-"menu_price": "165"
-},
-{
-"menu_id": 505,
-"menu_name": "Nutty Professor",
-"description": "We made sure this treat is as nutty as its name. Crunchy Californian almond ice cream paired generously with nuts, almonds, cashews, and raisins drowning in a delicious hot fudge sauce and topped off with whipped cream. Going nutty has never been this fun before. ",
-"store_id": 31,
-"menu_image": "https://i.ibb.co/bRwnwKn/Nutty-Professor.jpg",
-"menu_price": "240"
-},
-{
-"menu_id": 506,
-"menu_name": "Bavarian Chocolate Milkshake",
-"description": "An intensely indulgent chocolate milkshake with ice cream, chocolate pieces, and cashew nut crispies. Crunchy, divine, and sinful all at once! ",
-"store_id": 31,
-"menu_image": "https://i.ibb.co/k0hc8JK/Bavarian-Chocolate-Milkshake.jpg",
-"menu_price": "255"
-},
-{
-"menu_id": 507,
-"menu_name": "Roasted Californian Almond Milkshake",
-"description": "A delightful milkshake made with Vanilla ice cream, a caramel ribbon, and almond praline. A flavour you're not likely to forget ",
-"store_id": 31,
-"menu_image": "https://i.ibb.co/TmxHLYX/Roasted-Californian-Almond-Milkshake.jpg",
-"menu_price": "255"
-},
-{
-"menu_id": 508,
-"menu_name": "Cookies 'N Cream arctic ice cream pizza slice ",
-"description": "Baked ",
-"store_id": 32,
-"menu_image": "https://i.ibb.co/kmrf2VB/Cookies-N-Cream-arctic-ice-cream-pizza-slice.jpg",
-"menu_price": "99"
-},
-{
-"menu_id": 509,
-"menu_name": "Pralines 'N Cream arctic ice cream pizza slice ",
-"description": "Baked ",
-"store_id": 32,
-"menu_image": "https://i.ibb.co/J7pwD5g/Homepage-product-r1-30-copy-jpg.jpg",
-"menu_price": "99"
-},
-{
-"menu_id": 510,
-"menu_name": "Chocolate Almond Praline Ice cream",
-"description": "Praline coated Almonds peeping out of Dark Chocolate ice cream (Contains milk & tree nuts (Almond)",
-"store_id": 32,
-"menu_image": "https://i.ibb.co/7CthNQW/image-0053-Chocolate-Almond-Praline-Cup-jpg.jpg",
-"menu_price": "94"
-},
-{
-"menu_id": 511,
-"menu_name": "Butterscotch Fudge with Cookie Crumble",
-"description": "Creamy Butterscotch ice cream with a swirly butterscotch ribbon, and loaded with Oreo cookie crumble. Perfection in a scoop!",
-"store_id": 32,
-"menu_image": "https://i.ibb.co/rZRYGTc/Butterscotch-Fudge-with-Cookie-Crumble.jpg",
-"menu_price": "94"
-},
-{
-"menu_id": 512,
-"menu_name": "Blueberry Cheesecake",
-"description": "A beautiful biscuit crumble base layered with delicious cheesecake ice cream. Add to it another layer of fluffy vanilla sponge cake and some more cheesecake ice cream. Adorned with exotic blueberries and whipped cream. Get transported to NY! ",
-"store_id": 32,
-"menu_image": "https://i.ibb.co/0KwmJxz/Blueberry-Cheesecake.jpg",
-"menu_price": "617"
-},
-{
-"menu_id": 513,
-"menu_name": "Pineapple Cake",
-"description": "A 4 decker cake made with alternate layers of super moist vanilla sponge cake and succulent pineapple ice cream. Garnished with white chocolate and whipped cream swirls. Pineapple cakes never run out of fashion! ",
-"store_id": 32,
-"menu_image": "https://i.ibb.co/Gknq46K/Pineapple-Cake.jpg",
-"menu_price": "617"
-},
-{
-"menu_id": 514,
-"menu_name": "Plant Sundae",
-"description": "An edible masterpiece in a crispy waffle pot, layered with Cookies N' Cream and Vanilla ice cream, topped with cookie crumble soil and a white chocolate leaf. Savor the sweet symphony of Plant Sundae magic! ",
-"store_id": 32,
-"menu_image": "https://i.ibb.co/fvbWWNW/Plant-Sundae-jpg.jpg",
-"menu_price": "165"
-},
-{
-"menu_id": 515,
-"menu_name": "Nutty Professor",
-"description": "We made sure this treat is as nutty as its name. Crunchy Californian almond ice cream paired generously with nuts, almonds, cashews, and raisins drowning in a delicious hot fudge sauce and topped off with whipped cream. Going nutty has never been this fun before. ",
-"store_id": 32,
-"menu_image": "https://i.ibb.co/bRwnwKn/Nutty-Professor.jpg",
-"menu_price": "240"
-},
-{
-"menu_id": 516,
-"menu_name": "Bavarian Chocolate Milkshake",
-"description": "An intensely indulgent chocolate milkshake with ice cream, chocolate pieces, and cashew nut crispies. Crunchy, divine, and sinful all at once! ",
-"store_id": 32,
-"menu_image": "https://i.ibb.co/k0hc8JK/Bavarian-Chocolate-Milkshake.jpg",
-"menu_price": "255"
-},
-{
-"menu_id": 517,
-"menu_name": "Roasted Californian Almond Milkshake",
-"description": "A delightful milkshake made with Vanilla ice cream, a caramel ribbon, and almond praline. A flavour you're not likely to forget ",
-"store_id": 32,
-"menu_image": "https://i.ibb.co/TmxHLYX/Roasted-Californian-Almond-Milkshake.jpg",
-"menu_price": "255"
-},
-{
-"menu_id": 518,
-"menu_name": "Cookies 'N Cream arctic ice cream pizza slice ",
-"description": "Baked ",
-"store_id": 33,
-"menu_image": "https://i.ibb.co/kmrf2VB/Cookies-N-Cream-arctic-ice-cream-pizza-slice.jpg",
-"menu_price": "99"
-},
-{
-"menu_id": 519,
-"menu_name": "Pralines 'N Cream arctic ice cream pizza slice ",
-"description": "Baked ",
-"store_id": 33,
-"menu_image": "https://i.ibb.co/J7pwD5g/Homepage-product-r1-30-copy-jpg.jpg",
-"menu_price": "99"
-},
-{
-"menu_id": 520,
-"menu_name": "Chocolate Almond Praline Ice cream",
-"description": "Praline coated Almonds peeping out of Dark Chocolate ice cream (Contains milk & tree nuts (Almond)",
-"store_id": 33,
-"menu_image": "https://i.ibb.co/7CthNQW/image-0053-Chocolate-Almond-Praline-Cup-jpg.jpg",
-"menu_price": "94"
-},
-{
-"menu_id": 521,
-"menu_name": "Butterscotch Fudge with Cookie Crumble",
-"description": "Creamy Butterscotch ice cream with a swirly butterscotch ribbon, and loaded with Oreo cookie crumble. Perfection in a scoop!",
-"store_id": 33,
-"menu_image": "https://i.ibb.co/rZRYGTc/Butterscotch-Fudge-with-Cookie-Crumble.jpg",
-"menu_price": "94"
-},
-{
-"menu_id": 522,
-"menu_name": "Blueberry Cheesecake",
-"description": "A beautiful biscuit crumble base layered with delicious cheesecake ice cream. Add to it another layer of fluffy vanilla sponge cake and some more cheesecake ice cream. Adorned with exotic blueberries and whipped cream. Get transported to NY! ",
-"store_id": 33,
-"menu_image": "https://i.ibb.co/0KwmJxz/Blueberry-Cheesecake.jpg",
-"menu_price": "617"
-},
-{
-"menu_id": 523,
-"menu_name": "Pineapple Cake",
-"description": "A 4 decker cake made with alternate layers of super moist vanilla sponge cake and succulent pineapple ice cream. Garnished with white chocolate and whipped cream swirls. Pineapple cakes never run out of fashion! ",
-"store_id": 33,
-"menu_image": "https://i.ibb.co/Gknq46K/Pineapple-Cake.jpg",
-"menu_price": "617"
-},
-{
-"menu_id": 524,
-"menu_name": "Plant Sundae",
-"description": "An edible masterpiece in a crispy waffle pot, layered with Cookies N' Cream and Vanilla ice cream, topped with cookie crumble soil and a white chocolate leaf. Savor the sweet symphony of Plant Sundae magic! ",
-"store_id": 33,
-"menu_image": "https://i.ibb.co/fvbWWNW/Plant-Sundae-jpg.jpg",
-"menu_price": "165"
-},
-{
-"menu_id": 525,
-"menu_name": "Nutty Professor",
-"description": "We made sure this treat is as nutty as its name. Crunchy Californian almond ice cream paired generously with nuts, almonds, cashews, and raisins drowning in a delicious hot fudge sauce and topped off with whipped cream. Going nutty has never been this fun before. ",
-"store_id": 33,
-"menu_image": "https://i.ibb.co/bRwnwKn/Nutty-Professor.jpg",
-"menu_price": "240"
-},
-{
-"menu_id": 526,
-"menu_name": "Bavarian Chocolate Milkshake",
-"description": "An intensely indulgent chocolate milkshake with ice cream, chocolate pieces, and cashew nut crispies. Crunchy, divine, and sinful all at once! ",
-"store_id": 33,
-"menu_image": "https://i.ibb.co/k0hc8JK/Bavarian-Chocolate-Milkshake.jpg",
-"menu_price": "255"
-},
-{
-"menu_id": 527,
-"menu_name": "Roasted Californian Almond Milkshake",
-"description": "A delightful milkshake made with Vanilla ice cream, a caramel ribbon, and almond praline. A flavour you're not likely to forget ",
-"store_id": 33,
-"menu_image": "https://i.ibb.co/TmxHLYX/Roasted-Californian-Almond-Milkshake.jpg",
-"menu_price": "255"
-},
-{
-"menu_id": 528,
-"menu_name": "Cookies 'N Cream arctic ice cream pizza slice ",
-"description": "Baked ",
-"store_id": 34,
-"menu_image": "https://i.ibb.co/kmrf2VB/Cookies-N-Cream-arctic-ice-cream-pizza-slice.jpg",
-"menu_price": "99"
-},
-{
-"menu_id": 529,
-"menu_name": "Pralines 'N Cream arctic ice cream pizza slice ",
-"description": "Baked ",
-"store_id": 34,
-"menu_image": "https://i.ibb.co/J7pwD5g/Homepage-product-r1-30-copy-jpg.jpg",
-"menu_price": "99"
-},
-{
-"menu_id": 530,
-"menu_name": "Chocolate Almond Praline Ice cream",
-"description": "Praline coated Almonds peeping out of Dark Chocolate ice cream (Contains milk & tree nuts (Almond)",
-"store_id": 34,
-"menu_image": "https://i.ibb.co/7CthNQW/image-0053-Chocolate-Almond-Praline-Cup-jpg.jpg",
-"menu_price": "94"
-},
-{
-"menu_id": 531,
-"menu_name": "Butterscotch Fudge with Cookie Crumble",
-"description": "Creamy Butterscotch ice cream with a swirly butterscotch ribbon, and loaded with Oreo cookie crumble. Perfection in a scoop!",
-"store_id": 34,
-"menu_image": "https://i.ibb.co/rZRYGTc/Butterscotch-Fudge-with-Cookie-Crumble.jpg",
-"menu_price": "94"
-},
-{
-"menu_id": 532,
-"menu_name": "Blueberry Cheesecake",
-"description": "A beautiful biscuit crumble base layered with delicious cheesecake ice cream. Add to it another layer of fluffy vanilla sponge cake and some more cheesecake ice cream. Adorned with exotic blueberries and whipped cream. Get transported to NY! ",
-"store_id": 34,
-"menu_image": "https://i.ibb.co/0KwmJxz/Blueberry-Cheesecake.jpg",
-"menu_price": "617"
-},
-{
-"menu_id": 533,
-"menu_name": "Pineapple Cake",
-"description": "A 4 decker cake made with alternate layers of super moist vanilla sponge cake and succulent pineapple ice cream. Garnished with white chocolate and whipped cream swirls. Pineapple cakes never run out of fashion! ",
-"store_id": 34,
-"menu_image": "https://i.ibb.co/Gknq46K/Pineapple-Cake.jpg",
-"menu_price": "617"
-},
-{
-"menu_id": 534,
-"menu_name": "Plant Sundae",
-"description": "An edible masterpiece in a crispy waffle pot, layered with Cookies N' Cream and Vanilla ice cream, topped with cookie crumble soil and a white chocolate leaf. Savor the sweet symphony of Plant Sundae magic! ",
-"store_id": 34,
-"menu_image": "https://i.ibb.co/fvbWWNW/Plant-Sundae-jpg.jpg",
-"menu_price": "165"
-},
-{
-"menu_id": 535,
-"menu_name": "Nutty Professor",
-"description": "We made sure this treat is as nutty as its name. Crunchy Californian almond ice cream paired generously with nuts, almonds, cashews, and raisins drowning in a delicious hot fudge sauce and topped off with whipped cream. Going nutty has never been this fun before. ",
-"store_id": 34,
-"menu_image": "https://i.ibb.co/bRwnwKn/Nutty-Professor.jpg",
-"menu_price": "240"
-},
-{
-"menu_id": 536,
-"menu_name": "Bavarian Chocolate Milkshake",
-"description": "An intensely indulgent chocolate milkshake with ice cream, chocolate pieces, and cashew nut crispies. Crunchy, divine, and sinful all at once! ",
-"store_id": 34,
-"menu_image": "https://i.ibb.co/k0hc8JK/Bavarian-Chocolate-Milkshake.jpg",
-"menu_price": "255"
-},
-{
-"menu_id": 537,
-"menu_name": "Roasted Californian Almond Milkshake",
-"description": "A delightful milkshake made with Vanilla ice cream, a caramel ribbon, and almond praline. A flavour you're not likely to forget ",
-"store_id": 34,
-"menu_image": "https://i.ibb.co/TmxHLYX/Roasted-Californian-Almond-Milkshake.jpg",
-"menu_price": "255"
-},
-{
-"menu_id": 538,
-"menu_name": "Cookies 'N Cream arctic ice cream pizza slice ",
-"description": "Baked ",
-"store_id": 35,
-"menu_image": "https://i.ibb.co/kmrf2VB/Cookies-N-Cream-arctic-ice-cream-pizza-slice.jpg",
-"menu_price": "99"
-},
-{
-"menu_id": 539,
-"menu_name": "Pralines 'N Cream arctic ice cream pizza slice ",
-"description": "Baked ",
-"store_id": 35,
-"menu_image": "https://i.ibb.co/J7pwD5g/Homepage-product-r1-30-copy-jpg.jpg",
-"menu_price": "99"
-},
-{
-"menu_id": 540,
-"menu_name": "Chocolate Almond Praline Ice cream",
-"description": "Praline coated Almonds peeping out of Dark Chocolate ice cream (Contains milk & tree nuts (Almond)",
-"store_id": 35,
-"menu_image": "https://i.ibb.co/7CthNQW/image-0053-Chocolate-Almond-Praline-Cup-jpg.jpg",
-"menu_price": "94"
-},
-{
-"menu_id": 541,
-"menu_name": "Butterscotch Fudge with Cookie Crumble",
-"description": "Creamy Butterscotch ice cream with a swirly butterscotch ribbon, and loaded with Oreo cookie crumble. Perfection in a scoop!",
-"store_id": 35,
-"menu_image": "https://i.ibb.co/rZRYGTc/Butterscotch-Fudge-with-Cookie-Crumble.jpg",
-"menu_price": "94"
-},
-{
-"menu_id": 542,
-"menu_name": "Blueberry Cheesecake",
-"description": "A beautiful biscuit crumble base layered with delicious cheesecake ice cream. Add to it another layer of fluffy vanilla sponge cake and some more cheesecake ice cream. Adorned with exotic blueberries and whipped cream. Get transported to NY! ",
-"store_id": 35,
-"menu_image": "https://i.ibb.co/0KwmJxz/Blueberry-Cheesecake.jpg",
-"menu_price": "617"
-},
-{
-"menu_id": 543,
-"menu_name": "Pineapple Cake",
-"description": "A 4 decker cake made with alternate layers of super moist vanilla sponge cake and succulent pineapple ice cream. Garnished with white chocolate and whipped cream swirls. Pineapple cakes never run out of fashion! ",
-"store_id": 35,
-"menu_image": "https://i.ibb.co/Gknq46K/Pineapple-Cake.jpg",
-"menu_price": "617"
-},
-{
-"menu_id": 544,
-"menu_name": "Plant Sundae",
-"description": "An edible masterpiece in a crispy waffle pot, layered with Cookies N' Cream and Vanilla ice cream, topped with cookie crumble soil and a white chocolate leaf. Savor the sweet symphony of Plant Sundae magic! ",
-"store_id": 35,
-"menu_image": "https://i.ibb.co/fvbWWNW/Plant-Sundae-jpg.jpg",
-"menu_price": "165"
-},
-{
-"menu_id": 545,
-"menu_name": "Nutty Professor",
-"description": "We made sure this treat is as nutty as its name. Crunchy Californian almond ice cream paired generously with nuts, almonds, cashews, and raisins drowning in a delicious hot fudge sauce and topped off with whipped cream. Going nutty has never been this fun before. ",
-"store_id": 35,
-"menu_image": "https://i.ibb.co/bRwnwKn/Nutty-Professor.jpg",
-"menu_price": "240"
-},
-{
-"menu_id": 546,
-"menu_name": "Bavarian Chocolate Milkshake",
-"description": "An intensely indulgent chocolate milkshake with ice cream, chocolate pieces, and cashew nut crispies. Crunchy, divine, and sinful all at once! ",
-"store_id": 35,
-"menu_image": "https://i.ibb.co/k0hc8JK/Bavarian-Chocolate-Milkshake.jpg",
-"menu_price": "255"
-},
-{
-"menu_id": 547,
-"menu_name": "Roasted Californian Almond Milkshake",
-"description": "A delightful milkshake made with Vanilla ice cream, a caramel ribbon, and almond praline. A flavour you're not likely to forget ",
-"store_id": 35,
-"menu_image": "https://i.ibb.co/TmxHLYX/Roasted-Californian-Almond-Milkshake.jpg",
-"menu_price": "255"
-},
-{
-"menu_id": 548,
-"menu_name": "California Pistachio ice cream ",
-"description": "Exquisite California pistachio ice cream made with an authentic nutty pistachio paste. This is ultimate pistachio perfection ",
-"store_id": 36,
-"menu_image": "https://i.ibb.co/1KjcbN8/californina-pistacho.jpg",
-"menu_price": "94"
-},
-{
-"menu_id": 549,
-"menu_name": "Cookies 'N Cream arctic ice cream pizza slice ",
-"description": "Baked ",
-"store_id": 36,
-"menu_image": "https://i.ibb.co/kmrf2VB/Cookies-N-Cream-arctic-ice-cream-pizza-slice.jpg",
-"menu_price": "99"
-},
-{
-"menu_id": 550,
-"menu_name": "Gold Medal Ribbon Ice cream",
-"description": "A heavenly medley of vanilla and chocolate, embraced by a caramel ribbon. This vanilla and chocolate combo is our dream team! A thick, deep caramel ribbon intertwines the two flavours together in perfection. ",
-"store_id": 36,
-"menu_image": "https://i.ibb.co/J5Hcytb/Gold-Medal-Ribbon-Ice-cream.jpg",
-"menu_price": "94"
-},
-{
-"menu_id": 551,
-"menu_name": "Dutch Chocolate Ice cream",
-"description": "Tempting chocolate ice cream with a distinct hint of cocoa. The mother of every chocolate ice cream creation of ours. ",
-"store_id": 36,
-"menu_image": "https://i.ibb.co/VpBt6wc/Dutch-Chocolate-Ice-cream.jpg",
-"menu_price": "82"
-},
-{
-"menu_id": 552,
-"menu_name": "Black Forest Cake",
-"description": "A classic yet everyone's favourite. Layers of black forest ice cream with chocolate sponge cake, topped with dark chocolate shavings and sweet cherries. Do invite it to your next party! ",
-"store_id": 36,
-"menu_image": "https://i.ibb.co/0rT4yYR/Black-Forest-Cake.jpg",
-"menu_price": "592"
-},
-{
-"menu_id": 553,
-"menu_name": "Cotton Candy Cake",
-"description": "A delicious 4 decker cake made with 2 layers of rich vanilla sponge cake intertwined with all-time-favourite cotton candy ice cream. Garnished with dark chocolate cigars and chocolate coated crispies. A treat for your eyes and taste buds! ",
-"store_id": 36,
-"menu_image": "https://i.ibb.co/Bqd4VCk/Cotton-Candy-Cake.jpg",
-"menu_price": "592"
-},
-{
-"menu_id": 554,
-"menu_name": "Mermaid Sundae",
-"description": "Chocolate mermaid toppers with multicolored sprinkles on your choice of ice cream. A fairytale sundae! ",
-"store_id": 36,
-"menu_image": "https://i.ibb.co/ZmK2L01/Mermaid-Sundae.jpg",
-"menu_price": "157"
-},
-{
-"menu_id": 555,
-"menu_name": "Unicorn Sundaes",
-"description": "Chocolate unicorn toppers with multicolored sprinkles on your choice of icecream. There's magic in every bite!Chocolate unicorn toppers with multicolored sprinkles on your choice of icecream. There's magic in every bite! ",
-"store_id": 36,
-"menu_image": "https://i.ibb.co/KsBCXKM/Unicorn-Sundaes.jpg",
-"menu_price": "157"
-},
-{
-"menu_id": 556,
-"menu_name": "Snickers Caramel Milkshake",
-"description": "Snickers caramel ice cream blended with Snickers chocolate chunks and creamy vanilla milk. Grab your snickers snack today! ",
-"store_id": 36,
-"menu_image": "https://i.ibb.co/PZDZTXw/Snickers-Caramel-Milkshake.jpg",
-"menu_price": "295"
-},
-{
-"menu_id": 557,
-"menu_name": "Bavarian Chocolate Milkshake",
-"description": "An intensely indulgent chocolate milkshake with ice cream, chocolate pieces, and cashew nut crispies. Crunchy, divine, and sinful all at once! ",
-"store_id": 36,
-"menu_image": "https://i.ibb.co/k0hc8JK/Bavarian-Chocolate-Milkshake.jpg",
-"menu_price": "255"
-},
-{
-"menu_id": 558,
-"menu_name": "California Pistachio ice cream ",
-"description": "Exquisite California pistachio ice cream made with an authentic nutty pistachio paste. This is ultimate pistachio perfection ",
-"store_id": 37,
-"menu_image": "https://i.ibb.co/1KjcbN8/californina-pistacho.jpg",
-"menu_price": "94"
-},
-{
-"menu_id": 559,
-"menu_name": "Cookies 'N Cream arctic ice cream pizza slice ",
-"description": "Baked ",
-"store_id": 37,
-"menu_image": "https://i.ibb.co/kmrf2VB/Cookies-N-Cream-arctic-ice-cream-pizza-slice.jpg",
-"menu_price": "99"
-},
-{
-"menu_id": 560,
-"menu_name": "Gold Medal Ribbon Ice cream",
-"description": "A heavenly medley of vanilla and chocolate, embraced by a caramel ribbon. This vanilla and chocolate combo is our dream team! A thick, deep caramel ribbon intertwines the two flavours together in perfection. ",
-"store_id": 37,
-"menu_image": "https://i.ibb.co/J5Hcytb/Gold-Medal-Ribbon-Ice-cream.jpg",
-"menu_price": "94"
-},
-{
-"menu_id": 561,
-"menu_name": "Dutch Chocolate Ice cream",
-"description": "Tempting chocolate ice cream with a distinct hint of cocoa. The mother of every chocolate ice cream creation of ours. ",
-"store_id": 37,
-"menu_image": "https://i.ibb.co/VpBt6wc/Dutch-Chocolate-Ice-cream.jpg",
-"menu_price": "82"
-},
-{
-"menu_id": 562,
-"menu_name": "Black Forest Cake",
-"description": "A classic yet everyone's favourite. Layers of black forest ice cream with chocolate sponge cake, topped with dark chocolate shavings and sweet cherries. Do invite it to your next party! ",
-"store_id": 37,
-"menu_image": "https://i.ibb.co/0rT4yYR/Black-Forest-Cake.jpg",
-"menu_price": "592"
-},
-{
-"menu_id": 563,
-"menu_name": "Cotton Candy Cake",
-"description": "A delicious 4 decker cake made with 2 layers of rich vanilla sponge cake intertwined with all-time-favourite cotton candy ice cream. Garnished with dark chocolate cigars and chocolate coated crispies. A treat for your eyes and taste buds! ",
-"store_id": 37,
-"menu_image": "https://i.ibb.co/Bqd4VCk/Cotton-Candy-Cake.jpg",
-"menu_price": "592"
-},
-{
-"menu_id": 564,
-"menu_name": "Mermaid Sundae",
-"description": "Chocolate mermaid toppers with multicolored sprinkles on your choice of ice cream. A fairytale sundae! ",
-"store_id": 37,
-"menu_image": "https://i.ibb.co/ZmK2L01/Mermaid-Sundae.jpg",
-"menu_price": "157"
-},
-{
-"menu_id": 565,
-"menu_name": "Unicorn Sundaes",
-"description": "Chocolate unicorn toppers with multicolored sprinkles on your choice of icecream. There's magic in every bite!Chocolate unicorn toppers with multicolored sprinkles on your choice of icecream. There's magic in every bite! ",
-"store_id": 37,
-"menu_image": "https://i.ibb.co/KsBCXKM/Unicorn-Sundaes.jpg",
-"menu_price": "157"
-},
-{
-"menu_id": 566,
-"menu_name": "Snickers Caramel Milkshake",
-"description": "Snickers caramel ice cream blended with Snickers chocolate chunks and creamy vanilla milk. Grab your snickers snack today! ",
-"store_id": 37,
-"menu_image": "https://i.ibb.co/PZDZTXw/Snickers-Caramel-Milkshake.jpg",
-"menu_price": "295"
-},
-{
-"menu_id": 567,
-"menu_name": "Bavarian Chocolate Milkshake",
-"description": "An intensely indulgent chocolate milkshake with ice cream, chocolate pieces, and cashew nut crispies. Crunchy, divine, and sinful all at once! ",
-"store_id": 37,
-"menu_image": "https://i.ibb.co/k0hc8JK/Bavarian-Chocolate-Milkshake.jpg",
-"menu_price": "255"
-},
-{
-"menu_id": 568,
-"menu_name": "California Pistachio ice cream ",
-"description": "Exquisite California pistachio ice cream made with an authentic nutty pistachio paste. This is ultimate pistachio perfection ",
-"store_id": 38,
-"menu_image": "https://i.ibb.co/1KjcbN8/californina-pistacho.jpg",
-"menu_price": "94"
-},
-{
-"menu_id": 569,
-"menu_name": "Cookies 'N Cream arctic ice cream pizza slice ",
-"description": "Baked ",
-"store_id": 38,
-"menu_image": "https://i.ibb.co/kmrf2VB/Cookies-N-Cream-arctic-ice-cream-pizza-slice.jpg",
-"menu_price": "99"
-},
-{
-"menu_id": 570,
-"menu_name": "Gold Medal Ribbon Ice cream",
-"description": "A heavenly medley of vanilla and chocolate, embraced by a caramel ribbon. This vanilla and chocolate combo is our dream team! A thick, deep caramel ribbon intertwines the two flavours together in perfection. ",
-"store_id": 38,
-"menu_image": "https://i.ibb.co/J5Hcytb/Gold-Medal-Ribbon-Ice-cream.jpg",
-"menu_price": "94"
-},
-{
-"menu_id": 571,
-"menu_name": "Dutch Chocolate Ice cream",
-"description": "Tempting chocolate ice cream with a distinct hint of cocoa. The mother of every chocolate ice cream creation of ours. ",
-"store_id": 38,
-"menu_image": "https://i.ibb.co/VpBt6wc/Dutch-Chocolate-Ice-cream.jpg",
-"menu_price": "82"
-},
-{
-"menu_id": 572,
-"menu_name": "Black Forest Cake",
-"description": "A classic yet everyone's favourite. Layers of black forest ice cream with chocolate sponge cake, topped with dark chocolate shavings and sweet cherries. Do invite it to your next party! ",
-"store_id": 38,
-"menu_image": "https://i.ibb.co/0rT4yYR/Black-Forest-Cake.jpg",
-"menu_price": "592"
-},
-{
-"menu_id": 573,
-"menu_name": "Cotton Candy Cake",
-"description": "A delicious 4 decker cake made with 2 layers of rich vanilla sponge cake intertwined with all-time-favourite cotton candy ice cream. Garnished with dark chocolate cigars and chocolate coated crispies. A treat for your eyes and taste buds! ",
-"store_id": 38,
-"menu_image": "https://i.ibb.co/Bqd4VCk/Cotton-Candy-Cake.jpg",
-"menu_price": "592"
-},
-{
-"menu_id": 574,
-"menu_name": "Mermaid Sundae",
-"description": "Chocolate mermaid toppers with multicolored sprinkles on your choice of ice cream. A fairytale sundae! ",
-"store_id": 38,
-"menu_image": "https://i.ibb.co/ZmK2L01/Mermaid-Sundae.jpg",
-"menu_price": "157"
-},
-{
-"menu_id": 575,
-"menu_name": "Unicorn Sundaes",
-"description": "Chocolate unicorn toppers with multicolored sprinkles on your choice of icecream. There's magic in every bite!Chocolate unicorn toppers with multicolored sprinkles on your choice of icecream. There's magic in every bite! ",
-"store_id": 38,
-"menu_image": "https://i.ibb.co/KsBCXKM/Unicorn-Sundaes.jpg",
-"menu_price": "157"
-},
-{
-"menu_id": 576,
-"menu_name": "Snickers Caramel Milkshake",
-"description": "Snickers caramel ice cream blended with Snickers chocolate chunks and creamy vanilla milk. Grab your snickers snack today! ",
-"store_id": 38,
-"menu_image": "https://i.ibb.co/PZDZTXw/Snickers-Caramel-Milkshake.jpg",
-"menu_price": "295"
-},
-{
-"menu_id": 577,
-"menu_name": "Bavarian Chocolate Milkshake",
-"description": "An intensely indulgent chocolate milkshake with ice cream, chocolate pieces, and cashew nut crispies. Crunchy, divine, and sinful all at once! ",
-"store_id": 38,
-"menu_image": "https://i.ibb.co/k0hc8JK/Bavarian-Chocolate-Milkshake.jpg",
-"menu_price": "255"
-},
-{
-"menu_id": 578,
-"menu_name": "California Pistachio ice cream ",
-"description": "Exquisite California pistachio ice cream made with an authentic nutty pistachio paste. This is ultimate pistachio perfection ",
-"store_id": 39,
-"menu_image": "https://i.ibb.co/1KjcbN8/californina-pistacho.jpg",
-"menu_price": "94"
-},
-{
-"menu_id": 579,
-"menu_name": "Cookies 'N Cream arctic ice cream pizza slice ",
-"description": "Baked ",
-"store_id": 39,
-"menu_image": "https://i.ibb.co/kmrf2VB/Cookies-N-Cream-arctic-ice-cream-pizza-slice.jpg",
-"menu_price": "99"
-},
-{
-"menu_id": 580,
-"menu_name": "Gold Medal Ribbon Ice cream",
-"description": "A heavenly medley of vanilla and chocolate, embraced by a caramel ribbon. This vanilla and chocolate combo is our dream team! A thick, deep caramel ribbon intertwines the two flavours together in perfection. ",
-"store_id": 39,
-"menu_image": "https://i.ibb.co/J5Hcytb/Gold-Medal-Ribbon-Ice-cream.jpg",
-"menu_price": "94"
-},
-{
-"menu_id": 581,
-"menu_name": "Dutch Chocolate Ice cream",
-"description": "Tempting chocolate ice cream with a distinct hint of cocoa. The mother of every chocolate ice cream creation of ours. ",
-"store_id": 39,
-"menu_image": "https://i.ibb.co/VpBt6wc/Dutch-Chocolate-Ice-cream.jpg",
-"menu_price": "82"
-},
-{
-"menu_id": 582,
-"menu_name": "Black Forest Cake",
-"description": "A classic yet everyone's favourite. Layers of black forest ice cream with chocolate sponge cake, topped with dark chocolate shavings and sweet cherries. Do invite it to your next party! ",
-"store_id": 39,
-"menu_image": "https://i.ibb.co/0rT4yYR/Black-Forest-Cake.jpg",
-"menu_price": "592"
-},
-{
-"menu_id": 583,
-"menu_name": "Cotton Candy Cake",
-"description": "A delicious 4 decker cake made with 2 layers of rich vanilla sponge cake intertwined with all-time-favourite cotton candy ice cream. Garnished with dark chocolate cigars and chocolate coated crispies. A treat for your eyes and taste buds! ",
-"store_id": 39,
-"menu_image": "https://i.ibb.co/Bqd4VCk/Cotton-Candy-Cake.jpg",
-"menu_price": "592"
-},
-{
-"menu_id": 584,
-"menu_name": "Mermaid Sundae",
-"description": "Chocolate mermaid toppers with multicolored sprinkles on your choice of ice cream. A fairytale sundae! ",
-"store_id": 39,
-"menu_image": "https://i.ibb.co/ZmK2L01/Mermaid-Sundae.jpg",
-"menu_price": "157"
-},
-{
-"menu_id": 585,
-"menu_name": "Unicorn Sundaes",
-"description": "Chocolate unicorn toppers with multicolored sprinkles on your choice of icecream. There's magic in every bite!Chocolate unicorn toppers with multicolored sprinkles on your choice of icecream. There's magic in every bite! ",
-"store_id": 39,
-"menu_image": "https://i.ibb.co/KsBCXKM/Unicorn-Sundaes.jpg",
-"menu_price": "157"
-},
-{
-"menu_id": 586,
-"menu_name": "Snickers Caramel Milkshake",
-"description": "Snickers caramel ice cream blended with Snickers chocolate chunks and creamy vanilla milk. Grab your snickers snack today! ",
-"store_id": 39,
-"menu_image": "https://i.ibb.co/PZDZTXw/Snickers-Caramel-Milkshake.jpg",
-"menu_price": "295"
-},
-{
-"menu_id": 587,
-"menu_name": "Bavarian Chocolate Milkshake",
-"description": "An intensely indulgent chocolate milkshake with ice cream, chocolate pieces, and cashew nut crispies. Crunchy, divine, and sinful all at once! ",
-"store_id": 39,
-"menu_image": "https://i.ibb.co/k0hc8JK/Bavarian-Chocolate-Milkshake.jpg",
-"menu_price": "255"
-},
-{
-"menu_id": 588,
-"menu_name": "California Pistachio ice cream ",
-"description": "Exquisite California pistachio ice cream made with an authentic nutty pistachio paste. This is ultimate pistachio perfection ",
-"store_id": 40,
-"menu_image": "https://i.ibb.co/1KjcbN8/californina-pistacho.jpg",
-"menu_price": "94"
-},
-{
-"menu_id": 589,
-"menu_name": "Cookies 'N Cream arctic ice cream pizza slice ",
-"description": "Baked ",
-"store_id": 40,
-"menu_image": "https://i.ibb.co/kmrf2VB/Cookies-N-Cream-arctic-ice-cream-pizza-slice.jpg",
-"menu_price": "99"
-},
-{
-"menu_id": 590,
-"menu_name": "Gold Medal Ribbon Ice cream",
-"description": "A heavenly medley of vanilla and chocolate, embraced by a caramel ribbon. This vanilla and chocolate combo is our dream team! A thick, deep caramel ribbon intertwines the two flavours together in perfection. ",
-"store_id": 40,
-"menu_image": "https://i.ibb.co/J5Hcytb/Gold-Medal-Ribbon-Ice-cream.jpg",
-"menu_price": "94"
-},
-{
-"menu_id": 591,
-"menu_name": "Dutch Chocolate Ice cream",
-"description": "Tempting chocolate ice cream with a distinct hint of cocoa. The mother of every chocolate ice cream creation of ours. ",
-"store_id": 40,
-"menu_image": "https://i.ibb.co/VpBt6wc/Dutch-Chocolate-Ice-cream.jpg",
-"menu_price": "82"
-},
-{
-"menu_id": 592,
-"menu_name": "Black Forest Cake",
-"description": "A classic yet everyone's favourite. Layers of black forest ice cream with chocolate sponge cake, topped with dark chocolate shavings and sweet cherries. Do invite it to your next party! ",
-"store_id": 40,
-"menu_image": "https://i.ibb.co/0rT4yYR/Black-Forest-Cake.jpg",
-"menu_price": "592"
-},
-{
-"menu_id": 593,
-"menu_name": "Cotton Candy Cake",
-"description": "A delicious 4 decker cake made with 2 layers of rich vanilla sponge cake intertwined with all-time-favourite cotton candy ice cream. Garnished with dark chocolate cigars and chocolate coated crispies. A treat for your eyes and taste buds! ",
-"store_id": 40,
-"menu_image": "https://i.ibb.co/Bqd4VCk/Cotton-Candy-Cake.jpg",
-"menu_price": "592"
-},
-{
-"menu_id": 594,
-"menu_name": "Mermaid Sundae",
-"description": "Chocolate mermaid toppers with multicolored sprinkles on your choice of ice cream. A fairytale sundae! ",
-"store_id": 40,
-"menu_image": "https://i.ibb.co/ZmK2L01/Mermaid-Sundae.jpg",
-"menu_price": "157"
-},
-{
-"menu_id": 595,
-"menu_name": "Unicorn Sundaes",
-"description": "Chocolate unicorn toppers with multicolored sprinkles on your choice of icecream. There's magic in every bite!Chocolate unicorn toppers with multicolored sprinkles on your choice of icecream. There's magic in every bite! ",
-"store_id": 40,
-"menu_image": "https://i.ibb.co/KsBCXKM/Unicorn-Sundaes.jpg",
-"menu_price": "157"
-},
-{
-"menu_id": 596,
-"menu_name": "Snickers Caramel Milkshake",
-"description": "Snickers caramel ice cream blended with Snickers chocolate chunks and creamy vanilla milk. Grab your snickers snack today! ",
-"store_id": 40,
-"menu_image": "https://i.ibb.co/PZDZTXw/Snickers-Caramel-Milkshake.jpg",
-"menu_price": "295"
-},
-{
-"menu_id": 597,
-"menu_name": "Bavarian Chocolate Milkshake",
-"description": "An intensely indulgent chocolate milkshake with ice cream, chocolate pieces, and cashew nut crispies. Crunchy, divine, and sinful all at once! ",
-"store_id": 40,
-"menu_image": "https://i.ibb.co/k0hc8JK/Bavarian-Chocolate-Milkshake.jpg",
-"menu_price": "255"
-},
-{
-"menu_id": 598,
-"menu_name": "California Pistachio ice cream ",
-"description": "Exquisite California pistachio ice cream made with an authentic nutty pistachio paste. This is ultimate pistachio perfection ",
-"store_id": 41,
-"menu_image": "https://i.ibb.co/1KjcbN8/californina-pistacho.jpg",
-"menu_price": "94"
-},
-{
-"menu_id": 599,
-"menu_name": "Cookies 'N Cream arctic ice cream pizza slice ",
-"description": "Baked ",
-"store_id": 41,
-"menu_image": "https://i.ibb.co/kmrf2VB/Cookies-N-Cream-arctic-ice-cream-pizza-slice.jpg",
-"menu_price": "99"
-},
-{
-"menu_id": 600,
-"menu_name": "Gold Medal Ribbon Ice cream",
-"description": "A heavenly medley of vanilla and chocolate, embraced by a caramel ribbon. This vanilla and chocolate combo is our dream team! A thick, deep caramel ribbon intertwines the two flavours together in perfection. ",
-"store_id": 41,
-"menu_image": "https://i.ibb.co/J5Hcytb/Gold-Medal-Ribbon-Ice-cream.jpg",
-"menu_price": "94"
-},
-{
-"menu_id": 601,
-"menu_name": "Dutch Chocolate Ice cream",
-"description": "Tempting chocolate ice cream with a distinct hint of cocoa. The mother of every chocolate ice cream creation of ours. ",
-"store_id": 41,
-"menu_image": "https://i.ibb.co/VpBt6wc/Dutch-Chocolate-Ice-cream.jpg",
-"menu_price": "82"
-},
-{
-"menu_id": 602,
-"menu_name": "Black Forest Cake",
-"description": "A classic yet everyone's favourite. Layers of black forest ice cream with chocolate sponge cake, topped with dark chocolate shavings and sweet cherries. Do invite it to your next party! ",
-"store_id": 41,
-"menu_image": "https://i.ibb.co/0rT4yYR/Black-Forest-Cake.jpg",
-"menu_price": "592"
-},
-{
-"menu_id": 603,
-"menu_name": "Cotton Candy Cake",
-"description": "A delicious 4 decker cake made with 2 layers of rich vanilla sponge cake intertwined with all-time-favourite cotton candy ice cream. Garnished with dark chocolate cigars and chocolate coated crispies. A treat for your eyes and taste buds! ",
-"store_id": 41,
-"menu_image": "https://i.ibb.co/Bqd4VCk/Cotton-Candy-Cake.jpg",
-"menu_price": "592"
-},
-{
-"menu_id": 604,
-"menu_name": "Mermaid Sundae",
-"description": "Chocolate mermaid toppers with multicolored sprinkles on your choice of ice cream. A fairytale sundae! ",
-"store_id": 41,
-"menu_image": "https://i.ibb.co/ZmK2L01/Mermaid-Sundae.jpg",
-"menu_price": "157"
-},
-{
-"menu_id": 605,
-"menu_name": "Unicorn Sundaes",
-"description": "Chocolate unicorn toppers with multicolored sprinkles on your choice of icecream. There's magic in every bite!Chocolate unicorn toppers with multicolored sprinkles on your choice of icecream. There's magic in every bite! ",
-"store_id": 41,
-"menu_image": "https://i.ibb.co/KsBCXKM/Unicorn-Sundaes.jpg",
-"menu_price": "157"
-},
-{
-"menu_id": 606,
-"menu_name": "Snickers Caramel Milkshake",
-"description": "Snickers caramel ice cream blended with Snickers chocolate chunks and creamy vanilla milk. Grab your snickers snack today! ",
-"store_id": 41,
-"menu_image": "https://i.ibb.co/PZDZTXw/Snickers-Caramel-Milkshake.jpg",
-"menu_price": "295"
-},
-{
-"menu_id": 607,
-"menu_name": "Bavarian Chocolate Milkshake",
-"description": "An intensely indulgent chocolate milkshake with ice cream, chocolate pieces, and cashew nut crispies. Crunchy, divine, and sinful all at once! ",
-"store_id": 41,
-"menu_image": "https://i.ibb.co/k0hc8JK/Bavarian-Chocolate-Milkshake.jpg",
-"menu_price": "255"
-},
-{
-"menu_id": 608,
-"menu_name": "California Pistachio ice cream ",
-"description": "Exquisite California pistachio ice cream made with an authentic nutty pistachio paste. This is ultimate pistachio perfection ",
-"store_id": 42,
-"menu_image": "https://i.ibb.co/1KjcbN8/californina-pistacho.jpg",
-"menu_price": "94"
-},
-{
-"menu_id": 609,
-"menu_name": "Cookies 'N Cream arctic ice cream pizza slice ",
-"description": "Baked ",
-"store_id": 42,
-"menu_image": "https://i.ibb.co/kmrf2VB/Cookies-N-Cream-arctic-ice-cream-pizza-slice.jpg",
-"menu_price": "99"
-},
-{
-"menu_id": 610,
-"menu_name": "Gold Medal Ribbon Ice cream",
-"description": "A heavenly medley of vanilla and chocolate, embraced by a caramel ribbon. This vanilla and chocolate combo is our dream team! A thick, deep caramel ribbon intertwines the two flavours together in perfection. ",
-"store_id": 42,
-"menu_image": "https://i.ibb.co/J5Hcytb/Gold-Medal-Ribbon-Ice-cream.jpg",
-"menu_price": "94"
-},
-{
-"menu_id": 611,
-"menu_name": "Dutch Chocolate Ice cream",
-"description": "Tempting chocolate ice cream with a distinct hint of cocoa. The mother of every chocolate ice cream creation of ours. ",
-"store_id": 42,
-"menu_image": "https://i.ibb.co/VpBt6wc/Dutch-Chocolate-Ice-cream.jpg",
-"menu_price": "82"
-},
-{
-"menu_id": 612,
-"menu_name": "Black Forest Cake",
-"description": "A classic yet everyone's favourite. Layers of black forest ice cream with chocolate sponge cake, topped with dark chocolate shavings and sweet cherries. Do invite it to your next party! ",
-"store_id": 42,
-"menu_image": "https://i.ibb.co/0rT4yYR/Black-Forest-Cake.jpg",
-"menu_price": "592"
-},
-{
-"menu_id": 613,
-"menu_name": "Cotton Candy Cake",
-"description": "A delicious 4 decker cake made with 2 layers of rich vanilla sponge cake intertwined with all-time-favourite cotton candy ice cream. Garnished with dark chocolate cigars and chocolate coated crispies. A treat for your eyes and taste buds! ",
-"store_id": 42,
-"menu_image": "https://i.ibb.co/Bqd4VCk/Cotton-Candy-Cake.jpg",
-"menu_price": "592"
-},
-{
-"menu_id": 614,
-"menu_name": "Mermaid Sundae",
-"description": "Chocolate mermaid toppers with multicolored sprinkles on your choice of ice cream. A fairytale sundae! ",
-"store_id": 42,
-"menu_image": "https://i.ibb.co/ZmK2L01/Mermaid-Sundae.jpg",
-"menu_price": "157"
-},
-{
-"menu_id": 615,
-"menu_name": "Unicorn Sundaes",
-"description": "Chocolate unicorn toppers with multicolored sprinkles on your choice of icecream. There's magic in every bite!Chocolate unicorn toppers with multicolored sprinkles on your choice of icecream. There's magic in every bite! ",
-"store_id": 42,
-"menu_image": "https://i.ibb.co/KsBCXKM/Unicorn-Sundaes.jpg",
-"menu_price": "157"
-},
-{
-"menu_id": 616,
-"menu_name": "Snickers Caramel Milkshake",
-"description": "Snickers caramel ice cream blended with Snickers chocolate chunks and creamy vanilla milk. Grab your snickers snack today! ",
-"store_id": 42,
-"menu_image": "https://i.ibb.co/PZDZTXw/Snickers-Caramel-Milkshake.jpg",
-"menu_price": "295"
-},
-{
-"menu_id": 617,
-"menu_name": "Bavarian Chocolate Milkshake",
-"description": "An intensely indulgent chocolate milkshake with ice cream, chocolate pieces, and cashew nut crispies. Crunchy, divine, and sinful all at once! ",
-"store_id": 42,
-"menu_image": "https://i.ibb.co/k0hc8JK/Bavarian-Chocolate-Milkshake.jpg",
-"menu_price": "255"
-},
-{
-"menu_id": 618,
-"menu_name": "California Pistachio ice cream ",
-"description": "Exquisite California pistachio ice cream made with an authentic nutty pistachio paste. This is ultimate pistachio perfection ",
-"store_id": 43,
-"menu_image": "https://i.ibb.co/1KjcbN8/californina-pistacho.jpg",
-"menu_price": "94"
-},
-{
-"menu_id": 619,
-"menu_name": "Cookies 'N Cream arctic ice cream pizza slice ",
-"description": "Baked ",
-"store_id": 43,
-"menu_image": "https://i.ibb.co/kmrf2VB/Cookies-N-Cream-arctic-ice-cream-pizza-slice.jpg",
-"menu_price": "99"
-},
-{
-"menu_id": 620,
-"menu_name": "Gold Medal Ribbon Ice cream",
-"description": "A heavenly medley of vanilla and chocolate, embraced by a caramel ribbon. This vanilla and chocolate combo is our dream team! A thick, deep caramel ribbon intertwines the two flavours together in perfection. ",
-"store_id": 43,
-"menu_image": "https://i.ibb.co/J5Hcytb/Gold-Medal-Ribbon-Ice-cream.jpg",
-"menu_price": "94"
-},
-{
-"menu_id": 621,
-"menu_name": "Dutch Chocolate Ice cream",
-"description": "Tempting chocolate ice cream with a distinct hint of cocoa. The mother of every chocolate ice cream creation of ours. ",
-"store_id": 43,
-"menu_image": "https://i.ibb.co/VpBt6wc/Dutch-Chocolate-Ice-cream.jpg",
-"menu_price": "82"
-},
-{
-"menu_id": 622,
-"menu_name": "Black Forest Cake",
-"description": "A classic yet everyone's favourite. Layers of black forest ice cream with chocolate sponge cake, topped with dark chocolate shavings and sweet cherries. Do invite it to your next party! ",
-"store_id": 43,
-"menu_image": "https://i.ibb.co/0rT4yYR/Black-Forest-Cake.jpg",
-"menu_price": "592"
-},
-{
-"menu_id": 623,
-"menu_name": "Cotton Candy Cake",
-"description": "A delicious 4 decker cake made with 2 layers of rich vanilla sponge cake intertwined with all-time-favourite cotton candy ice cream. Garnished with dark chocolate cigars and chocolate coated crispies. A treat for your eyes and taste buds! ",
-"store_id": 43,
-"menu_image": "https://i.ibb.co/Bqd4VCk/Cotton-Candy-Cake.jpg",
-"menu_price": "592"
-},
-{
-"menu_id": 624,
-"menu_name": "Mermaid Sundae",
-"description": "Chocolate mermaid toppers with multicolored sprinkles on your choice of ice cream. A fairytale sundae! ",
-"store_id": 43,
-"menu_image": "https://i.ibb.co/ZmK2L01/Mermaid-Sundae.jpg",
-"menu_price": "157"
-},
-{
-"menu_id": 625,
-"menu_name": "Unicorn Sundaes",
-"description": "Chocolate unicorn toppers with multicolored sprinkles on your choice of icecream. There's magic in every bite!Chocolate unicorn toppers with multicolored sprinkles on your choice of icecream. There's magic in every bite! ",
-"store_id": 43,
-"menu_image": "https://i.ibb.co/KsBCXKM/Unicorn-Sundaes.jpg",
-"menu_price": "157"
-},
-{
-"menu_id": 626,
-"menu_name": "Snickers Caramel Milkshake",
-"description": "Snickers caramel ice cream blended with Snickers chocolate chunks and creamy vanilla milk. Grab your snickers snack today! ",
-"store_id": 43,
-"menu_image": "https://i.ibb.co/PZDZTXw/Snickers-Caramel-Milkshake.jpg",
-"menu_price": "295"
-},
-{
-"menu_id": 627,
-"menu_name": "Bavarian Chocolate Milkshake",
-"description": "An intensely indulgent chocolate milkshake with ice cream, chocolate pieces, and cashew nut crispies. Crunchy, divine, and sinful all at once! ",
-"store_id": 43,
-"menu_image": "https://i.ibb.co/k0hc8JK/Bavarian-Chocolate-Milkshake.jpg",
-"menu_price": "255"
-},
-{
-"menu_id": 628,
-"menu_name": "California Pistachio ice cream ",
-"description": "Exquisite California pistachio ice cream made with an authentic nutty pistachio paste. This is ultimate pistachio perfection ",
-"store_id": 44,
-"menu_image": "https://i.ibb.co/1KjcbN8/californina-pistacho.jpg",
-"menu_price": "94"
-},
-{
-"menu_id": 629,
-"menu_name": "Cookies 'N Cream arctic ice cream pizza slice ",
-"description": "Baked ",
-"store_id": 44,
-"menu_image": "https://i.ibb.co/kmrf2VB/Cookies-N-Cream-arctic-ice-cream-pizza-slice.jpg",
-"menu_price": "99"
-},
-{
-"menu_id": 630,
-"menu_name": "Gold Medal Ribbon Ice cream",
-"description": "A heavenly medley of vanilla and chocolate, embraced by a caramel ribbon. This vanilla and chocolate combo is our dream team! A thick, deep caramel ribbon intertwines the two flavours together in perfection. ",
-"store_id": 44,
-"menu_image": "https://i.ibb.co/J5Hcytb/Gold-Medal-Ribbon-Ice-cream.jpg",
-"menu_price": "94"
-},
-{
-"menu_id": 631,
-"menu_name": "Dutch Chocolate Ice cream",
-"description": "Tempting chocolate ice cream with a distinct hint of cocoa. The mother of every chocolate ice cream creation of ours. ",
-"store_id": 44,
-"menu_image": "https://i.ibb.co/VpBt6wc/Dutch-Chocolate-Ice-cream.jpg",
-"menu_price": "82"
-},
-{
-"menu_id": 632,
-"menu_name": "Black Forest Cake",
-"description": "A classic yet everyone's favourite. Layers of black forest ice cream with chocolate sponge cake, topped with dark chocolate shavings and sweet cherries. Do invite it to your next party! ",
-"store_id": 44,
-"menu_image": "https://i.ibb.co/0rT4yYR/Black-Forest-Cake.jpg",
-"menu_price": "592"
-},
-{
-"menu_id": 633,
-"menu_name": "Cotton Candy Cake",
-"description": "A delicious 4 decker cake made with 2 layers of rich vanilla sponge cake intertwined with all-time-favourite cotton candy ice cream. Garnished with dark chocolate cigars and chocolate coated crispies. A treat for your eyes and taste buds! ",
-"store_id": 44,
-"menu_image": "https://i.ibb.co/Bqd4VCk/Cotton-Candy-Cake.jpg",
-"menu_price": "592"
-},
-{
-"menu_id": 634,
-"menu_name": "Mermaid Sundae",
-"description": "Chocolate mermaid toppers with multicolored sprinkles on your choice of ice cream. A fairytale sundae! ",
-"store_id": 44,
-"menu_image": "https://i.ibb.co/ZmK2L01/Mermaid-Sundae.jpg",
-"menu_price": "157"
-},
-{
-"menu_id": 635,
-"menu_name": "Unicorn Sundaes",
-"description": "Chocolate unicorn toppers with multicolored sprinkles on your choice of icecream. There's magic in every bite!Chocolate unicorn toppers with multicolored sprinkles on your choice of icecream. There's magic in every bite! ",
-"store_id": 44,
-"menu_image": "https://i.ibb.co/KsBCXKM/Unicorn-Sundaes.jpg",
-"menu_price": "157"
-},
-{
-"menu_id": 636,
-"menu_name": "Snickers Caramel Milkshake",
-"description": "Snickers caramel ice cream blended with Snickers chocolate chunks and creamy vanilla milk. Grab your snickers snack today! ",
-"store_id": 44,
-"menu_image": "https://i.ibb.co/PZDZTXw/Snickers-Caramel-Milkshake.jpg",
-"menu_price": "295"
-},
-{
-"menu_id": 637,
-"menu_name": "Bavarian Chocolate Milkshake",
-"description": "An intensely indulgent chocolate milkshake with ice cream, chocolate pieces, and cashew nut crispies. Crunchy, divine, and sinful all at once! ",
-"store_id": 44,
-"menu_image": "https://i.ibb.co/k0hc8JK/Bavarian-Chocolate-Milkshake.jpg",
-"menu_price": "255"
-},
-{
-"menu_id": 638,
-"menu_name": "Cookies 'N Cream arctic ice cream pizza slice ",
-"description": "Baked ",
-"store_id": 45,
-"menu_image": "https://i.ibb.co/kmrf2VB/Cookies-N-Cream-arctic-ice-cream-pizza-slice.jpg",
-"menu_price": "99"
-},
-{
-"menu_id": 639,
-"menu_name": "Pralines 'N Cream arctic ice cream pizza slice ",
-"description": "Baked ",
-"store_id": 45,
-"menu_image": "https://i.ibb.co/J7pwD5g/Homepage-product-r1-30-copy-jpg.jpg",
-"menu_price": "99"
-},
-{
-"menu_id": 640,
-"menu_name": "Chocolate Almond Praline Ice cream",
-"description": "Praline coated Almonds peeping out of Dark Chocolate ice cream (Contains milk & tree nuts (Almond)",
-"store_id": 45,
-"menu_image": "https://i.ibb.co/7CthNQW/image-0053-Chocolate-Almond-Praline-Cup-jpg.jpg",
-"menu_price": "94"
-},
-{
-"menu_id": 641,
-"menu_name": "Butterscotch Fudge with Cookie Crumble",
-"description": "Creamy Butterscotch ice cream with a swirly butterscotch ribbon, and loaded with Oreo cookie crumble. Perfection in a scoop!",
-"store_id": 45,
-"menu_image": "https://i.ibb.co/rZRYGTc/Butterscotch-Fudge-with-Cookie-Crumble.jpg",
-"menu_price": "94"
-},
-{
-"menu_id": 642,
-"menu_name": "Blueberry Cheesecake",
-"description": "A beautiful biscuit crumble base layered with delicious cheesecake ice cream. Add to it another layer of fluffy vanilla sponge cake and some more cheesecake ice cream. Adorned with exotic blueberries and whipped cream. Get transported to NY! ",
-"store_id": 45,
-"menu_image": "https://i.ibb.co/0KwmJxz/Blueberry-Cheesecake.jpg",
-"menu_price": "617"
-},
-{
-"menu_id": 643,
-"menu_name": "Pineapple Cake",
-"description": "A 4 decker cake made with alternate layers of super moist vanilla sponge cake and succulent pineapple ice cream. Garnished with white chocolate and whipped cream swirls. Pineapple cakes never run out of fashion! ",
-"store_id": 45,
-"menu_image": "https://i.ibb.co/Gknq46K/Pineapple-Cake.jpg",
-"menu_price": "617"
-},
-{
-"menu_id": 644,
-"menu_name": "Plant Sundae",
-"description": "An edible masterpiece in a crispy waffle pot, layered with Cookies N' Cream and Vanilla ice cream, topped with cookie crumble soil and a white chocolate leaf. Savor the sweet symphony of Plant Sundae magic! ",
-"store_id": 45,
-"menu_image": "https://i.ibb.co/fvbWWNW/Plant-Sundae-jpg.jpg",
-"menu_price": "165"
-},
-{
-"menu_id": 645,
-"menu_name": "Nutty Professor",
-"description": "We made sure this treat is as nutty as its name. Crunchy Californian almond ice cream paired generously with nuts, almonds, cashews, and raisins drowning in a delicious hot fudge sauce and topped off with whipped cream. Going nutty has never been this fun before. ",
-"store_id": 45,
-"menu_image": "https://i.ibb.co/bRwnwKn/Nutty-Professor.jpg",
-"menu_price": "240"
-},
-{
-"menu_id": 646,
-"menu_name": "Bavarian Chocolate Milkshake",
-"description": "An intensely indulgent chocolate milkshake with ice cream, chocolate pieces, and cashew nut crispies. Crunchy, divine, and sinful all at once! ",
-"store_id": 45,
-"menu_image": "https://i.ibb.co/k0hc8JK/Bavarian-Chocolate-Milkshake.jpg",
-"menu_price": "255"
-},
-{
-"menu_id": 647,
-"menu_name": "Roasted Californian Almond Milkshake",
-"description": "A delightful milkshake made with Vanilla ice cream, a caramel ribbon, and almond praline. A flavour you're not likely to forget ",
-"store_id": 45,
-"menu_image": "https://i.ibb.co/TmxHLYX/Roasted-Californian-Almond-Milkshake.jpg",
-"menu_price": "255"
-}
+        "menu_id": 472,
+        "menu_name": "Blueberry Cheesecake",
+        "description": "A beautiful biscuit crumble base layered with delicious cheesecake ice cream. Add to it another layer of fluffy vanilla sponge cake and some more cheesecake ice cream. Adorned with exotic blueberries and whipped cream. Get transported to NY! ",
+        "store_id": 28,
+        "menu_image": "https://i.ibb.co/0KwmJxz/Blueberry-Cheesecake.jpg",
+        "menu_price": "617"
+    },
+    {
+        "menu_id": 473,
+        "menu_name": "Pineapple Cake",
+        "description": "A 4 decker cake made with alternate layers of super moist vanilla sponge cake and succulent pineapple ice cream. Garnished with white chocolate and whipped cream swirls. Pineapple cakes never run out of fashion! ",
+        "store_id": 28,
+        "menu_image": "https://i.ibb.co/Gknq46K/Pineapple-Cake.jpg",
+        "menu_price": "617"
+    },
+    {
+        "menu_id": 474,
+        "menu_name": "Plant Sundae",
+        "description": "An edible masterpiece in a crispy waffle pot, layered with Cookies N' Cream and Vanilla ice cream, topped with cookie crumble soil and a white chocolate leaf. Savor the sweet symphony of Plant Sundae magic! ",
+        "store_id": 28,
+        "menu_image": "https://i.ibb.co/fvbWWNW/Plant-Sundae-jpg.jpg",
+        "menu_price": "165"
+    },
+    {
+        "menu_id": 475,
+        "menu_name": "Nutty Professor",
+        "description": "We made sure this treat is as nutty as its name. Crunchy Californian almond ice cream paired generously with nuts, almonds, cashews, and raisins drowning in a delicious hot fudge sauce and topped off with whipped cream. Going nutty has never been this fun before. ",
+        "store_id": 28,
+        "menu_image": "https://i.ibb.co/bRwnwKn/Nutty-Professor.jpg",
+        "menu_price": "240"
+    },
+    {
+        "menu_id": 476,
+        "menu_name": "Bavarian Chocolate Milkshake",
+        "description": "An intensely indulgent chocolate milkshake with ice cream, chocolate pieces, and cashew nut crispies. Crunchy, divine, and sinful all at once! ",
+        "store_id": 28,
+        "menu_image": "https://i.ibb.co/k0hc8JK/Bavarian-Chocolate-Milkshake.jpg",
+        "menu_price": "255"
+    },
+    {
+        "menu_id": 477,
+        "menu_name": "Roasted Californian Almond Milkshake",
+        "description": "A delightful milkshake made with Vanilla ice cream, a caramel ribbon, and almond praline. A flavour you're not likely to forget ",
+        "store_id": 28,
+        "menu_image": "https://i.ibb.co/TmxHLYX/Roasted-Californian-Almond-Milkshake.jpg",
+        "menu_price": "255"
+    },
+    {
+        "menu_id": 478,
+        "menu_name": "Cookies 'N Cream arctic ice cream pizza slice ",
+        "description": "Baked ",
+        "store_id": 29,
+        "menu_image": "https://i.ibb.co/kmrf2VB/Cookies-N-Cream-arctic-ice-cream-pizza-slice.jpg",
+        "menu_price": "99"
+    },
+    {
+        "menu_id": 479,
+        "menu_name": "Pralines 'N Cream arctic ice cream pizza slice ",
+        "description": "Baked ",
+        "store_id": 29,
+        "menu_image": "https://i.ibb.co/J7pwD5g/Homepage-product-r1-30-copy-jpg.jpg",
+        "menu_price": "99"
+    },
+    {
+        "menu_id": 480,
+        "menu_name": "Chocolate Almond Praline Ice cream",
+        "description": "Praline coated Almonds peeping out of Dark Chocolate ice cream (Contains milk & tree nuts (Almond)",
+        "store_id": 29,
+        "menu_image": "https://i.ibb.co/7CthNQW/image-0053-Chocolate-Almond-Praline-Cup-jpg.jpg",
+        "menu_price": "94"
+    },
+    {
+        "menu_id": 481,
+        "menu_name": "Butterscotch Fudge with Cookie Crumble",
+        "description": "Creamy Butterscotch ice cream with a swirly butterscotch ribbon, and loaded with Oreo cookie crumble. Perfection in a scoop!",
+        "store_id": 29,
+        "menu_image": "https://i.ibb.co/rZRYGTc/Butterscotch-Fudge-with-Cookie-Crumble.jpg",
+        "menu_price": "94"
+    },
+    {
+        "menu_id": 482,
+        "menu_name": "Blueberry Cheesecake",
+        "description": "A beautiful biscuit crumble base layered with delicious cheesecake ice cream. Add to it another layer of fluffy vanilla sponge cake and some more cheesecake ice cream. Adorned with exotic blueberries and whipped cream. Get transported to NY! ",
+        "store_id": 29,
+        "menu_image": "https://i.ibb.co/0KwmJxz/Blueberry-Cheesecake.jpg",
+        "menu_price": "617"
+    },
+    {
+        "menu_id": 483,
+        "menu_name": "Pineapple Cake",
+        "description": "A 4 decker cake made with alternate layers of super moist vanilla sponge cake and succulent pineapple ice cream. Garnished with white chocolate and whipped cream swirls. Pineapple cakes never run out of fashion! ",
+        "store_id": 29,
+        "menu_image": "https://i.ibb.co/Gknq46K/Pineapple-Cake.jpg",
+        "menu_price": "617"
+    },
+    {
+        "menu_id": 484,
+        "menu_name": "Plant Sundae",
+        "description": "An edible masterpiece in a crispy waffle pot, layered with Cookies N' Cream and Vanilla ice cream, topped with cookie crumble soil and a white chocolate leaf. Savor the sweet symphony of Plant Sundae magic! ",
+        "store_id": 29,
+        "menu_image": "https://i.ibb.co/fvbWWNW/Plant-Sundae-jpg.jpg",
+        "menu_price": "165"
+    },
+    {
+        "menu_id": 485,
+        "menu_name": "Nutty Professor",
+        "description": "We made sure this treat is as nutty as its name. Crunchy Californian almond ice cream paired generously with nuts, almonds, cashews, and raisins drowning in a delicious hot fudge sauce and topped off with whipped cream. Going nutty has never been this fun before. ",
+        "store_id": 29,
+        "menu_image": "https://i.ibb.co/bRwnwKn/Nutty-Professor.jpg",
+        "menu_price": "240"
+    },
+    {
+        "menu_id": 486,
+        "menu_name": "Bavarian Chocolate Milkshake",
+        "description": "An intensely indulgent chocolate milkshake with ice cream, chocolate pieces, and cashew nut crispies. Crunchy, divine, and sinful all at once! ",
+        "store_id": 29,
+        "menu_image": "https://i.ibb.co/k0hc8JK/Bavarian-Chocolate-Milkshake.jpg",
+        "menu_price": "255"
+    },
+    {
+        "menu_id": 487,
+        "menu_name": "Roasted Californian Almond Milkshake",
+        "description": "A delightful milkshake made with Vanilla ice cream, a caramel ribbon, and almond praline. A flavour you're not likely to forget ",
+        "store_id": 29,
+        "menu_image": "https://i.ibb.co/TmxHLYX/Roasted-Californian-Almond-Milkshake.jpg",
+        "menu_price": "255"
+    },
+    {
+        "menu_id": 488,
+        "menu_name": "Cookies 'N Cream arctic ice cream pizza slice ",
+        "description": "Baked ",
+        "store_id": 30,
+        "menu_image": "https://i.ibb.co/kmrf2VB/Cookies-N-Cream-arctic-ice-cream-pizza-slice.jpg",
+        "menu_price": "99"
+    },
+    {
+        "menu_id": 489,
+        "menu_name": "Pralines 'N Cream arctic ice cream pizza slice ",
+        "description": "Baked ",
+        "store_id": 30,
+        "menu_image": "https://i.ibb.co/J7pwD5g/Homepage-product-r1-30-copy-jpg.jpg",
+        "menu_price": "99"
+    },
+    {
+        "menu_id": 490,
+        "menu_name": "Chocolate Almond Praline Ice cream",
+        "description": "Praline coated Almonds peeping out of Dark Chocolate ice cream (Contains milk & tree nuts (Almond)",
+        "store_id": 30,
+        "menu_image": "https://i.ibb.co/7CthNQW/image-0053-Chocolate-Almond-Praline-Cup-jpg.jpg",
+        "menu_price": "94"
+    },
+    {
+        "menu_id": 491,
+        "menu_name": "Butterscotch Fudge with Cookie Crumble",
+        "description": "Creamy Butterscotch ice cream with a swirly butterscotch ribbon, and loaded with Oreo cookie crumble. Perfection in a scoop!",
+        "store_id": 30,
+        "menu_image": "https://i.ibb.co/rZRYGTc/Butterscotch-Fudge-with-Cookie-Crumble.jpg",
+        "menu_price": "94"
+    },
+    {
+        "menu_id": 492,
+        "menu_name": "Blueberry Cheesecake",
+        "description": "A beautiful biscuit crumble base layered with delicious cheesecake ice cream. Add to it another layer of fluffy vanilla sponge cake and some more cheesecake ice cream. Adorned with exotic blueberries and whipped cream. Get transported to NY! ",
+        "store_id": 30,
+        "menu_image": "https://i.ibb.co/0KwmJxz/Blueberry-Cheesecake.jpg",
+        "menu_price": "617"
+    },
+    {
+        "menu_id": 493,
+        "menu_name": "Pineapple Cake",
+        "description": "A 4 decker cake made with alternate layers of super moist vanilla sponge cake and succulent pineapple ice cream. Garnished with white chocolate and whipped cream swirls. Pineapple cakes never run out of fashion! ",
+        "store_id": 30,
+        "menu_image": "https://i.ibb.co/Gknq46K/Pineapple-Cake.jpg",
+        "menu_price": "617"
+    },
+    {
+        "menu_id": 494,
+        "menu_name": "Plant Sundae",
+        "description": "An edible masterpiece in a crispy waffle pot, layered with Cookies N' Cream and Vanilla ice cream, topped with cookie crumble soil and a white chocolate leaf. Savor the sweet symphony of Plant Sundae magic! ",
+        "store_id": 30,
+        "menu_image": "https://i.ibb.co/fvbWWNW/Plant-Sundae-jpg.jpg",
+        "menu_price": "165"
+    },
+    {
+        "menu_id": 495,
+        "menu_name": "Nutty Professor",
+        "description": "We made sure this treat is as nutty as its name. Crunchy Californian almond ice cream paired generously with nuts, almonds, cashews, and raisins drowning in a delicious hot fudge sauce and topped off with whipped cream. Going nutty has never been this fun before. ",
+        "store_id": 30,
+        "menu_image": "https://i.ibb.co/bRwnwKn/Nutty-Professor.jpg",
+        "menu_price": "240"
+    },
+    {
+        "menu_id": 496,
+        "menu_name": "Bavarian Chocolate Milkshake",
+        "description": "An intensely indulgent chocolate milkshake with ice cream, chocolate pieces, and cashew nut crispies. Crunchy, divine, and sinful all at once! ",
+        "store_id": 30,
+        "menu_image": "https://i.ibb.co/k0hc8JK/Bavarian-Chocolate-Milkshake.jpg",
+        "menu_price": "255"
+    },
+    {
+        "menu_id": 497,
+        "menu_name": "Roasted Californian Almond Milkshake",
+        "description": "A delightful milkshake made with Vanilla ice cream, a caramel ribbon, and almond praline. A flavour you're not likely to forget ",
+        "store_id": 30,
+        "menu_image": "https://i.ibb.co/TmxHLYX/Roasted-Californian-Almond-Milkshake.jpg",
+        "menu_price": "255"
+    },
+    {
+        "menu_id": 498,
+        "menu_name": "Cookies 'N Cream arctic ice cream pizza slice ",
+        "description": "Baked ",
+        "store_id": 31,
+        "menu_image": "https://i.ibb.co/kmrf2VB/Cookies-N-Cream-arctic-ice-cream-pizza-slice.jpg",
+        "menu_price": "99"
+    },
+    {
+        "menu_id": 499,
+        "menu_name": "Pralines 'N Cream arctic ice cream pizza slice ",
+        "description": "Baked ",
+        "store_id": 31,
+        "menu_image": "https://i.ibb.co/J7pwD5g/Homepage-product-r1-30-copy-jpg.jpg",
+        "menu_price": "99"
+    },
+    {
+        "menu_id": 500,
+        "menu_name": "Chocolate Almond Praline Ice cream",
+        "description": "Praline coated Almonds peeping out of Dark Chocolate ice cream (Contains milk & tree nuts (Almond)",
+        "store_id": 31,
+        "menu_image": "https://i.ibb.co/7CthNQW/image-0053-Chocolate-Almond-Praline-Cup-jpg.jpg",
+        "menu_price": "94"
+    },
+    {
+        "menu_id": 501,
+        "menu_name": "Butterscotch Fudge with Cookie Crumble",
+        "description": "Creamy Butterscotch ice cream with a swirly butterscotch ribbon, and loaded with Oreo cookie crumble. Perfection in a scoop!",
+        "store_id": 31,
+        "menu_image": "https://i.ibb.co/rZRYGTc/Butterscotch-Fudge-with-Cookie-Crumble.jpg",
+        "menu_price": "94"
+    },
+    {
+        "menu_id": 502,
+        "menu_name": "Blueberry Cheesecake",
+        "description": "A beautiful biscuit crumble base layered with delicious cheesecake ice cream. Add to it another layer of fluffy vanilla sponge cake and some more cheesecake ice cream. Adorned with exotic blueberries and whipped cream. Get transported to NY! ",
+        "store_id": 31,
+        "menu_image": "https://i.ibb.co/0KwmJxz/Blueberry-Cheesecake.jpg",
+        "menu_price": "617"
+    },
+    {
+        "menu_id": 503,
+        "menu_name": "Pineapple Cake",
+        "description": "A 4 decker cake made with alternate layers of super moist vanilla sponge cake and succulent pineapple ice cream. Garnished with white chocolate and whipped cream swirls. Pineapple cakes never run out of fashion! ",
+        "store_id": 31,
+        "menu_image": "https://i.ibb.co/Gknq46K/Pineapple-Cake.jpg",
+        "menu_price": "617"
+    },
+    {
+        "menu_id": 504,
+        "menu_name": "Plant Sundae",
+        "description": "An edible masterpiece in a crispy waffle pot, layered with Cookies N' Cream and Vanilla ice cream, topped with cookie crumble soil and a white chocolate leaf. Savor the sweet symphony of Plant Sundae magic! ",
+        "store_id": 31,
+        "menu_image": "https://i.ibb.co/fvbWWNW/Plant-Sundae-jpg.jpg",
+        "menu_price": "165"
+    },
+    {
+        "menu_id": 505,
+        "menu_name": "Nutty Professor",
+        "description": "We made sure this treat is as nutty as its name. Crunchy Californian almond ice cream paired generously with nuts, almonds, cashews, and raisins drowning in a delicious hot fudge sauce and topped off with whipped cream. Going nutty has never been this fun before. ",
+        "store_id": 31,
+        "menu_image": "https://i.ibb.co/bRwnwKn/Nutty-Professor.jpg",
+        "menu_price": "240"
+    },
+    {
+        "menu_id": 506,
+        "menu_name": "Bavarian Chocolate Milkshake",
+        "description": "An intensely indulgent chocolate milkshake with ice cream, chocolate pieces, and cashew nut crispies. Crunchy, divine, and sinful all at once! ",
+        "store_id": 31,
+        "menu_image": "https://i.ibb.co/k0hc8JK/Bavarian-Chocolate-Milkshake.jpg",
+        "menu_price": "255"
+    },
+    {
+        "menu_id": 507,
+        "menu_name": "Roasted Californian Almond Milkshake",
+        "description": "A delightful milkshake made with Vanilla ice cream, a caramel ribbon, and almond praline. A flavour you're not likely to forget ",
+        "store_id": 31,
+        "menu_image": "https://i.ibb.co/TmxHLYX/Roasted-Californian-Almond-Milkshake.jpg",
+        "menu_price": "255"
+    },
+    {
+        "menu_id": 508,
+        "menu_name": "Cookies 'N Cream arctic ice cream pizza slice ",
+        "description": "Baked ",
+        "store_id": 32,
+        "menu_image": "https://i.ibb.co/kmrf2VB/Cookies-N-Cream-arctic-ice-cream-pizza-slice.jpg",
+        "menu_price": "99"
+    },
+    {
+        "menu_id": 509,
+        "menu_name": "Pralines 'N Cream arctic ice cream pizza slice ",
+        "description": "Baked ",
+        "store_id": 32,
+        "menu_image": "https://i.ibb.co/J7pwD5g/Homepage-product-r1-30-copy-jpg.jpg",
+        "menu_price": "99"
+    },
+    {
+        "menu_id": 510,
+        "menu_name": "Chocolate Almond Praline Ice cream",
+        "description": "Praline coated Almonds peeping out of Dark Chocolate ice cream (Contains milk & tree nuts (Almond)",
+        "store_id": 32,
+        "menu_image": "https://i.ibb.co/7CthNQW/image-0053-Chocolate-Almond-Praline-Cup-jpg.jpg",
+        "menu_price": "94"
+    },
+    {
+        "menu_id": 511,
+        "menu_name": "Butterscotch Fudge with Cookie Crumble",
+        "description": "Creamy Butterscotch ice cream with a swirly butterscotch ribbon, and loaded with Oreo cookie crumble. Perfection in a scoop!",
+        "store_id": 32,
+        "menu_image": "https://i.ibb.co/rZRYGTc/Butterscotch-Fudge-with-Cookie-Crumble.jpg",
+        "menu_price": "94"
+    },
+    {
+        "menu_id": 512,
+        "menu_name": "Blueberry Cheesecake",
+        "description": "A beautiful biscuit crumble base layered with delicious cheesecake ice cream. Add to it another layer of fluffy vanilla sponge cake and some more cheesecake ice cream. Adorned with exotic blueberries and whipped cream. Get transported to NY! ",
+        "store_id": 32,
+        "menu_image": "https://i.ibb.co/0KwmJxz/Blueberry-Cheesecake.jpg",
+        "menu_price": "617"
+    },
+    {
+        "menu_id": 513,
+        "menu_name": "Pineapple Cake",
+        "description": "A 4 decker cake made with alternate layers of super moist vanilla sponge cake and succulent pineapple ice cream. Garnished with white chocolate and whipped cream swirls. Pineapple cakes never run out of fashion! ",
+        "store_id": 32,
+        "menu_image": "https://i.ibb.co/Gknq46K/Pineapple-Cake.jpg",
+        "menu_price": "617"
+    },
+    {
+        "menu_id": 514,
+        "menu_name": "Plant Sundae",
+        "description": "An edible masterpiece in a crispy waffle pot, layered with Cookies N' Cream and Vanilla ice cream, topped with cookie crumble soil and a white chocolate leaf. Savor the sweet symphony of Plant Sundae magic! ",
+        "store_id": 32,
+        "menu_image": "https://i.ibb.co/fvbWWNW/Plant-Sundae-jpg.jpg",
+        "menu_price": "165"
+    },
+    {
+        "menu_id": 515,
+        "menu_name": "Nutty Professor",
+        "description": "We made sure this treat is as nutty as its name. Crunchy Californian almond ice cream paired generously with nuts, almonds, cashews, and raisins drowning in a delicious hot fudge sauce and topped off with whipped cream. Going nutty has never been this fun before. ",
+        "store_id": 32,
+        "menu_image": "https://i.ibb.co/bRwnwKn/Nutty-Professor.jpg",
+        "menu_price": "240"
+    },
+    {
+        "menu_id": 516,
+        "menu_name": "Bavarian Chocolate Milkshake",
+        "description": "An intensely indulgent chocolate milkshake with ice cream, chocolate pieces, and cashew nut crispies. Crunchy, divine, and sinful all at once! ",
+        "store_id": 32,
+        "menu_image": "https://i.ibb.co/k0hc8JK/Bavarian-Chocolate-Milkshake.jpg",
+        "menu_price": "255"
+    },
+    {
+        "menu_id": 517,
+        "menu_name": "Roasted Californian Almond Milkshake",
+        "description": "A delightful milkshake made with Vanilla ice cream, a caramel ribbon, and almond praline. A flavour you're not likely to forget ",
+        "store_id": 32,
+        "menu_image": "https://i.ibb.co/TmxHLYX/Roasted-Californian-Almond-Milkshake.jpg",
+        "menu_price": "255"
+    },
+    {
+        "menu_id": 518,
+        "menu_name": "Cookies 'N Cream arctic ice cream pizza slice ",
+        "description": "Baked ",
+        "store_id": 33,
+        "menu_image": "https://i.ibb.co/kmrf2VB/Cookies-N-Cream-arctic-ice-cream-pizza-slice.jpg",
+        "menu_price": "99"
+    },
+    {
+        "menu_id": 519,
+        "menu_name": "Pralines 'N Cream arctic ice cream pizza slice ",
+        "description": "Baked ",
+        "store_id": 33,
+        "menu_image": "https://i.ibb.co/J7pwD5g/Homepage-product-r1-30-copy-jpg.jpg",
+        "menu_price": "99"
+    },
+    {
+        "menu_id": 520,
+        "menu_name": "Chocolate Almond Praline Ice cream",
+        "description": "Praline coated Almonds peeping out of Dark Chocolate ice cream (Contains milk & tree nuts (Almond)",
+        "store_id": 33,
+        "menu_image": "https://i.ibb.co/7CthNQW/image-0053-Chocolate-Almond-Praline-Cup-jpg.jpg",
+        "menu_price": "94"
+    },
+    {
+        "menu_id": 521,
+        "menu_name": "Butterscotch Fudge with Cookie Crumble",
+        "description": "Creamy Butterscotch ice cream with a swirly butterscotch ribbon, and loaded with Oreo cookie crumble. Perfection in a scoop!",
+        "store_id": 33,
+        "menu_image": "https://i.ibb.co/rZRYGTc/Butterscotch-Fudge-with-Cookie-Crumble.jpg",
+        "menu_price": "94"
+    },
+    {
+        "menu_id": 522,
+        "menu_name": "Blueberry Cheesecake",
+        "description": "A beautiful biscuit crumble base layered with delicious cheesecake ice cream. Add to it another layer of fluffy vanilla sponge cake and some more cheesecake ice cream. Adorned with exotic blueberries and whipped cream. Get transported to NY! ",
+        "store_id": 33,
+        "menu_image": "https://i.ibb.co/0KwmJxz/Blueberry-Cheesecake.jpg",
+        "menu_price": "617"
+    },
+    {
+        "menu_id": 523,
+        "menu_name": "Pineapple Cake",
+        "description": "A 4 decker cake made with alternate layers of super moist vanilla sponge cake and succulent pineapple ice cream. Garnished with white chocolate and whipped cream swirls. Pineapple cakes never run out of fashion! ",
+        "store_id": 33,
+        "menu_image": "https://i.ibb.co/Gknq46K/Pineapple-Cake.jpg",
+        "menu_price": "617"
+    },
+    {
+        "menu_id": 524,
+        "menu_name": "Plant Sundae",
+        "description": "An edible masterpiece in a crispy waffle pot, layered with Cookies N' Cream and Vanilla ice cream, topped with cookie crumble soil and a white chocolate leaf. Savor the sweet symphony of Plant Sundae magic! ",
+        "store_id": 33,
+        "menu_image": "https://i.ibb.co/fvbWWNW/Plant-Sundae-jpg.jpg",
+        "menu_price": "165"
+    },
+    {
+        "menu_id": 525,
+        "menu_name": "Nutty Professor",
+        "description": "We made sure this treat is as nutty as its name. Crunchy Californian almond ice cream paired generously with nuts, almonds, cashews, and raisins drowning in a delicious hot fudge sauce and topped off with whipped cream. Going nutty has never been this fun before. ",
+        "store_id": 33,
+        "menu_image": "https://i.ibb.co/bRwnwKn/Nutty-Professor.jpg",
+        "menu_price": "240"
+    },
+    {
+        "menu_id": 526,
+        "menu_name": "Bavarian Chocolate Milkshake",
+        "description": "An intensely indulgent chocolate milkshake with ice cream, chocolate pieces, and cashew nut crispies. Crunchy, divine, and sinful all at once! ",
+        "store_id": 33,
+        "menu_image": "https://i.ibb.co/k0hc8JK/Bavarian-Chocolate-Milkshake.jpg",
+        "menu_price": "255"
+    },
+    {
+        "menu_id": 527,
+        "menu_name": "Roasted Californian Almond Milkshake",
+        "description": "A delightful milkshake made with Vanilla ice cream, a caramel ribbon, and almond praline. A flavour you're not likely to forget ",
+        "store_id": 33,
+        "menu_image": "https://i.ibb.co/TmxHLYX/Roasted-Californian-Almond-Milkshake.jpg",
+        "menu_price": "255"
+    },
+    {
+        "menu_id": 528,
+        "menu_name": "Cookies 'N Cream arctic ice cream pizza slice ",
+        "description": "Baked ",
+        "store_id": 34,
+        "menu_image": "https://i.ibb.co/kmrf2VB/Cookies-N-Cream-arctic-ice-cream-pizza-slice.jpg",
+        "menu_price": "99"
+    },
+    {
+        "menu_id": 529,
+        "menu_name": "Pralines 'N Cream arctic ice cream pizza slice ",
+        "description": "Baked ",
+        "store_id": 34,
+        "menu_image": "https://i.ibb.co/J7pwD5g/Homepage-product-r1-30-copy-jpg.jpg",
+        "menu_price": "99"
+    },
+    {
+        "menu_id": 530,
+        "menu_name": "Chocolate Almond Praline Ice cream",
+        "description": "Praline coated Almonds peeping out of Dark Chocolate ice cream (Contains milk & tree nuts (Almond)",
+        "store_id": 34,
+        "menu_image": "https://i.ibb.co/7CthNQW/image-0053-Chocolate-Almond-Praline-Cup-jpg.jpg",
+        "menu_price": "94"
+    },
+    {
+        "menu_id": 531,
+        "menu_name": "Butterscotch Fudge with Cookie Crumble",
+        "description": "Creamy Butterscotch ice cream with a swirly butterscotch ribbon, and loaded with Oreo cookie crumble. Perfection in a scoop!",
+        "store_id": 34,
+        "menu_image": "https://i.ibb.co/rZRYGTc/Butterscotch-Fudge-with-Cookie-Crumble.jpg",
+        "menu_price": "94"
+    },
+    {
+        "menu_id": 532,
+        "menu_name": "Blueberry Cheesecake",
+        "description": "A beautiful biscuit crumble base layered with delicious cheesecake ice cream. Add to it another layer of fluffy vanilla sponge cake and some more cheesecake ice cream. Adorned with exotic blueberries and whipped cream. Get transported to NY! ",
+        "store_id": 34,
+        "menu_image": "https://i.ibb.co/0KwmJxz/Blueberry-Cheesecake.jpg",
+        "menu_price": "617"
+    },
+    {
+        "menu_id": 533,
+        "menu_name": "Pineapple Cake",
+        "description": "A 4 decker cake made with alternate layers of super moist vanilla sponge cake and succulent pineapple ice cream. Garnished with white chocolate and whipped cream swirls. Pineapple cakes never run out of fashion! ",
+        "store_id": 34,
+        "menu_image": "https://i.ibb.co/Gknq46K/Pineapple-Cake.jpg",
+        "menu_price": "617"
+    },
+    {
+        "menu_id": 534,
+        "menu_name": "Plant Sundae",
+        "description": "An edible masterpiece in a crispy waffle pot, layered with Cookies N' Cream and Vanilla ice cream, topped with cookie crumble soil and a white chocolate leaf. Savor the sweet symphony of Plant Sundae magic! ",
+        "store_id": 34,
+        "menu_image": "https://i.ibb.co/fvbWWNW/Plant-Sundae-jpg.jpg",
+        "menu_price": "165"
+    },
+    {
+        "menu_id": 535,
+        "menu_name": "Nutty Professor",
+        "description": "We made sure this treat is as nutty as its name. Crunchy Californian almond ice cream paired generously with nuts, almonds, cashews, and raisins drowning in a delicious hot fudge sauce and topped off with whipped cream. Going nutty has never been this fun before. ",
+        "store_id": 34,
+        "menu_image": "https://i.ibb.co/bRwnwKn/Nutty-Professor.jpg",
+        "menu_price": "240"
+    },
+    {
+        "menu_id": 536,
+        "menu_name": "Bavarian Chocolate Milkshake",
+        "description": "An intensely indulgent chocolate milkshake with ice cream, chocolate pieces, and cashew nut crispies. Crunchy, divine, and sinful all at once! ",
+        "store_id": 34,
+        "menu_image": "https://i.ibb.co/k0hc8JK/Bavarian-Chocolate-Milkshake.jpg",
+        "menu_price": "255"
+    },
+    {
+        "menu_id": 537,
+        "menu_name": "Roasted Californian Almond Milkshake",
+        "description": "A delightful milkshake made with Vanilla ice cream, a caramel ribbon, and almond praline. A flavour you're not likely to forget ",
+        "store_id": 34,
+        "menu_image": "https://i.ibb.co/TmxHLYX/Roasted-Californian-Almond-Milkshake.jpg",
+        "menu_price": "255"
+    },
+    {
+        "menu_id": 538,
+        "menu_name": "Cookies 'N Cream arctic ice cream pizza slice ",
+        "description": "Baked ",
+        "store_id": 35,
+        "menu_image": "https://i.ibb.co/kmrf2VB/Cookies-N-Cream-arctic-ice-cream-pizza-slice.jpg",
+        "menu_price": "99"
+    },
+    {
+        "menu_id": 539,
+        "menu_name": "Pralines 'N Cream arctic ice cream pizza slice ",
+        "description": "Baked ",
+        "store_id": 35,
+        "menu_image": "https://i.ibb.co/J7pwD5g/Homepage-product-r1-30-copy-jpg.jpg",
+        "menu_price": "99"
+    },
+    {
+        "menu_id": 540,
+        "menu_name": "Chocolate Almond Praline Ice cream",
+        "description": "Praline coated Almonds peeping out of Dark Chocolate ice cream (Contains milk & tree nuts (Almond)",
+        "store_id": 35,
+        "menu_image": "https://i.ibb.co/7CthNQW/image-0053-Chocolate-Almond-Praline-Cup-jpg.jpg",
+        "menu_price": "94"
+    },
+    {
+        "menu_id": 541,
+        "menu_name": "Butterscotch Fudge with Cookie Crumble",
+        "description": "Creamy Butterscotch ice cream with a swirly butterscotch ribbon, and loaded with Oreo cookie crumble. Perfection in a scoop!",
+        "store_id": 35,
+        "menu_image": "https://i.ibb.co/rZRYGTc/Butterscotch-Fudge-with-Cookie-Crumble.jpg",
+        "menu_price": "94"
+    },
+    {
+        "menu_id": 542,
+        "menu_name": "Blueberry Cheesecake",
+        "description": "A beautiful biscuit crumble base layered with delicious cheesecake ice cream. Add to it another layer of fluffy vanilla sponge cake and some more cheesecake ice cream. Adorned with exotic blueberries and whipped cream. Get transported to NY! ",
+        "store_id": 35,
+        "menu_image": "https://i.ibb.co/0KwmJxz/Blueberry-Cheesecake.jpg",
+        "menu_price": "617"
+    },
+    {
+        "menu_id": 543,
+        "menu_name": "Pineapple Cake",
+        "description": "A 4 decker cake made with alternate layers of super moist vanilla sponge cake and succulent pineapple ice cream. Garnished with white chocolate and whipped cream swirls. Pineapple cakes never run out of fashion! ",
+        "store_id": 35,
+        "menu_image": "https://i.ibb.co/Gknq46K/Pineapple-Cake.jpg",
+        "menu_price": "617"
+    },
+    {
+        "menu_id": 544,
+        "menu_name": "Plant Sundae",
+        "description": "An edible masterpiece in a crispy waffle pot, layered with Cookies N' Cream and Vanilla ice cream, topped with cookie crumble soil and a white chocolate leaf. Savor the sweet symphony of Plant Sundae magic! ",
+        "store_id": 35,
+        "menu_image": "https://i.ibb.co/fvbWWNW/Plant-Sundae-jpg.jpg",
+        "menu_price": "165"
+    },
+    {
+        "menu_id": 545,
+        "menu_name": "Nutty Professor",
+        "description": "We made sure this treat is as nutty as its name. Crunchy Californian almond ice cream paired generously with nuts, almonds, cashews, and raisins drowning in a delicious hot fudge sauce and topped off with whipped cream. Going nutty has never been this fun before. ",
+        "store_id": 35,
+        "menu_image": "https://i.ibb.co/bRwnwKn/Nutty-Professor.jpg",
+        "menu_price": "240"
+    },
+    {
+        "menu_id": 546,
+        "menu_name": "Bavarian Chocolate Milkshake",
+        "description": "An intensely indulgent chocolate milkshake with ice cream, chocolate pieces, and cashew nut crispies. Crunchy, divine, and sinful all at once! ",
+        "store_id": 35,
+        "menu_image": "https://i.ibb.co/k0hc8JK/Bavarian-Chocolate-Milkshake.jpg",
+        "menu_price": "255"
+    },
+    {
+        "menu_id": 547,
+        "menu_name": "Roasted Californian Almond Milkshake",
+        "description": "A delightful milkshake made with Vanilla ice cream, a caramel ribbon, and almond praline. A flavour you're not likely to forget ",
+        "store_id": 35,
+        "menu_image": "https://i.ibb.co/TmxHLYX/Roasted-Californian-Almond-Milkshake.jpg",
+        "menu_price": "255"
+    },
+    {
+        "menu_id": 548,
+        "menu_name": "California Pistachio ice cream ",
+        "description": "Exquisite California pistachio ice cream made with an authentic nutty pistachio paste. This is ultimate pistachio perfection ",
+        "store_id": 36,
+        "menu_image": "https://i.ibb.co/1KjcbN8/californina-pistacho.jpg",
+        "menu_price": "94"
+    },
+    {
+        "menu_id": 549,
+        "menu_name": "Cookies 'N Cream arctic ice cream pizza slice ",
+        "description": "Baked ",
+        "store_id": 36,
+        "menu_image": "https://i.ibb.co/kmrf2VB/Cookies-N-Cream-arctic-ice-cream-pizza-slice.jpg",
+        "menu_price": "99"
+    },
+    {
+        "menu_id": 550,
+        "menu_name": "Gold Medal Ribbon Ice cream",
+        "description": "A heavenly medley of vanilla and chocolate, embraced by a caramel ribbon. This vanilla and chocolate combo is our dream team! A thick, deep caramel ribbon intertwines the two flavours together in perfection. ",
+        "store_id": 36,
+        "menu_image": "https://i.ibb.co/J5Hcytb/Gold-Medal-Ribbon-Ice-cream.jpg",
+        "menu_price": "94"
+    },
+    {
+        "menu_id": 551,
+        "menu_name": "Dutch Chocolate Ice cream",
+        "description": "Tempting chocolate ice cream with a distinct hint of cocoa. The mother of every chocolate ice cream creation of ours. ",
+        "store_id": 36,
+        "menu_image": "https://i.ibb.co/VpBt6wc/Dutch-Chocolate-Ice-cream.jpg",
+        "menu_price": "82"
+    },
+    {
+        "menu_id": 552,
+        "menu_name": "Black Forest Cake",
+        "description": "A classic yet everyone's favourite. Layers of black forest ice cream with chocolate sponge cake, topped with dark chocolate shavings and sweet cherries. Do invite it to your next party! ",
+        "store_id": 36,
+        "menu_image": "https://i.ibb.co/0rT4yYR/Black-Forest-Cake.jpg",
+        "menu_price": "592"
+    },
+    {
+        "menu_id": 553,
+        "menu_name": "Cotton Candy Cake",
+        "description": "A delicious 4 decker cake made with 2 layers of rich vanilla sponge cake intertwined with all-time-favourite cotton candy ice cream. Garnished with dark chocolate cigars and chocolate coated crispies. A treat for your eyes and taste buds! ",
+        "store_id": 36,
+        "menu_image": "https://i.ibb.co/Bqd4VCk/Cotton-Candy-Cake.jpg",
+        "menu_price": "592"
+    },
+    {
+        "menu_id": 554,
+        "menu_name": "Mermaid Sundae",
+        "description": "Chocolate mermaid toppers with multicolored sprinkles on your choice of ice cream. A fairytale sundae! ",
+        "store_id": 36,
+        "menu_image": "https://i.ibb.co/ZmK2L01/Mermaid-Sundae.jpg",
+        "menu_price": "157"
+    },
+    {
+        "menu_id": 555,
+        "menu_name": "Unicorn Sundaes",
+        "description": "Chocolate unicorn toppers with multicolored sprinkles on your choice of icecream. There's magic in every bite!Chocolate unicorn toppers with multicolored sprinkles on your choice of icecream. There's magic in every bite! ",
+        "store_id": 36,
+        "menu_image": "https://i.ibb.co/KsBCXKM/Unicorn-Sundaes.jpg",
+        "menu_price": "157"
+    },
+    {
+        "menu_id": 556,
+        "menu_name": "Snickers Caramel Milkshake",
+        "description": "Snickers caramel ice cream blended with Snickers chocolate chunks and creamy vanilla milk. Grab your snickers snack today! ",
+        "store_id": 36,
+        "menu_image": "https://i.ibb.co/PZDZTXw/Snickers-Caramel-Milkshake.jpg",
+        "menu_price": "295"
+    },
+    {
+        "menu_id": 557,
+        "menu_name": "Bavarian Chocolate Milkshake",
+        "description": "An intensely indulgent chocolate milkshake with ice cream, chocolate pieces, and cashew nut crispies. Crunchy, divine, and sinful all at once! ",
+        "store_id": 36,
+        "menu_image": "https://i.ibb.co/k0hc8JK/Bavarian-Chocolate-Milkshake.jpg",
+        "menu_price": "255"
+    },
+    {
+        "menu_id": 558,
+        "menu_name": "California Pistachio ice cream ",
+        "description": "Exquisite California pistachio ice cream made with an authentic nutty pistachio paste. This is ultimate pistachio perfection ",
+        "store_id": 37,
+        "menu_image": "https://i.ibb.co/1KjcbN8/californina-pistacho.jpg",
+        "menu_price": "94"
+    },
+    {
+        "menu_id": 559,
+        "menu_name": "Cookies 'N Cream arctic ice cream pizza slice ",
+        "description": "Baked ",
+        "store_id": 37,
+        "menu_image": "https://i.ibb.co/kmrf2VB/Cookies-N-Cream-arctic-ice-cream-pizza-slice.jpg",
+        "menu_price": "99"
+    },
+    {
+        "menu_id": 560,
+        "menu_name": "Gold Medal Ribbon Ice cream",
+        "description": "A heavenly medley of vanilla and chocolate, embraced by a caramel ribbon. This vanilla and chocolate combo is our dream team! A thick, deep caramel ribbon intertwines the two flavours together in perfection. ",
+        "store_id": 37,
+        "menu_image": "https://i.ibb.co/J5Hcytb/Gold-Medal-Ribbon-Ice-cream.jpg",
+        "menu_price": "94"
+    },
+    {
+        "menu_id": 561,
+        "menu_name": "Dutch Chocolate Ice cream",
+        "description": "Tempting chocolate ice cream with a distinct hint of cocoa. The mother of every chocolate ice cream creation of ours. ",
+        "store_id": 37,
+        "menu_image": "https://i.ibb.co/VpBt6wc/Dutch-Chocolate-Ice-cream.jpg",
+        "menu_price": "82"
+    },
+    {
+        "menu_id": 562,
+        "menu_name": "Black Forest Cake",
+        "description": "A classic yet everyone's favourite. Layers of black forest ice cream with chocolate sponge cake, topped with dark chocolate shavings and sweet cherries. Do invite it to your next party! ",
+        "store_id": 37,
+        "menu_image": "https://i.ibb.co/0rT4yYR/Black-Forest-Cake.jpg",
+        "menu_price": "592"
+    },
+    {
+        "menu_id": 563,
+        "menu_name": "Cotton Candy Cake",
+        "description": "A delicious 4 decker cake made with 2 layers of rich vanilla sponge cake intertwined with all-time-favourite cotton candy ice cream. Garnished with dark chocolate cigars and chocolate coated crispies. A treat for your eyes and taste buds! ",
+        "store_id": 37,
+        "menu_image": "https://i.ibb.co/Bqd4VCk/Cotton-Candy-Cake.jpg",
+        "menu_price": "592"
+    },
+    {
+        "menu_id": 564,
+        "menu_name": "Mermaid Sundae",
+        "description": "Chocolate mermaid toppers with multicolored sprinkles on your choice of ice cream. A fairytale sundae! ",
+        "store_id": 37,
+        "menu_image": "https://i.ibb.co/ZmK2L01/Mermaid-Sundae.jpg",
+        "menu_price": "157"
+    },
+    {
+        "menu_id": 565,
+        "menu_name": "Unicorn Sundaes",
+        "description": "Chocolate unicorn toppers with multicolored sprinkles on your choice of icecream. There's magic in every bite!Chocolate unicorn toppers with multicolored sprinkles on your choice of icecream. There's magic in every bite! ",
+        "store_id": 37,
+        "menu_image": "https://i.ibb.co/KsBCXKM/Unicorn-Sundaes.jpg",
+        "menu_price": "157"
+    },
+    {
+        "menu_id": 566,
+        "menu_name": "Snickers Caramel Milkshake",
+        "description": "Snickers caramel ice cream blended with Snickers chocolate chunks and creamy vanilla milk. Grab your snickers snack today! ",
+        "store_id": 37,
+        "menu_image": "https://i.ibb.co/PZDZTXw/Snickers-Caramel-Milkshake.jpg",
+        "menu_price": "295"
+    },
+    {
+        "menu_id": 567,
+        "menu_name": "Bavarian Chocolate Milkshake",
+        "description": "An intensely indulgent chocolate milkshake with ice cream, chocolate pieces, and cashew nut crispies. Crunchy, divine, and sinful all at once! ",
+        "store_id": 37,
+        "menu_image": "https://i.ibb.co/k0hc8JK/Bavarian-Chocolate-Milkshake.jpg",
+        "menu_price": "255"
+    },
+    {
+        "menu_id": 568,
+        "menu_name": "California Pistachio ice cream ",
+        "description": "Exquisite California pistachio ice cream made with an authentic nutty pistachio paste. This is ultimate pistachio perfection ",
+        "store_id": 38,
+        "menu_image": "https://i.ibb.co/1KjcbN8/californina-pistacho.jpg",
+        "menu_price": "94"
+    },
+    {
+        "menu_id": 569,
+        "menu_name": "Cookies 'N Cream arctic ice cream pizza slice ",
+        "description": "Baked ",
+        "store_id": 38,
+        "menu_image": "https://i.ibb.co/kmrf2VB/Cookies-N-Cream-arctic-ice-cream-pizza-slice.jpg",
+        "menu_price": "99"
+    },
+    {
+        "menu_id": 570,
+        "menu_name": "Gold Medal Ribbon Ice cream",
+        "description": "A heavenly medley of vanilla and chocolate, embraced by a caramel ribbon. This vanilla and chocolate combo is our dream team! A thick, deep caramel ribbon intertwines the two flavours together in perfection. ",
+        "store_id": 38,
+        "menu_image": "https://i.ibb.co/J5Hcytb/Gold-Medal-Ribbon-Ice-cream.jpg",
+        "menu_price": "94"
+    },
+    {
+        "menu_id": 571,
+        "menu_name": "Dutch Chocolate Ice cream",
+        "description": "Tempting chocolate ice cream with a distinct hint of cocoa. The mother of every chocolate ice cream creation of ours. ",
+        "store_id": 38,
+        "menu_image": "https://i.ibb.co/VpBt6wc/Dutch-Chocolate-Ice-cream.jpg",
+        "menu_price": "82"
+    },
+    {
+        "menu_id": 572,
+        "menu_name": "Black Forest Cake",
+        "description": "A classic yet everyone's favourite. Layers of black forest ice cream with chocolate sponge cake, topped with dark chocolate shavings and sweet cherries. Do invite it to your next party! ",
+        "store_id": 38,
+        "menu_image": "https://i.ibb.co/0rT4yYR/Black-Forest-Cake.jpg",
+        "menu_price": "592"
+    },
+    {
+        "menu_id": 573,
+        "menu_name": "Cotton Candy Cake",
+        "description": "A delicious 4 decker cake made with 2 layers of rich vanilla sponge cake intertwined with all-time-favourite cotton candy ice cream. Garnished with dark chocolate cigars and chocolate coated crispies. A treat for your eyes and taste buds! ",
+        "store_id": 38,
+        "menu_image": "https://i.ibb.co/Bqd4VCk/Cotton-Candy-Cake.jpg",
+        "menu_price": "592"
+    },
+    {
+        "menu_id": 574,
+        "menu_name": "Mermaid Sundae",
+        "description": "Chocolate mermaid toppers with multicolored sprinkles on your choice of ice cream. A fairytale sundae! ",
+        "store_id": 38,
+        "menu_image": "https://i.ibb.co/ZmK2L01/Mermaid-Sundae.jpg",
+        "menu_price": "157"
+    },
+    {
+        "menu_id": 575,
+        "menu_name": "Unicorn Sundaes",
+        "description": "Chocolate unicorn toppers with multicolored sprinkles on your choice of icecream. There's magic in every bite!Chocolate unicorn toppers with multicolored sprinkles on your choice of icecream. There's magic in every bite! ",
+        "store_id": 38,
+        "menu_image": "https://i.ibb.co/KsBCXKM/Unicorn-Sundaes.jpg",
+        "menu_price": "157"
+    },
+    {
+        "menu_id": 576,
+        "menu_name": "Snickers Caramel Milkshake",
+        "description": "Snickers caramel ice cream blended with Snickers chocolate chunks and creamy vanilla milk. Grab your snickers snack today! ",
+        "store_id": 38,
+        "menu_image": "https://i.ibb.co/PZDZTXw/Snickers-Caramel-Milkshake.jpg",
+        "menu_price": "295"
+    },
+    {
+        "menu_id": 577,
+        "menu_name": "Bavarian Chocolate Milkshake",
+        "description": "An intensely indulgent chocolate milkshake with ice cream, chocolate pieces, and cashew nut crispies. Crunchy, divine, and sinful all at once! ",
+        "store_id": 38,
+        "menu_image": "https://i.ibb.co/k0hc8JK/Bavarian-Chocolate-Milkshake.jpg",
+        "menu_price": "255"
+    },
+    {
+        "menu_id": 578,
+        "menu_name": "California Pistachio ice cream ",
+        "description": "Exquisite California pistachio ice cream made with an authentic nutty pistachio paste. This is ultimate pistachio perfection ",
+        "store_id": 39,
+        "menu_image": "https://i.ibb.co/1KjcbN8/californina-pistacho.jpg",
+        "menu_price": "94"
+    },
+    {
+        "menu_id": 579,
+        "menu_name": "Cookies 'N Cream arctic ice cream pizza slice ",
+        "description": "Baked ",
+        "store_id": 39,
+        "menu_image": "https://i.ibb.co/kmrf2VB/Cookies-N-Cream-arctic-ice-cream-pizza-slice.jpg",
+        "menu_price": "99"
+    },
+    {
+        "menu_id": 580,
+        "menu_name": "Gold Medal Ribbon Ice cream",
+        "description": "A heavenly medley of vanilla and chocolate, embraced by a caramel ribbon. This vanilla and chocolate combo is our dream team! A thick, deep caramel ribbon intertwines the two flavours together in perfection. ",
+        "store_id": 39,
+        "menu_image": "https://i.ibb.co/J5Hcytb/Gold-Medal-Ribbon-Ice-cream.jpg",
+        "menu_price": "94"
+    },
+    {
+        "menu_id": 581,
+        "menu_name": "Dutch Chocolate Ice cream",
+        "description": "Tempting chocolate ice cream with a distinct hint of cocoa. The mother of every chocolate ice cream creation of ours. ",
+        "store_id": 39,
+        "menu_image": "https://i.ibb.co/VpBt6wc/Dutch-Chocolate-Ice-cream.jpg",
+        "menu_price": "82"
+    },
+    {
+        "menu_id": 582,
+        "menu_name": "Black Forest Cake",
+        "description": "A classic yet everyone's favourite. Layers of black forest ice cream with chocolate sponge cake, topped with dark chocolate shavings and sweet cherries. Do invite it to your next party! ",
+        "store_id": 39,
+        "menu_image": "https://i.ibb.co/0rT4yYR/Black-Forest-Cake.jpg",
+        "menu_price": "592"
+    },
+    {
+        "menu_id": 583,
+        "menu_name": "Cotton Candy Cake",
+        "description": "A delicious 4 decker cake made with 2 layers of rich vanilla sponge cake intertwined with all-time-favourite cotton candy ice cream. Garnished with dark chocolate cigars and chocolate coated crispies. A treat for your eyes and taste buds! ",
+        "store_id": 39,
+        "menu_image": "https://i.ibb.co/Bqd4VCk/Cotton-Candy-Cake.jpg",
+        "menu_price": "592"
+    },
+    {
+        "menu_id": 584,
+        "menu_name": "Mermaid Sundae",
+        "description": "Chocolate mermaid toppers with multicolored sprinkles on your choice of ice cream. A fairytale sundae! ",
+        "store_id": 39,
+        "menu_image": "https://i.ibb.co/ZmK2L01/Mermaid-Sundae.jpg",
+        "menu_price": "157"
+    },
+    {
+        "menu_id": 585,
+        "menu_name": "Unicorn Sundaes",
+        "description": "Chocolate unicorn toppers with multicolored sprinkles on your choice of icecream. There's magic in every bite!Chocolate unicorn toppers with multicolored sprinkles on your choice of icecream. There's magic in every bite! ",
+        "store_id": 39,
+        "menu_image": "https://i.ibb.co/KsBCXKM/Unicorn-Sundaes.jpg",
+        "menu_price": "157"
+    },
+    {
+        "menu_id": 586,
+        "menu_name": "Snickers Caramel Milkshake",
+        "description": "Snickers caramel ice cream blended with Snickers chocolate chunks and creamy vanilla milk. Grab your snickers snack today! ",
+        "store_id": 39,
+        "menu_image": "https://i.ibb.co/PZDZTXw/Snickers-Caramel-Milkshake.jpg",
+        "menu_price": "295"
+    },
+    {
+        "menu_id": 587,
+        "menu_name": "Bavarian Chocolate Milkshake",
+        "description": "An intensely indulgent chocolate milkshake with ice cream, chocolate pieces, and cashew nut crispies. Crunchy, divine, and sinful all at once! ",
+        "store_id": 39,
+        "menu_image": "https://i.ibb.co/k0hc8JK/Bavarian-Chocolate-Milkshake.jpg",
+        "menu_price": "255"
+    },
+    {
+        "menu_id": 588,
+        "menu_name": "California Pistachio ice cream ",
+        "description": "Exquisite California pistachio ice cream made with an authentic nutty pistachio paste. This is ultimate pistachio perfection ",
+        "store_id": 40,
+        "menu_image": "https://i.ibb.co/1KjcbN8/californina-pistacho.jpg",
+        "menu_price": "94"
+    },
+    {
+        "menu_id": 589,
+        "menu_name": "Cookies 'N Cream arctic ice cream pizza slice ",
+        "description": "Baked ",
+        "store_id": 40,
+        "menu_image": "https://i.ibb.co/kmrf2VB/Cookies-N-Cream-arctic-ice-cream-pizza-slice.jpg",
+        "menu_price": "99"
+    },
+    {
+        "menu_id": 590,
+        "menu_name": "Gold Medal Ribbon Ice cream",
+        "description": "A heavenly medley of vanilla and chocolate, embraced by a caramel ribbon. This vanilla and chocolate combo is our dream team! A thick, deep caramel ribbon intertwines the two flavours together in perfection. ",
+        "store_id": 40,
+        "menu_image": "https://i.ibb.co/J5Hcytb/Gold-Medal-Ribbon-Ice-cream.jpg",
+        "menu_price": "94"
+    },
+    {
+        "menu_id": 591,
+        "menu_name": "Dutch Chocolate Ice cream",
+        "description": "Tempting chocolate ice cream with a distinct hint of cocoa. The mother of every chocolate ice cream creation of ours. ",
+        "store_id": 40,
+        "menu_image": "https://i.ibb.co/VpBt6wc/Dutch-Chocolate-Ice-cream.jpg",
+        "menu_price": "82"
+    },
+    {
+        "menu_id": 592,
+        "menu_name": "Black Forest Cake",
+        "description": "A classic yet everyone's favourite. Layers of black forest ice cream with chocolate sponge cake, topped with dark chocolate shavings and sweet cherries. Do invite it to your next party! ",
+        "store_id": 40,
+        "menu_image": "https://i.ibb.co/0rT4yYR/Black-Forest-Cake.jpg",
+        "menu_price": "592"
+    },
+    {
+        "menu_id": 593,
+        "menu_name": "Cotton Candy Cake",
+        "description": "A delicious 4 decker cake made with 2 layers of rich vanilla sponge cake intertwined with all-time-favourite cotton candy ice cream. Garnished with dark chocolate cigars and chocolate coated crispies. A treat for your eyes and taste buds! ",
+        "store_id": 40,
+        "menu_image": "https://i.ibb.co/Bqd4VCk/Cotton-Candy-Cake.jpg",
+        "menu_price": "592"
+    },
+    {
+        "menu_id": 594,
+        "menu_name": "Mermaid Sundae",
+        "description": "Chocolate mermaid toppers with multicolored sprinkles on your choice of ice cream. A fairytale sundae! ",
+        "store_id": 40,
+        "menu_image": "https://i.ibb.co/ZmK2L01/Mermaid-Sundae.jpg",
+        "menu_price": "157"
+    },
+    {
+        "menu_id": 595,
+        "menu_name": "Unicorn Sundaes",
+        "description": "Chocolate unicorn toppers with multicolored sprinkles on your choice of icecream. There's magic in every bite!Chocolate unicorn toppers with multicolored sprinkles on your choice of icecream. There's magic in every bite! ",
+        "store_id": 40,
+        "menu_image": "https://i.ibb.co/KsBCXKM/Unicorn-Sundaes.jpg",
+        "menu_price": "157"
+    },
+    {
+        "menu_id": 596,
+        "menu_name": "Snickers Caramel Milkshake",
+        "description": "Snickers caramel ice cream blended with Snickers chocolate chunks and creamy vanilla milk. Grab your snickers snack today! ",
+        "store_id": 40,
+        "menu_image": "https://i.ibb.co/PZDZTXw/Snickers-Caramel-Milkshake.jpg",
+        "menu_price": "295"
+    },
+    {
+        "menu_id": 597,
+        "menu_name": "Bavarian Chocolate Milkshake",
+        "description": "An intensely indulgent chocolate milkshake with ice cream, chocolate pieces, and cashew nut crispies. Crunchy, divine, and sinful all at once! ",
+        "store_id": 40,
+        "menu_image": "https://i.ibb.co/k0hc8JK/Bavarian-Chocolate-Milkshake.jpg",
+        "menu_price": "255"
+    },
+    {
+        "menu_id": 598,
+        "menu_name": "California Pistachio ice cream ",
+        "description": "Exquisite California pistachio ice cream made with an authentic nutty pistachio paste. This is ultimate pistachio perfection ",
+        "store_id": 41,
+        "menu_image": "https://i.ibb.co/1KjcbN8/californina-pistacho.jpg",
+        "menu_price": "94"
+    },
+    {
+        "menu_id": 599,
+        "menu_name": "Cookies 'N Cream arctic ice cream pizza slice ",
+        "description": "Baked ",
+        "store_id": 41,
+        "menu_image": "https://i.ibb.co/kmrf2VB/Cookies-N-Cream-arctic-ice-cream-pizza-slice.jpg",
+        "menu_price": "99"
+    },
+    {
+        "menu_id": 600,
+        "menu_name": "Gold Medal Ribbon Ice cream",
+        "description": "A heavenly medley of vanilla and chocolate, embraced by a caramel ribbon. This vanilla and chocolate combo is our dream team! A thick, deep caramel ribbon intertwines the two flavours together in perfection. ",
+        "store_id": 41,
+        "menu_image": "https://i.ibb.co/J5Hcytb/Gold-Medal-Ribbon-Ice-cream.jpg",
+        "menu_price": "94"
+    },
+    {
+        "menu_id": 601,
+        "menu_name": "Dutch Chocolate Ice cream",
+        "description": "Tempting chocolate ice cream with a distinct hint of cocoa. The mother of every chocolate ice cream creation of ours. ",
+        "store_id": 41,
+        "menu_image": "https://i.ibb.co/VpBt6wc/Dutch-Chocolate-Ice-cream.jpg",
+        "menu_price": "82"
+    },
+    {
+        "menu_id": 602,
+        "menu_name": "Black Forest Cake",
+        "description": "A classic yet everyone's favourite. Layers of black forest ice cream with chocolate sponge cake, topped with dark chocolate shavings and sweet cherries. Do invite it to your next party! ",
+        "store_id": 41,
+        "menu_image": "https://i.ibb.co/0rT4yYR/Black-Forest-Cake.jpg",
+        "menu_price": "592"
+    },
+    {
+        "menu_id": 603,
+        "menu_name": "Cotton Candy Cake",
+        "description": "A delicious 4 decker cake made with 2 layers of rich vanilla sponge cake intertwined with all-time-favourite cotton candy ice cream. Garnished with dark chocolate cigars and chocolate coated crispies. A treat for your eyes and taste buds! ",
+        "store_id": 41,
+        "menu_image": "https://i.ibb.co/Bqd4VCk/Cotton-Candy-Cake.jpg",
+        "menu_price": "592"
+    },
+    {
+        "menu_id": 604,
+        "menu_name": "Mermaid Sundae",
+        "description": "Chocolate mermaid toppers with multicolored sprinkles on your choice of ice cream. A fairytale sundae! ",
+        "store_id": 41,
+        "menu_image": "https://i.ibb.co/ZmK2L01/Mermaid-Sundae.jpg",
+        "menu_price": "157"
+    },
+    {
+        "menu_id": 605,
+        "menu_name": "Unicorn Sundaes",
+        "description": "Chocolate unicorn toppers with multicolored sprinkles on your choice of icecream. There's magic in every bite!Chocolate unicorn toppers with multicolored sprinkles on your choice of icecream. There's magic in every bite! ",
+        "store_id": 41,
+        "menu_image": "https://i.ibb.co/KsBCXKM/Unicorn-Sundaes.jpg",
+        "menu_price": "157"
+    },
+    {
+        "menu_id": 606,
+        "menu_name": "Snickers Caramel Milkshake",
+        "description": "Snickers caramel ice cream blended with Snickers chocolate chunks and creamy vanilla milk. Grab your snickers snack today! ",
+        "store_id": 41,
+        "menu_image": "https://i.ibb.co/PZDZTXw/Snickers-Caramel-Milkshake.jpg",
+        "menu_price": "295"
+    },
+    {
+        "menu_id": 607,
+        "menu_name": "Bavarian Chocolate Milkshake",
+        "description": "An intensely indulgent chocolate milkshake with ice cream, chocolate pieces, and cashew nut crispies. Crunchy, divine, and sinful all at once! ",
+        "store_id": 41,
+        "menu_image": "https://i.ibb.co/k0hc8JK/Bavarian-Chocolate-Milkshake.jpg",
+        "menu_price": "255"
+    },
+    {
+        "menu_id": 608,
+        "menu_name": "California Pistachio ice cream ",
+        "description": "Exquisite California pistachio ice cream made with an authentic nutty pistachio paste. This is ultimate pistachio perfection ",
+        "store_id": 42,
+        "menu_image": "https://i.ibb.co/1KjcbN8/californina-pistacho.jpg",
+        "menu_price": "94"
+    },
+    {
+        "menu_id": 609,
+        "menu_name": "Cookies 'N Cream arctic ice cream pizza slice ",
+        "description": "Baked ",
+        "store_id": 42,
+        "menu_image": "https://i.ibb.co/kmrf2VB/Cookies-N-Cream-arctic-ice-cream-pizza-slice.jpg",
+        "menu_price": "99"
+    },
+    {
+        "menu_id": 610,
+        "menu_name": "Gold Medal Ribbon Ice cream",
+        "description": "A heavenly medley of vanilla and chocolate, embraced by a caramel ribbon. This vanilla and chocolate combo is our dream team! A thick, deep caramel ribbon intertwines the two flavours together in perfection. ",
+        "store_id": 42,
+        "menu_image": "https://i.ibb.co/J5Hcytb/Gold-Medal-Ribbon-Ice-cream.jpg",
+        "menu_price": "94"
+    },
+    {
+        "menu_id": 611,
+        "menu_name": "Dutch Chocolate Ice cream",
+        "description": "Tempting chocolate ice cream with a distinct hint of cocoa. The mother of every chocolate ice cream creation of ours. ",
+        "store_id": 42,
+        "menu_image": "https://i.ibb.co/VpBt6wc/Dutch-Chocolate-Ice-cream.jpg",
+        "menu_price": "82"
+    },
+    {
+        "menu_id": 612,
+        "menu_name": "Black Forest Cake",
+        "description": "A classic yet everyone's favourite. Layers of black forest ice cream with chocolate sponge cake, topped with dark chocolate shavings and sweet cherries. Do invite it to your next party! ",
+        "store_id": 42,
+        "menu_image": "https://i.ibb.co/0rT4yYR/Black-Forest-Cake.jpg",
+        "menu_price": "592"
+    },
+    {
+        "menu_id": 613,
+        "menu_name": "Cotton Candy Cake",
+        "description": "A delicious 4 decker cake made with 2 layers of rich vanilla sponge cake intertwined with all-time-favourite cotton candy ice cream. Garnished with dark chocolate cigars and chocolate coated crispies. A treat for your eyes and taste buds! ",
+        "store_id": 42,
+        "menu_image": "https://i.ibb.co/Bqd4VCk/Cotton-Candy-Cake.jpg",
+        "menu_price": "592"
+    },
+    {
+        "menu_id": 614,
+        "menu_name": "Mermaid Sundae",
+        "description": "Chocolate mermaid toppers with multicolored sprinkles on your choice of ice cream. A fairytale sundae! ",
+        "store_id": 42,
+        "menu_image": "https://i.ibb.co/ZmK2L01/Mermaid-Sundae.jpg",
+        "menu_price": "157"
+    },
+    {
+        "menu_id": 615,
+        "menu_name": "Unicorn Sundaes",
+        "description": "Chocolate unicorn toppers with multicolored sprinkles on your choice of icecream. There's magic in every bite!Chocolate unicorn toppers with multicolored sprinkles on your choice of icecream. There's magic in every bite! ",
+        "store_id": 42,
+        "menu_image": "https://i.ibb.co/KsBCXKM/Unicorn-Sundaes.jpg",
+        "menu_price": "157"
+    },
+    {
+        "menu_id": 616,
+        "menu_name": "Snickers Caramel Milkshake",
+        "description": "Snickers caramel ice cream blended with Snickers chocolate chunks and creamy vanilla milk. Grab your snickers snack today! ",
+        "store_id": 42,
+        "menu_image": "https://i.ibb.co/PZDZTXw/Snickers-Caramel-Milkshake.jpg",
+        "menu_price": "295"
+    },
+    {
+        "menu_id": 617,
+        "menu_name": "Bavarian Chocolate Milkshake",
+        "description": "An intensely indulgent chocolate milkshake with ice cream, chocolate pieces, and cashew nut crispies. Crunchy, divine, and sinful all at once! ",
+        "store_id": 42,
+        "menu_image": "https://i.ibb.co/k0hc8JK/Bavarian-Chocolate-Milkshake.jpg",
+        "menu_price": "255"
+    },
+    {
+        "menu_id": 618,
+        "menu_name": "California Pistachio ice cream ",
+        "description": "Exquisite California pistachio ice cream made with an authentic nutty pistachio paste. This is ultimate pistachio perfection ",
+        "store_id": 43,
+        "menu_image": "https://i.ibb.co/1KjcbN8/californina-pistacho.jpg",
+        "menu_price": "94"
+    },
+    {
+        "menu_id": 619,
+        "menu_name": "Cookies 'N Cream arctic ice cream pizza slice ",
+        "description": "Baked ",
+        "store_id": 43,
+        "menu_image": "https://i.ibb.co/kmrf2VB/Cookies-N-Cream-arctic-ice-cream-pizza-slice.jpg",
+        "menu_price": "99"
+    },
+    {
+        "menu_id": 620,
+        "menu_name": "Gold Medal Ribbon Ice cream",
+        "description": "A heavenly medley of vanilla and chocolate, embraced by a caramel ribbon. This vanilla and chocolate combo is our dream team! A thick, deep caramel ribbon intertwines the two flavours together in perfection. ",
+        "store_id": 43,
+        "menu_image": "https://i.ibb.co/J5Hcytb/Gold-Medal-Ribbon-Ice-cream.jpg",
+        "menu_price": "94"
+    },
+    {
+        "menu_id": 621,
+        "menu_name": "Dutch Chocolate Ice cream",
+        "description": "Tempting chocolate ice cream with a distinct hint of cocoa. The mother of every chocolate ice cream creation of ours. ",
+        "store_id": 43,
+        "menu_image": "https://i.ibb.co/VpBt6wc/Dutch-Chocolate-Ice-cream.jpg",
+        "menu_price": "82"
+    },
+    {
+        "menu_id": 622,
+        "menu_name": "Black Forest Cake",
+        "description": "A classic yet everyone's favourite. Layers of black forest ice cream with chocolate sponge cake, topped with dark chocolate shavings and sweet cherries. Do invite it to your next party! ",
+        "store_id": 43,
+        "menu_image": "https://i.ibb.co/0rT4yYR/Black-Forest-Cake.jpg",
+        "menu_price": "592"
+    },
+    {
+        "menu_id": 623,
+        "menu_name": "Cotton Candy Cake",
+        "description": "A delicious 4 decker cake made with 2 layers of rich vanilla sponge cake intertwined with all-time-favourite cotton candy ice cream. Garnished with dark chocolate cigars and chocolate coated crispies. A treat for your eyes and taste buds! ",
+        "store_id": 43,
+        "menu_image": "https://i.ibb.co/Bqd4VCk/Cotton-Candy-Cake.jpg",
+        "menu_price": "592"
+    },
+    {
+        "menu_id": 624,
+        "menu_name": "Mermaid Sundae",
+        "description": "Chocolate mermaid toppers with multicolored sprinkles on your choice of ice cream. A fairytale sundae! ",
+        "store_id": 43,
+        "menu_image": "https://i.ibb.co/ZmK2L01/Mermaid-Sundae.jpg",
+        "menu_price": "157"
+    },
+    {
+        "menu_id": 625,
+        "menu_name": "Unicorn Sundaes",
+        "description": "Chocolate unicorn toppers with multicolored sprinkles on your choice of icecream. There's magic in every bite!Chocolate unicorn toppers with multicolored sprinkles on your choice of icecream. There's magic in every bite! ",
+        "store_id": 43,
+        "menu_image": "https://i.ibb.co/KsBCXKM/Unicorn-Sundaes.jpg",
+        "menu_price": "157"
+    },
+    {
+        "menu_id": 626,
+        "menu_name": "Snickers Caramel Milkshake",
+        "description": "Snickers caramel ice cream blended with Snickers chocolate chunks and creamy vanilla milk. Grab your snickers snack today! ",
+        "store_id": 43,
+        "menu_image": "https://i.ibb.co/PZDZTXw/Snickers-Caramel-Milkshake.jpg",
+        "menu_price": "295"
+    },
+    {
+        "menu_id": 627,
+        "menu_name": "Bavarian Chocolate Milkshake",
+        "description": "An intensely indulgent chocolate milkshake with ice cream, chocolate pieces, and cashew nut crispies. Crunchy, divine, and sinful all at once! ",
+        "store_id": 43,
+        "menu_image": "https://i.ibb.co/k0hc8JK/Bavarian-Chocolate-Milkshake.jpg",
+        "menu_price": "255"
+    },
+    {
+        "menu_id": 628,
+        "menu_name": "California Pistachio ice cream ",
+        "description": "Exquisite California pistachio ice cream made with an authentic nutty pistachio paste. This is ultimate pistachio perfection ",
+        "store_id": 44,
+        "menu_image": "https://i.ibb.co/1KjcbN8/californina-pistacho.jpg",
+        "menu_price": "94"
+    },
+    {
+        "menu_id": 629,
+        "menu_name": "Cookies 'N Cream arctic ice cream pizza slice ",
+        "description": "Baked ",
+        "store_id": 44,
+        "menu_image": "https://i.ibb.co/kmrf2VB/Cookies-N-Cream-arctic-ice-cream-pizza-slice.jpg",
+        "menu_price": "99"
+    },
+    {
+        "menu_id": 630,
+        "menu_name": "Gold Medal Ribbon Ice cream",
+        "description": "A heavenly medley of vanilla and chocolate, embraced by a caramel ribbon. This vanilla and chocolate combo is our dream team! A thick, deep caramel ribbon intertwines the two flavours together in perfection. ",
+        "store_id": 44,
+        "menu_image": "https://i.ibb.co/J5Hcytb/Gold-Medal-Ribbon-Ice-cream.jpg",
+        "menu_price": "94"
+    },
+    {
+        "menu_id": 631,
+        "menu_name": "Dutch Chocolate Ice cream",
+        "description": "Tempting chocolate ice cream with a distinct hint of cocoa. The mother of every chocolate ice cream creation of ours. ",
+        "store_id": 44,
+        "menu_image": "https://i.ibb.co/VpBt6wc/Dutch-Chocolate-Ice-cream.jpg",
+        "menu_price": "82"
+    },
+    {
+        "menu_id": 632,
+        "menu_name": "Black Forest Cake",
+        "description": "A classic yet everyone's favourite. Layers of black forest ice cream with chocolate sponge cake, topped with dark chocolate shavings and sweet cherries. Do invite it to your next party! ",
+        "store_id": 44,
+        "menu_image": "https://i.ibb.co/0rT4yYR/Black-Forest-Cake.jpg",
+        "menu_price": "592"
+    },
+    {
+        "menu_id": 633,
+        "menu_name": "Cotton Candy Cake",
+        "description": "A delicious 4 decker cake made with 2 layers of rich vanilla sponge cake intertwined with all-time-favourite cotton candy ice cream. Garnished with dark chocolate cigars and chocolate coated crispies. A treat for your eyes and taste buds! ",
+        "store_id": 44,
+        "menu_image": "https://i.ibb.co/Bqd4VCk/Cotton-Candy-Cake.jpg",
+        "menu_price": "592"
+    },
+    {
+        "menu_id": 634,
+        "menu_name": "Mermaid Sundae",
+        "description": "Chocolate mermaid toppers with multicolored sprinkles on your choice of ice cream. A fairytale sundae! ",
+        "store_id": 44,
+        "menu_image": "https://i.ibb.co/ZmK2L01/Mermaid-Sundae.jpg",
+        "menu_price": "157"
+    },
+    {
+        "menu_id": 635,
+        "menu_name": "Unicorn Sundaes",
+        "description": "Chocolate unicorn toppers with multicolored sprinkles on your choice of icecream. There's magic in every bite!Chocolate unicorn toppers with multicolored sprinkles on your choice of icecream. There's magic in every bite! ",
+        "store_id": 44,
+        "menu_image": "https://i.ibb.co/KsBCXKM/Unicorn-Sundaes.jpg",
+        "menu_price": "157"
+    },
+    {
+        "menu_id": 636,
+        "menu_name": "Snickers Caramel Milkshake",
+        "description": "Snickers caramel ice cream blended with Snickers chocolate chunks and creamy vanilla milk. Grab your snickers snack today! ",
+        "store_id": 44,
+        "menu_image": "https://i.ibb.co/PZDZTXw/Snickers-Caramel-Milkshake.jpg",
+        "menu_price": "295"
+    },
+    {
+        "menu_id": 637,
+        "menu_name": "Bavarian Chocolate Milkshake",
+        "description": "An intensely indulgent chocolate milkshake with ice cream, chocolate pieces, and cashew nut crispies. Crunchy, divine, and sinful all at once! ",
+        "store_id": 44,
+        "menu_image": "https://i.ibb.co/k0hc8JK/Bavarian-Chocolate-Milkshake.jpg",
+        "menu_price": "255"
+    },
+    {
+        "menu_id": 638,
+        "menu_name": "Cookies 'N Cream arctic ice cream pizza slice ",
+        "description": "Baked ",
+        "store_id": 45,
+        "menu_image": "https://i.ibb.co/kmrf2VB/Cookies-N-Cream-arctic-ice-cream-pizza-slice.jpg",
+        "menu_price": "99"
+    },
+    {
+        "menu_id": 639,
+        "menu_name": "Pralines 'N Cream arctic ice cream pizza slice ",
+        "description": "Baked ",
+        "store_id": 45,
+        "menu_image": "https://i.ibb.co/J7pwD5g/Homepage-product-r1-30-copy-jpg.jpg",
+        "menu_price": "99"
+    },
+    {
+        "menu_id": 640,
+        "menu_name": "Chocolate Almond Praline Ice cream",
+        "description": "Praline coated Almonds peeping out of Dark Chocolate ice cream (Contains milk & tree nuts (Almond)",
+        "store_id": 45,
+        "menu_image": "https://i.ibb.co/7CthNQW/image-0053-Chocolate-Almond-Praline-Cup-jpg.jpg",
+        "menu_price": "94"
+    },
+    {
+        "menu_id": 641,
+        "menu_name": "Butterscotch Fudge with Cookie Crumble",
+        "description": "Creamy Butterscotch ice cream with a swirly butterscotch ribbon, and loaded with Oreo cookie crumble. Perfection in a scoop!",
+        "store_id": 45,
+        "menu_image": "https://i.ibb.co/rZRYGTc/Butterscotch-Fudge-with-Cookie-Crumble.jpg",
+        "menu_price": "94"
+    },
+    {
+        "menu_id": 642,
+        "menu_name": "Blueberry Cheesecake",
+        "description": "A beautiful biscuit crumble base layered with delicious cheesecake ice cream. Add to it another layer of fluffy vanilla sponge cake and some more cheesecake ice cream. Adorned with exotic blueberries and whipped cream. Get transported to NY! ",
+        "store_id": 45,
+        "menu_image": "https://i.ibb.co/0KwmJxz/Blueberry-Cheesecake.jpg",
+        "menu_price": "617"
+    },
+    {
+        "menu_id": 643,
+        "menu_name": "Pineapple Cake",
+        "description": "A 4 decker cake made with alternate layers of super moist vanilla sponge cake and succulent pineapple ice cream. Garnished with white chocolate and whipped cream swirls. Pineapple cakes never run out of fashion! ",
+        "store_id": 45,
+        "menu_image": "https://i.ibb.co/Gknq46K/Pineapple-Cake.jpg",
+        "menu_price": "617"
+    },
+    {
+        "menu_id": 644,
+        "menu_name": "Plant Sundae",
+        "description": "An edible masterpiece in a crispy waffle pot, layered with Cookies N' Cream and Vanilla ice cream, topped with cookie crumble soil and a white chocolate leaf. Savor the sweet symphony of Plant Sundae magic! ",
+        "store_id": 45,
+        "menu_image": "https://i.ibb.co/fvbWWNW/Plant-Sundae-jpg.jpg",
+        "menu_price": "165"
+    },
+    {
+        "menu_id": 645,
+        "menu_name": "Nutty Professor",
+        "description": "We made sure this treat is as nutty as its name. Crunchy Californian almond ice cream paired generously with nuts, almonds, cashews, and raisins drowning in a delicious hot fudge sauce and topped off with whipped cream. Going nutty has never been this fun before. ",
+        "store_id": 45,
+        "menu_image": "https://i.ibb.co/bRwnwKn/Nutty-Professor.jpg",
+        "menu_price": "240"
+    },
+    {
+        "menu_id": 646,
+        "menu_name": "Bavarian Chocolate Milkshake",
+        "description": "An intensely indulgent chocolate milkshake with ice cream, chocolate pieces, and cashew nut crispies. Crunchy, divine, and sinful all at once! ",
+        "store_id": 45,
+        "menu_image": "https://i.ibb.co/k0hc8JK/Bavarian-Chocolate-Milkshake.jpg",
+        "menu_price": "255"
+    },
+    {
+        "menu_id": 647,
+        "menu_name": "Roasted Californian Almond Milkshake",
+        "description": "A delightful milkshake made with Vanilla ice cream, a caramel ribbon, and almond praline. A flavour you're not likely to forget ",
+        "store_id": 45,
+        "menu_image": "https://i.ibb.co/TmxHLYX/Roasted-Californian-Almond-Milkshake.jpg",
+        "menu_price": "255"
+    }
 ]
