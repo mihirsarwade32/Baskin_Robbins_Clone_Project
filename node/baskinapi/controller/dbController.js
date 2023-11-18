@@ -7,7 +7,7 @@ async function dbConnect(){
     await client.connect();
 }
 
-let db = client.db('stores');
+let db = client.db('baskinrobbins');
 
 async function getData(ColName,query){
     let output = [];

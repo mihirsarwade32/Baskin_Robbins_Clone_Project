@@ -12,9 +12,9 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: true}));
 app.use(cors())
 
-app.get('/',(req, res) => {
-    res.send ('Hi from Json')
-})
+// app.get('/',(req, res) => {
+//     res.send ('Hi from Json')
+// })
 
 
 app.get('/locations', async(req, res) => {
