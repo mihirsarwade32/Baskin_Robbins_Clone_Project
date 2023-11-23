@@ -12,7 +12,7 @@ let db = client.db('baskinrobbins');
 async function getData(ColName,query){
     let output = [];
     try{
-        const cursor = db.collection(colName).find(query);
+        const cursor = db.collection(ColName).find(query);
         for await (const data of cursor){
             output.push(data)
         }

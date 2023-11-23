@@ -10,7 +10,7 @@ let {dbConnect, getData} = require('./controller/dbController');
 //middleware
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: true}));
-app.use(cors())
+app.use(cors());
 
 // app.get('/',(req, res) => {
 //     res.send ('Hi from Json')
@@ -22,9 +22,30 @@ app.get('/locations', async(req, res) => {
     let collection = "locations";
     let output = await getData(collection, query);
     res.send (output)
-})
+});
 
 
+
+app.get('/stores', async(req, res) => {
+    let query = {};
+    let collection = "stores";
+    let output = await getData(collection, query);
+    res.send (output)
+});
+
+app.get('/icecreamtype', async(req, res) => {
+    let query = {};
+    let collection = "icecreamtype";
+    let output = await getData(collection, query);
+    res.send (output)
+});
+
+// app.get('/category', async(req, res) => {
+//     let query = {};
+//     let collection = "category";
+//     let output = await getData(collection, query);
+//     res.send (output)
+// });
 
 app.listen(port, (err) => {
     dbConnect();
