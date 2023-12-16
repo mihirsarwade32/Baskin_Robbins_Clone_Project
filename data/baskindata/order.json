@@ -1,0 +1,15 @@
+[
+{
+    "order_ID": 1,
+    "name": "Mihir",
+    "email": "mihir@gmail.com",
+    "address": "Pune",
+    "phone": 95944654654,
+    "menuItem" : [
+        1,
+        2,
+        3
+    ],
+    "status":"on the way"
+}
+]
