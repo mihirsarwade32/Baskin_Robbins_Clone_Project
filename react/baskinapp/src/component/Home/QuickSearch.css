@@ -1,0 +1,311 @@
+/* <!-- ----------------------------------------------------------------------------------------- -->
+<!-- --------------------------------------SLIDER 1------------------------------------------- -->
+<!-- ----------------------------------------------------------------------------------------- --> */
+
+
+.slider1 {
+    width: 80%;
+    height: 700px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10%;
+    margin-bottom: 3%;
+}
+
+.slider1 .container {
+    margin: 0 auto;
+}
+
+.container .slider1-title .word{
+    color: var(--fourth-dark);
+}
+
+.container .slider1-title{
+    margin-bottom: 5%;
+  
+}
+
+.container .slider1-title h1 {
+    margin-top: 3%;
+    color: #F20C90;
+    font-family: EamesBold;
+    font-weight: 800;
+    font-size: 2.5rem;
+}
+
+.card_slider {
+    padding: 50px 0;
+}
+
+.image-wrapper {
+    max-width: 100%;
+    max-height: 80%;
+    margin: 0 auto;
+}
+
+.card-body {
+    display: flex;
+    padding: 5px 9px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.name {
+    font-weight: bolder;
+    text-align: center;
+}
+
+.description {
+    margin-top: -15px;
+    font-weight: 500;
+    text-align: center;
+}
+
+.button {
+    border: 1px solid #f04e98;
+    font-weight: bolder;
+    color: rgb(224, 221, 221);
+    padding: 5px 10px;
+    background-color: #f04e98;
+    border-radius: 1px;
+    margin-top: 30px;
+    transition: all 0.3s ease;
+}
+
+.button1 {
+    border: 1px solid #f04e98;
+    font-weight: bolder;
+    color: rgb(224, 221, 221);
+    padding: 5px 10px;
+    background-color: #f04e98;
+    border-radius: 1px;
+    margin-top: 73px;
+    transition: all 0.3s ease;
+}
+
+.button:hover,
+.button1:hover {
+    cursor: pointer;
+    color: white;
+    background-color: #f23a8d;
+}
+
+.slide1-arrow {
+    color: #f23a8d;
+}
+
+/* <!-------------------------------------------------------------------------------------------->
+<!--------------------------------------- SLIDER2 -------------------------------------------->
+<!--------------------------------------------------------------------------------------------> */
+
+.slider2 {
+    margin-top: 5%;
+    width: 100%;
+    margin-bottom: 5%;
+    border: 2px solid black; 
+}
+
+.slide2-container {
+    width: 80%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    margin-left: 10%;
+}
+
+.slide2-image-wrapper {
+    max-width: 100%;
+    max-height: 50%;
+}
+
+.swiper-slide2{
+    width: 80%;
+    margin-left: 10%;
+    margin-bottom: 5%;
+}
+
+.slide2-arrow {
+    color: #f23a8d;
+}
+
+.slide2-text1{
+    color: white;
+    font-weight: bold;
+    font-size: 250%;
+    margin-top: -50%;
+}
+
+.slide2-text2{
+    color: white;
+    font-weight: bold;
+    font-size: 250%;
+    margin-top: -35%;
+}
+
+.slide2-text3{
+    color: white;
+    font-weight: bold;
+    font-size: 250%;
+    margin-top: -23%;
+}
+
+
+/* <!-------------------------------------------------------------------------------------------->
+<!--------------------------------------- RESPONSIVE -------------------------------------------->
+<!--------------------------------------------------------------------------------------------> */
+
+@media screen and (max-width:300px) {
+    .slide2-text1 {
+        font-size: 180%;
+    }
+    .slide2-text2 {
+        font-size: 180%;
+    }
+    .slide2-text3 {
+        font-size: 180%;
+    }
+}
+@media screen and (max-width:250px) {
+    .slide2-text1 {
+        font-size: 100%;
+    }
+    .slide2-text2 {
+        font-size: 100%;
+    }
+    .slide2-text3 {
+        font-size: 100%;
+    }
+}
+
+/* <!-------------------------------------------------------------------------------------------->
+<!--------------------------------------- SLIDER3 -------------------------------------------->
+<!--------------------------------------------------------------------------------------------> */
+
+.slide3-name {
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: -15px;
+}
+
+/* <!-------------------------------------------------------------------------------------------->
+<!--------------------------------------- News Info -------------------------------------------->
+<!--------------------------------------------------------------------------------------------> */
+
+.info {
+    width: 100%;
+    margin-bottom: 5%;
+    margin-top: 10%;
+}
+
+.info-content {
+    width: 70%;
+    margin-left: 15%;
+}
+
+.info-content .info-title h1{
+    color: #f04e98;
+    margin-left: 2%;
+    font-family: EamesBold;
+    font-weight: 800;
+    font-size: 2.5rem;
+}
+
+.info-title h1 span {
+    color: var(--fourth-dark);
+}
+
+.info-title{
+    font-weight: bolder;
+    font-size: 25px;
+    color: #f20c90;
+    font-family: Arial, sans-serif;
+}
+
+.info-slider {
+    padding: 30px 0;
+}
+
+.info-info {
+    margin-top: -15px;
+    font-size: 15px;
+    word-spacing: 3px;
+    font-weight: 10px;
+    color: grey;
+    margin-left: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.news-card-body {
+    padding: 20px 0 0 0;
+}
+
+.news-card-body .more a {
+    text-decoration: none;
+    color: #f04e98;
+    font-size: 15px;
+    letter-spacing: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 2%;
+}
+
+.more a:hover {
+    color: #f00b6e;
+}
+
+/* <!-------------------------------------------------------------------------------------------->
+<!--------------------------------------- Social Info -------------------------------------------->
+<!--------------------------------------------------------------------------------------------> */
+
+.social {
+    width: 70%;
+    margin-left: 15%;
+    margin-bottom: 20px;
+}
+
+.slider1-title span {
+    color: rgb(71, 38, 14);
+}
+
+.slider1-title h1 {
+    margin-top: 3%;
+    font-family: EamesBold;
+    font-weight: bold;
+    font-size: 2.5rem;
+    color: #F20C90;
+}
+
+.item1,
+.item2,
+.item3,
+.item4,
+.item5,
+.item6 {
+    background-color: #dedada;
+    height: 350px;
+    border: 2px solid white;
+    color: transparent;
+}
+
+
+.item1:hover,
+.item2:hover,
+.item3:hover,
+.item4:hover,
+.item5:hover,
+.item6:hover {
+    background-color: #6c6d6e;
+    color: white;
+    text-align: center;
+}
+
+.item1 .social-content,
+.item2 .social-content,
+.item3 .social-content,
+.item4 .social-content,
+.item5 .social-content,
+.item6 .social-content {
+    text-align: center;
+    margin-top: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+}

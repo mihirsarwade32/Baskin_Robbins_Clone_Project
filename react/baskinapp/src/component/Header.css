@@ -1,0 +1,150 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* ------------------------------------------------------------------------------------------------
+-------------------------------Title Bar--------------------------------------------------
+------------------------------------------------------------------------------------------------ */
+
+.title {
+    width: 100%;
+    height: 100px;
+    top: 0;
+}
+
+.title-bar {
+    width: 94%;
+    height: 100px;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.title-right{
+    width: 9%;
+    align-self: center;
+}
+
+.logo {
+    width: 23%;
+    height: 55%;
+    align-self: center;
+}
+
+.shop-btn {
+    align-self: center;
+}
+
+.shop-btn button {
+    width: 100%;
+    border-radius: 15px;
+    color: white;
+    font-weight: bold;
+    background-color: #f20c90;
+    text-align: center;
+    border: 1px solid #F20C90;
+    font-size: 20px;
+    padding: 7px 20px;
+    margin-right: 10%;
+    display: inline;
+}
+
+.shop-btn a {
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+}
+
+.shop-btn button:hover {
+    cursor: pointer;
+    background-color: #c40772;
+    border: 1px solid #F20C90;
+}
+
+.btn-close{
+    background-color: var(--sixth-dark);
+}
+
+/* ------------------------------------------------------------------------------------------------
+-------------------------------Responsive-------------------------------------------------
+------------------------------------------------------------------------------------------------ */
+
+@media screen and (max-width:900px) {
+    .logo {
+        width: 30%;
+        height: 50%;
+        align-self: center;
+    }
+}
+
+@media screen and (max-width:800px) {
+    .logo {
+        width: 35%;
+        height: 50%;
+        align-self: center;
+    }
+}
+
+@media screen and (max-width:700px) {
+    .logo {
+        width: 40%;
+        height: 50%;
+        align-self: center;
+    }
+}
+
+@media screen and (max-width:600px) {
+    .logo {
+        width: 45%;
+        height: 50%;
+        align-self: center;
+    }
+}
+
+@media screen and (max-width:500px) {
+    .logo {
+        width: 50%;
+        height: 50%;
+        align-self: center;
+    }
+}
+
+@media screen and (max-width:400px) {
+    .logo {
+        width: 55%;
+        height: 50%;
+        align-self: center;
+    }
+}
+
+@media screen and (max-width:300px) {
+    .logo {
+        width: 60%;
+        height: 50%;
+        align-self: center;
+    }
+}
+
+@media screen and (max-width:250px) {
+    .logo {
+        width: 40%;
+        height: 30%;
+        align-self: center;
+    }
+    .shop-btn button {
+        width: 50%;
+        border-radius: 15px;
+        color: white;
+        font-weight: bold;
+        background-color: #f20c90;
+        text-align: center;
+        border: 1px solid #F20C90;
+        font-size: 15px;
+        padding: 3px 8px;
+        margin-right: 3%;
+        display: inline;
+    }
+}
