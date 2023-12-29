@@ -1,8 +1,124 @@
 import react from 'react';
 import './QuickSearch.css';
 
+
 const QuickSearch = () => {
+    // var swiper = new Swiper(".top-slider", {
+    //     slidesPerView: 1,
+    //     spaceBetween: 0,
+    //     loop: true,
+    //     autoplay: {
+    //         delay: 5000,
+    //     },
+    //     pagination: {
+    //         el: ".swiper-pagination",
+    //         clickable: true,
+    //     },
+    // });
+
+
+    // var swiper = new Swiper(".card-slider", {
+    //     slidesPerView: 3,
+    //     spaceBetween: 0,
+    //     navigation: {
+    //         nextEl: ".swiper-button-next",
+    //         prevEl: ".swiper-button-prev",
+    //     },
+    //     breakpoints: {
+    //         200: {
+    //             slidesPerView: 1,
+    //         },
+    //         300: {
+    //             slidesPerView: 1,
+    //         },
+    //         500: {
+    //             slidesPerView: 1,
+    //         },
+    //         640: {
+    //             slidesPerView: 1,
+    //         },
+    //         768: {
+    //             slidesPerView: 2,
+    //         },
+    //         1024: {
+    //             slidesPerView: 2,
+    //         },
+    //         1280: {
+    //             slidesPerView: 3,
+    //         },
+    //     },
+    // });
+
+    // var swiper = new Swiper(".swiper-slide2", {
+    //     slidesPerView: 3,
+    //     spaceBetween: 30,
+    //     freeMode: true,
+    //     loop: true,
+    //     navigation: {
+    //         nextEl: ".swiper-button-next",
+    //         prevEl: ".swiper-button-prev",
+    //     },
+    //     breakpoints: {
+    //         200: {
+    //             slidesPerView: 1,
+    //         },
+    //         300: {
+    //             slidesPerView: 1,
+    //         },
+    //         500: {
+    //             slidesPerView: 1,
+    //         },
+    //         640: {
+    //             slidesPerView: 1,
+    //         },
+    //         768: {
+    //             slidesPerView: 2,
+    //         },
+    //         1024: {
+    //             slidesPerView: 2,
+    //         },
+    //         1280: {
+    //             slidesPerView: 3,
+    //         },
+    //     },
+    // });
+
+
+    // var swiper = new Swiper(".info-slider", {
+    //     slidesPerView: 2,
+    //     spaceBetween: 10,
+    //     pagination: {
+    //         el: ".swiper-pagination",
+    //         clickable: true,
+    //     },
+    //     breakpoints: {
+    //         200: {
+    //             slidesPerView: 1,
+    //         },
+    //         300: {
+    //             slidesPerView: 1,
+    //         },
+    //         500: {
+    //             slidesPerView: 1,
+    //         },
+    //         640: {
+    //             slidesPerView: 1,
+    //         },
+    //         768: {
+    //             slidesPerView: 2,
+    //         },
+    //         1024: {
+    //             slidesPerView: 2,
+    //         },
+    //         1280: {
+    //             slidesPerView: 2,
+    //         },
+    //     },
+    // })
+   
     return (
+
+
         <>
             <section>
                 <div className="slider1">
@@ -13,7 +129,7 @@ const QuickSearch = () => {
                         <div className="swiper card-slider">
                             <div className="swiper-wrapper  primary-dark">
                                 <div className="swiper-slide">
-                                    <div className="card border-0" style={{width: '90%'}}>
+                                    <div className="card border-0" style={{ width: '90%' }}>
                                         <div className="image-wrapper primary-dark">
                                             <img src="https://i.ibb.co/gjcx4D7/slide1.webp" className="card-img-top" alt="..." />
                                         </div>
@@ -26,7 +142,7 @@ const QuickSearch = () => {
                                 </div>
 
                                 <div className="swiper-slide">
-                                    <div className="card border-0" style={{width: '90%'}}>
+                                    <div className="card border-0" style={{ width: '90%' }}>
                                         <div className="image-wrapper primary-dark">
                                             <img src="https://i.ibb.co/SXB9rH9/slide2.webp" className="card-img-top" alt="..." />
                                         </div>
@@ -39,7 +155,7 @@ const QuickSearch = () => {
                                 </div>
 
                                 <div className="swiper-slide">
-                                    <div className="card border-0" style={{width: '90%'}}>
+                                    <div className="card border-0" style={{ width: '90%' }}>
                                         <div className="image-wrapper primary-dark">
                                             <img src="https://i.ibb.co/FWKbMs2/slide3.webp" className="card-img-top" alt="..." />
                                         </div>
@@ -52,7 +168,7 @@ const QuickSearch = () => {
                                 </div>
 
                                 <div className="swiper-slide">
-                                    <div className="card border-0" style={{width: '90%'}}>
+                                    <div className="card border-0" style={{ width: '90%' }}>
                                         <div className="image-wrapper primary-dark">
                                             <img src="https://i.ibb.co/MkZyCL2/slide4.webp" className="card-img-top" alt="..." />
                                         </div>
@@ -65,7 +181,7 @@ const QuickSearch = () => {
                                 </div>
 
                                 <div className="swiper-slide">
-                                    <div className="card border-0" style={{width: '90%'}}>
+                                    <div className="card border-0" style={{ width: '90%' }}>
                                         <div className="image-wrapper primary-dark">
                                             <img src="https://i.ibb.co/DfWvB6K/slide5.webp" className="card-img-top" alt="..." />
                                         </div>
@@ -78,7 +194,7 @@ const QuickSearch = () => {
                                 </div>
 
                                 <div className="swiper-slide">
-                                    <div className="card border-0" style={{width: '90%'}}>
+                                    <div className="card border-0" style={{ width: '90%' }}>
                                         <div className="image-wrapper primary-dark">
                                             <img src="https://i.ibb.co/p432T5n/slide6.webp" className="card-img-top" alt="..." />
                                         </div>
@@ -91,7 +207,7 @@ const QuickSearch = () => {
                                 </div>
 
                                 <div className="swiper-slide">
-                                    <div className="card border-0" style={{width: '90%'}}>
+                                    <div className="card border-0" style={{ width: '90%' }}>
                                         <div className="image-wrapper primary-dark">
                                             <img src="https://i.ibb.co/rcWgH1J/slide7.webp" className="card-img-top" alt="..." />
                                         </div>
@@ -104,7 +220,7 @@ const QuickSearch = () => {
                                 </div>
 
                                 <div className="swiper-slide">
-                                    <div className="card border-0" style={{width: '90%'}}>
+                                    <div className="card border-0" style={{ width: '90%' }}>
                                         <div className="image-wrapper primary-dark">
                                             <img src="https://i.ibb.co/tCZqg4c/slide8.webp" className="card-img-top" alt="..." />
                                         </div>
@@ -117,7 +233,7 @@ const QuickSearch = () => {
                                 </div>
 
                                 <div className="swiper-slide">
-                                    <div className="card border-0" style={{width: '90%'}}>
+                                    <div className="card border-0" style={{ width: '90%' }}>
                                         <div className="image-wrapper primary-dark">
                                             <img src="https://i.ibb.co/gjZddSH/slide9.webp" className="card-img-top" alt="..." />
                                         </div>
@@ -130,7 +246,7 @@ const QuickSearch = () => {
                                 </div>
 
                                 <div className="swiper-slide">
-                                    <div className="card border-0" style={{width: '90%'}}>
+                                    <div className="card border-0" style={{ width: '90%' }}>
                                         <div className="image-wrapper primary-dark">
                                             <img src="https://i.ibb.co/3Nc67Wp/slide10.webp" className="card-img-top" alt="..." />
                                         </div>
@@ -143,7 +259,7 @@ const QuickSearch = () => {
                                 </div>
 
                                 <div className="swiper-slide">
-                                    <div className="card border-0" style={{width: '90%'}}>
+                                    <div className="card border-0" style={{ width: '90%' }}>
                                         <div className="image-wrapper primary-dark">
                                             <img src="https://i.ibb.co/0Qb58r1/slide11.webp" className="card-img-top" alt="..." />
                                         </div>
@@ -156,7 +272,7 @@ const QuickSearch = () => {
                                 </div>
 
                                 <div className="swiper-slide">
-                                    <div className="card border-0" style={{width: '90%'}}>
+                                    <div className="card border-0" style={{ width: '90%' }}>
                                         <div className="image-wrapper primary-dark">
                                             <img src="https://i.ibb.co/m61tMmp/slide12.webp" className="card-img-top" alt="..." />
                                         </div>
@@ -169,7 +285,7 @@ const QuickSearch = () => {
                                 </div>
 
                                 <div className="swiper-slide">
-                                    <div className="card border-0" style={{width: '90%'}}>
+                                    <div className="card border-0" style={{ width: '90%' }}>
                                         <div className="image-wrapper primary-dark">
                                             <img src="https://i.ibb.co/1m2tsFS/slide13.webp" className="card-img-top" alt="..." />
                                         </div>
@@ -206,12 +322,12 @@ const QuickSearch = () => {
 
                                 <div className="swiper-slide">
                                     <a href="shop.html"><img src="https://i.ibb.co/25vHsBH/slide1.webp" alt=""
-                                        className="slide2-image-wrapper"/></a>
-                                    <h2 className="slide2-text1 text-center">Super <br/> Duper <br/>Thickshake</h2>
+                                        className="slide2-image-wrapper" /></a>
+                                    <h2 className="slide2-text1 text-center">Super <br /> Duper <br />Thickshake</h2>
                                 </div>
                                 <div className="swiper-slide">
                                     <a href="shop.html"><img src="https://i.ibb.co/TRrjT6W/slide2.webp" alt=""
-                                        className="slide2-image-wrapper"/></a>
+                                        className="slide2-image-wrapper" /></a>
                                     <h2 className="slide2-text2 text-center">Waffle <br />Sandwich</h2>
                                 </div>
                                 <div className="swiper-slide">
@@ -262,7 +378,7 @@ const QuickSearch = () => {
                         <div className="swiper card-slider">
                             <div className="swiper-wrapper">
                                 <div className="swiper-slide">
-                                    <div className="card border-0" style={{width: '90%'}}>
+                                    <div className="card border-0" style={{ width: '90%' }}>
                                         <div className="image-wrapper primary-dark">
                                             <img src="https://i.ibb.co/3Nc67Wp/slide10.webp" className="card-img-top" alt="..." />
                                         </div>
@@ -274,7 +390,7 @@ const QuickSearch = () => {
                                 </div>
 
                                 <div className="swiper-slide">
-                                    <div className="card border-0" style={{width: '90%'}}>
+                                    <div className="card border-0" style={{ width: '90%' }}>
                                         <div className="image-wrapper primary-dark">
                                             <img src="https://i.ibb.co/3C2NZdt/slide2.webp" className="card-img-top" alt="..." />
                                         </div>
@@ -286,7 +402,7 @@ const QuickSearch = () => {
                                 </div>
 
                                 <div className="swiper-slide">
-                                    <div className="card border-0" style={{width: '90%'}}>
+                                    <div className="card border-0" style={{ width: '90%' }}>
                                         <div className="image-wrapper primary-dark">
                                             <img src="https://i.ibb.co/1m2tsFS/slide13.webp" className="card-img-top" alt="..." />
                                         </div>
@@ -298,7 +414,7 @@ const QuickSearch = () => {
                                 </div>
 
                                 <div className="swiper-slide">
-                                    <div className="card border-0" style={{width: '90%'}}>
+                                    <div className="card border-0" style={{ width: '90%' }}>
                                         <div className="image-wrapper primary-dark">
                                             <img src="https://i.ibb.co/1MsXNGN/slide4.webp" className="card-img-top" alt="..." />
                                         </div>
@@ -310,7 +426,7 @@ const QuickSearch = () => {
                                 </div>
 
                                 <div className="swiper-slide">
-                                    <div className="card border-0" style={{width: '90%'}}>
+                                    <div className="card border-0" style={{ width: '90%' }}>
                                         <div className="image-wrapper primary-dark">
                                             <img src="https://i.ibb.co/ctrXmqB/slide5.webp" className="card-img-top" alt="..." />
                                         </div>
@@ -322,7 +438,7 @@ const QuickSearch = () => {
                                 </div>
 
                                 <div className="swiper-slide">
-                                    <div className="card border-0" style={{width: '90%'}}>
+                                    <div className="card border-0" style={{ width: '90%' }}>
                                         <div className="image-wrapper primary-dark">
                                             <img src="https://i.ibb.co/gjZddSH/slide9.webp" className="card-img-top" alt="..." />
                                         </div>
@@ -347,7 +463,7 @@ const QuickSearch = () => {
                 <div className="info">
                     <div className="container info-content">
                         <div className="info-title text-center">
-                            <h1 className="fourth-dark"><img src="https://i.ibb.co/hHQM6Mv/BR-Icon.webp" alt="" style={{width: '7%'}}/> Inside
+                            <h1 className="fourth-dark"><img src="https://i.ibb.co/hHQM6Mv/BR-Icon.webp" alt="" style={{ width: '7%' }} /> Inside
                                 <span>Scoop</span></h1>
                         </div>
                         <div className="swiper info-slider">
@@ -356,7 +472,7 @@ const QuickSearch = () => {
                                     <div className="card border-0">
                                         <div className="news-image-wrapper">
                                             <img src="https://i.ibb.co/PTSL3JQ/news1.webp" className="card-img-top" alt="..."
-                            />
+                                            />
                                         </div>
                                         <div className="news-card-body primary-dark">
                                             <p className="info-title">Here Are 7 Delicacies To Satiate Those Summer Craving Before
@@ -374,7 +490,7 @@ const QuickSearch = () => {
                                     <div className="card border-0">
                                         <div className="news-image-wrapper">
                                             <img src="https://i.ibb.co/7pLXy1R/news2.webp" className="card-img-top" alt="..."
-                                                />
+                                            />
                                         </div>
                                         <div className="news-card-body primary-dark">
                                             <p className="info-title">5 new ice cream flavours to elevate your desert manu this
@@ -392,7 +508,7 @@ const QuickSearch = () => {
                                     <div className="card border-0">
                                         <div className="news-image-wrapper">
                                             <img src="https://i.ibb.co/JFMQBHG/news3.png" className="card-img-top" alt="..."
-                                                />
+                                            />
                                         </div>
                                         <div className="news-card-body primary-dark">
                                             <p className="info-title">This Thanksgiving Day, surprise your loved ones with these 5
@@ -409,7 +525,7 @@ const QuickSearch = () => {
                                     <div className="card border-0">
                                         <div className="news-image-wrapper">
                                             <img src="https://i.ibb.co/N2Jtpfx/news4.png" className="card-img-top" alt="..."
-                                                />
+                                            />
                                         </div>
                                         <div className="news-card-body primary-dark">
                                             <p className="info-title">Celebrating the festive season with good food and love: Here's
@@ -425,7 +541,7 @@ const QuickSearch = () => {
                                     <div className="card border-0">
                                         <div className="news-image-wrapper">
                                             <img src="https://i.ibb.co/Z8cpBks/news5.png" className="card-img-top" alt="..."
-                                                />
+                                            />
                                         </div>
                                         <div className="news-card-body primary-dark">
                                             <p className="info-title">Which Ice Cream Suits Your BFF?</p><br />
@@ -441,11 +557,11 @@ const QuickSearch = () => {
                                     <div className="card border-0">
                                         <div className="news-image-wrapper">
                                             <img src="https://i.ibb.co/ZTD7XrS/news6.webp" className="card-img-top" alt="..."
-                                                />
+                                            />
                                         </div>
                                         <div className="news-card-body primary-dark">
                                             <p className="info-title">A (Vegan) Twist In The Tale: Introducing vegan Ice Creams by
-                                                Basking Robbins</p><br/>
+                                                Basking Robbins</p><br />
                                             <p className="info-info">If we say 'ice cream', one of the first things you'd associate
                                                 with it is milk, because everyone knows, you can't have ice cream without milk.
                                                 Righ...</p><br />
@@ -468,7 +584,7 @@ const QuickSearch = () => {
             <section>
                 <div className="social">
                     <div className="slider1-title text-center">
-                        <h1><img src="https://i.ibb.co/hHQM6Mv/BR-Icon.webp" alt="" style={{width:'6%'}} className="social-img" /> .
+                        <h1><img src="https://i.ibb.co/hHQM6Mv/BR-Icon.webp" alt="" style={{ width: '6%' }} className="social-img" /> .
                             Social</h1>
                     </div>
 
@@ -548,7 +664,7 @@ const QuickSearch = () => {
                                 #Fruitfest #SummerFruits #FruitSundae #Sundae</p>
                         </div>
                     </div>
-                    </div>
+                </div>
             </section >
 
 

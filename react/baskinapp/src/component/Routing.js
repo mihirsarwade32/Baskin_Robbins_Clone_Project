@@ -6,14 +6,16 @@ import Main from './Main';
 import Home from './Home/Home';
 
 
+
 const Routing = () => {
     return (
         <>
             <BrowserRouter>
                 <Header/>
                 <Routes>
-                    <Route path="/" element={<Main />}>
-                        <Route index element={<Home />} />
+                    <Route path="/" element={<Main/>}>
+                        <Route index element={<Home/>} />
+                        
                     </Route>
                 </Routes>
                 <Footer/>
