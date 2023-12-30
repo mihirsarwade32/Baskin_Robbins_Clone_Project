@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+
+    <!-- CSS -->
+    <link href="https://i.ibb.co/hHQM6Mv/BR-Icon.webp" rel="icon">
+    <link rel="stylesheet" href="css/shopList.css">
+    <title>Baskin Robbins - Shop List</title>
+</head>
+
+<body>
+    <!-- -------------------------------------------------------------------------------------------------
+    --------------------------------------Title Bar----------------------------------------------------
+    ------------------------------------------------------------------------------------------------- -->
+
+    <div class="title primary-dark" id="title-id">
+        <header class="title-bar">
+            <div class="title-right">
+                <a data-bs-toggle="offcanvas" href="#offcanvasExample" role="button" aria-controls="offcanvasExample">
+                    <img src="https://i.ibb.co/VMZNVR2/Burger-Menu.png" alt="" width="30">
+                </a>
+
+                <div class="offcanvas offcanvas-start primary-dark" tabindex="-1" id="offcanvasExample"
+                    aria-labelledby="offcanvasExampleLabel">
+                    <div class="offcanvas-header">
+                        <button type="button" class="btn-close text-reset sixth-dark" data-bs-dismiss="offcanvas"
+                            aria-label="Close"></button>
+                    </div>
+                    <div class="offcanvas-body">
+                        <ul><a class="dropdown-item secondary-dark" href="shop.html">Shop</a></ul>
+                        <ul><a class="dropdown-item secondary-dark" href="#">Partner With Us</a></ul>
+                        <ul><a class="dropdown-item secondary-dark" href="#">About Us</a></ul>
+                        <ul><a class="dropdown-item secondary-dark" href="#">Our Stores</a></ul>
+                    </div>
+                </div>
+            </div>
+
+            <img src="https://i.ibb.co/yfqH6X7/Main-Logo.webp" alt="logo" class="logo">
+
+            <div class="shop-btn">
+                <a href="index.html"><button>Home</button></a>
+            </div>
+            
+        </header>
+        <hr>
+    </div>
+
+
+
+    <!-- -------------------------------------------------------------------------------------------------
+    --------------------------------------Main Content----------------------------------------------------
+    ------------------------------------------------------------------------------------------------- -->
+
+        <!-- -------------------------------------------------------------------------------------------------
+    --------------------------------------City Filter----------------------------------------------------
+    ------------------------------------------------------------------------------------------------- -->
+
+    <div class="main">
+        <div class="filter">
+            <h3>Select State</h3>
+            <input type="radio" id="MAHARASHTRA" name="state" value="MAHARASHTRA" class="radiobtn"><label
+                for="MAHARASHTRA">MAHARASHTRA</label><br>
+            <input type="radio" id="GUJRAT" name="state" value="GUJRAT" class="radiobtn"><label
+                for="GUJRAT">GUJRAT</label><br>
+            <input type="radio" id="MADHYA PRADESH" name="state" value="MADHYA PRADESH" class="radiobtn"><label
+                for="MADHYA PRADESH">MADHYA PRADESH</label><br>
+            <input type="radio" id="KARNATAKA" name="state" value="KARNATAKA" class="radiobtn"><label
+                for="KARNATAKA">KARNATAKA</label><br>
+            <input type="radio" id="ASSAM" name="state" value="ASSAM" class="radiobtn"><label
+                for="ASSAM">ASSAM</label><br>
+            <input type="radio" id="UTTAR PRADESH" name="state" value="UTTAR PRADESH" class="radiobtn"><label
+                for="UTTAR PRADESH">UTTAR PRADESH</label><br>
+            <input type="radio" id="PUNJAB" name="state" value="PUNJAB" class="radiobtn"><label
+                for="PUNJAB">PUNJAB</label><br>
+            <input type="radio" id="KERALA" name="state" value="KERALA" class="radiobtn"><label
+                for="KERALA">KERALA</label><br>
+            <input type="radio" id="TAMILNADU" name="state" value="TAMILNADU" class="radiobtn"><label
+                for="TAMILNADU">TAMILNADU</label><br>
+        </div>
+
+
+    <!-- -------------------------------------------------------------------------------------------------
+    --------------------------------------List of City----------------------------------------------------
+    ------------------------------------------------------------------------------------------------- -->
+
+        <div class="list">
+            <div class="card mb-5">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                        <img src="https://i.ibb.co/vszWg36/Mumbai.jpg" class="img-fluid rounded-start" alt="...">
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <h2 class="card-title">Soham's Baskin Robbins Store</h2>
+                            <p class="card-text">Shop No.4, Daffodils Apts, Bhawani Nagar, Marol Maroshi Road, Mumbai
+                            </p>
+                            <p class="card-text"><small class="text-muted">Price Starting from Rs.69</small></p>
+                            <p class="card-contact"><small class="text-muted">Contact No. 9453524651</small></p>
+                            <div class="goto"><button><a href="shopDetails.html">Go to Shop</a></button></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card mb-5">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                        <img src="https://i.ibb.co/XVT3cpq/Vadodara.jpg" class="img-fluid rounded-start" alt="...">
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <h2 class="card-title">Bhai's Baskin Robbins</h2>
+                            <p class="card-text">Ground Floor, Satyam Apts, Jetalpur Rd, beside Narayan Jewellers, Vadodara
+                            </p>
+                            <p class="card-text"><small class="text-muted">Price Starting from Rs.69</small></p>
+                            <p class="card-contact"><small class="text-muted">Contact No. 9453524667</small></p>
+                            <div class="goto"><button><a href="shopDetails.html">Go to Shop</a></button></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card mb-5">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                        <img src="https://i.ibb.co/MgVDrJG/Bhopal.jpg" class="img-fluid rounded-start" alt="...">
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <h2 class="card-title">Baskin Robbins Store</h2>
+                            <p class="card-text">3rd Food Court, D B Mall, Arera Hills, Maharana Pratap Nagar, Bhopa
+                            </p>
+                            <p class="card-text"><small class="text-muted">Price Starting from Rs.69</small></p>
+                            <p class="card-contact"><small class="text-muted">Contact No. 9455724667</small></p>
+                            <div class="goto"><button><a href="shopDetails.html">Go to Shop</a></button></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="card mb-5">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                        <img src="https://i.ibb.co/Mg9Fm57/Bengaluru.jpg" class="img-fluid rounded-start" alt="...">
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <h2 class="card-title">Anna's Baskin Robbins Store</h2>
+                            <p class="card-text">25, 2, Millers Rd, next to Imperial Hotel, Vasanth Nagar, Bengaluru
+                            </p>
+                            <p class="card-text"><small class="text-muted">Price Starting from Rs.69</small></p>
+                            <p class="card-contact"><small class="text-muted">Contact No. 9453524667</small></p>
+                            <div class="goto"><button><a href="shopDetails.html">Go to Shop</a></button></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="card mb-5">
+                <div class="row g-0">
+                    <div class="col-md-4">
+                        <img src="https://i.ibb.co/Lzn40Z4/Guwahati.jpg" class="img-fluid rounded-start" alt="...">
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <h2 class="card-title">Baskin Robbins Zone</h2>
+                            <p class="card-text">Digholi Pukhuri, MG Rd, Latasil, Uzan Bazar, Guwahati
+                            </p>
+                            <p class="card-text"><small class="text-muted">Price Starting from Rs.69</small></p>
+                            <p class="card-contact"><small class="text-muted">Contact No. 9675724667</small></p>
+                            <div class="goto"><button><a href="shopDetails.html">Go to Shop</a></button></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-------------------------------------------------------------------------------------------->
+    <!--------------------------------------- Footer -------------------------------------------->
+    <!-------------------------------------------------------------------------------------------->
+
+    <div class="footer">
+        <div class="footer-top-container">
+            <div class="top-first-div">
+                <div class="top-foot-1">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About Us</a></li>
+                    <li><a href="#">Our Stores</a></li>
+                    <li><a href="#">Blog</a></li>
+                </div>
+                <div class="top-foot-2">
+                    <li><a href="#">Contact Us</a></li>
+                    <li><a href="#">Franchise Enquiry</a></li>
+                    <li><a href="#">Privacy Policy</a></li>
+                    <li><a href="#">Terms & Condition</a></li>
+                </div>
+            </div>
+            <div class="top-second-div">
+                <div class="top-foot-3">
+                    <li>Subscribe to news letter</li>
+                    <li><input type="email" placeholder="Enter your E-mail"><button>SUBMIT</button></li>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="footer-bottom-container">
+            <div class="bottom-foot1">
+                <a href="#">Copyright&copy; | Baskin Robbins India</a>
+            </div>
+            <div class="bottom-foot2">
+                <a href="https://www.youtube.com/user/BaskinRobbinsIn" target="_blank"><img
+                        src="https://i.ibb.co/hMmh539/Youtube.webp" alt="" class="foot-logo"></a>
+                <a href="https://www.instagram.com/baskinrobbinsin/?hl=en" target="_blank"><img
+                        src="https://i.ibb.co/LN2cQYC/Instagram.webp" alt="" class="foot-logo"></a>
+                <a href="https://twitter.com/BaskinRobbinsIn" target="_blank"><img
+                        src="https://i.ibb.co/cCY7Tg0/Twitter.webp" alt="" class="foot-logo"></a>
+                <a href="https://www.facebook.com/BaskinRobbinsIn/" target="_blank"><img
+                        src="https://i.ibb.co/Kwjck43/Facebook.webp" alt="" class="foot-logo"></a>
+            </div>
+            <div class="bottom-foot3">
+                <a href="#">Sitemap</a>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>

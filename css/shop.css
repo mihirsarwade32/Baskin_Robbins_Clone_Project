@@ -59,25 +59,147 @@ body {
 -------------------------------------Title bar----------------------------------------------------
 ------------------------------------------------------------------------------------------------ */
 
-.title{
+.title {
     width: 100%;
-    height: 80px;
-    border-bottom: 1px solid grey;
+    height: 100px;
+    top: 0;
+}
+
+.title-bar {
+    width: 94%;
+    height: 100px;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-bottom: 10px;
     display: flex;
     justify-content: space-between;
 }
 
-.title-img{
-display: flex;
-font-weight: bold;
-font-size: 20px;
-margin-left: 8%;
-margin-top: 30px;
-word-spacing: 2px;
+.title-right {
+    width: 9%;
+    align-self: center;
 }
 
-.title img{
-    margin-right: 5%;   
+.logo {
+    width: 23%;
+    height: 55%;
+    align-self: center;
+}
+
+.shop-btn {
+    align-self: center;
+}
+
+.shop-btn button {
+    width: 100%;
+    border-radius: 15px;
+    color: white;
+    font-weight: bold;
+    background-color: #f20c90;
+    text-align: center;
+    border: 1px solid #F20C90;
+    font-size: 20px;
+    padding: 7px 20px;
+    margin-right: 10%;
+    display: inline;
+}
+
+.shop-btn a {
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+}
+
+.shop-btn button:hover {
+    cursor: pointer;
+    background-color: #c40772;
+    border: 1px solid #F20C90;
+}
+
+.btn-close {
+    background-color: var(--sixth-dark);
+}
+
+/* ------------------------------------------------------------------------------------------------
+-------------------------------Responsive-------------------------------------------------
+------------------------------------------------------------------------------------------------ */
+
+@media screen and (max-width:900px) {
+    .logo {
+        width: 30%;
+        height: 50%;
+        align-self: center;
+    }
+}
+
+@media screen and (max-width:800px) {
+    .logo {
+        width: 35%;
+        height: 50%;
+        align-self: center;
+    }
+}
+
+@media screen and (max-width:700px) {
+    .logo {
+        width: 40%;
+        height: 50%;
+        align-self: center;
+    }
+}
+
+@media screen and (max-width:600px) {
+    .logo {
+        width: 45%;
+        height: 50%;
+        align-self: center;
+    }
+}
+
+@media screen and (max-width:500px) {
+    .logo {
+        width: 50%;
+        height: 50%;
+        align-self: center;
+    }
+}
+
+@media screen and (max-width:400px) {
+    .logo {
+        width: 55%;
+        height: 50%;
+        align-self: center;
+    }
+}
+
+@media screen and (max-width:300px) {
+    .logo {
+        width: 60%;
+        height: 50%;
+        align-self: center;
+    }
+}
+
+@media screen and (max-width:250px) {
+    .logo {
+        width: 40%;
+        height: 30%;
+        align-self: center;
+    }
+
+    .shop-btn button {
+        width: 50%;
+        border-radius: 15px;
+        color: white;
+        font-weight: bold;
+        background-color: #f20c90;
+        text-align: center;
+        border: 1px solid #F20C90;
+        font-size: 15px;
+        padding: 3px 8px;
+        margin-right: 3%;
+        display: inline;
+    }
 }
 
 /* ------------------------------------------------------------------------------------------------
@@ -120,13 +242,13 @@ input[type="checkbox"]:checked {
 -------------------------------------Main Content----------------------------------------------------
 ------------------------------------------------------------------------------------------------ */
 
-.main{
+.main {
     width: 100%;
     display: flex;
     border-bottom: 1px solid grey;
 }
 
-.main-content{
+.main-content {
     /* border: 1px solid red; */
     width: 50%;
     height: auto;
@@ -135,36 +257,37 @@ input[type="checkbox"]:checked {
     margin-bottom: 6%;
     margin-top: 6%;
 }
-.main-text{
+
+.main-text {
     /* border: 1px solid black; */
     width: 60%;
     margin-left: 20%;
     height: auto;
-    
+
 }
 
-.first-line{
+.first-line {
     color: grey;
     font-size: 20px;
-    font-family: proxima-nova,sans-serif;
+    font-family: proxima-nova, sans-serif;
 }
 
-.second-line{
+.second-line {
     color: black;
     font-size: 32px;
     font-weight: bold;
     margin-right: 1%;
     margin-left: 1%;
-    font-family: proxima-nova,sans-serif;
+    font-family: proxima-nova, sans-serif;
 }
 
-.locate{
+.locate {
     margin-top: 8%;
     align-self: center;
     justify-content: center;
 }
 
-#box1 button{
+#box1 button {
     padding: 15px;
     text-align: center;
     background-color: #f20c90;
@@ -175,41 +298,63 @@ input[type="checkbox"]:checked {
     font-weight: bold;
 }
 
-#box3{
+#box3 {
     border: 1px solid #f20c90;
     border-radius: 8px;
     font-size: 18px;
     font-weight: bolder;
-   padding-right: 120px;
-   padding-left: 100px;
-   padding-top: 10px;
+    padding-right: 120px;
+    padding-left: 100px;
+    padding-top: 10px;
     height: 50px;
     margin-left: 10%;
     text-align: center;
-    font-family: proxima-nova,sans-serif;
+    font-family: proxima-nova, sans-serif;
+}
+
+/* .proceed{
+    border: 1px solid #f20c90;
+} */
+
+.proceed button{
+    background-color: #f20c90;
+    padding: 1% 4%;
+    border: 1px solid #f20c90;
+    border-radius: 8px;
+   margin-left: 40%;
+}
+
+.proceed button a{
+    text-decoration: none;
+    color: white;
+    font-size: larger;
+    font-weight: bolder;
+    letter-spacing: 2px;
 }
 
 /* ------------------------------------------------------------------------------------------------
 -------------------------------------Footer----------------------------------------------------
 ------------------------------------------------------------------------------------------------ */
 
-.foot{
+.foot {
     display: flex;
     justify-content: space-around;
 }
 
-.foot1, .foot2, .foot3{
-   width: 18%;
-   height: 150px;
-   margin-top: 2%;
+.foot1,
+.foot2,
+.foot3 {
+    width: 18%;
+    height: 150px;
+    margin-top: 2%;
 }
 
-.foot-head{
+.foot-head {
     font-size: 20px;
     font-weight: 500;
 }
 
-.text-muted{
+.text-muted {
     margin-top: -2%;
 }
 
@@ -219,133 +364,155 @@ input[type="checkbox"]:checked {
 ------------------------------------------------------------------------------------------------ */
 
 @media screen and (max-width:1354px) {
-    .main-content{
+    .main-content {
         width: 60%;
-      margin-left: 20%;
+        margin-left: 20%;
     }
-    .main-text{
+
+    .main-text {
         width: 70%;
-        margin-left: 15%;     
+        margin-left: 15%;
     }
-    #box3{
+
+    #box3 {
         font-size: 18px;
-       padding-right: 70px;
-       padding-left: 70px;
-       padding-top: 10px;
+        padding-right: 70px;
+        padding-left: 70px;
+        padding-top: 10px;
     }
-    #box1 button{
+
+    #box1 button {
         padding-right: 20px;
-       padding-left: 20px;
-   
+        padding-left: 20px;
+
     }
 }
 
 @media screen and (max-width:1034px) {
-    .main-content{
+    .main-content {
         width: 70%;
-      margin-left: 15%;
+        margin-left: 15%;
     }
-    .main-text{
+
+    .main-text {
         width: 70%;
-        margin-left: 15%;     
+        margin-left: 15%;
     }
-    #box3{
+
+    #box3 {
         font-size: 18px;
-       padding-right: 70px;
-       padding-left: 70px;
-       padding-top: 10px;
+        padding-right: 70px;
+        padding-left: 70px;
+        padding-top: 10px;
     }
 }
 
 @media screen and (max-width:962px) {
-    .main-content{
+    .main-content {
         width: 70%;
-      margin-left: 15%;
+        margin-left: 15%;
     }
-    .main-text{
+
+    .main-text {
         width: 70%;
-        margin-left: 15%;     
+        margin-left: 15%;
     }
-    #box3{
+
+    #box3 {
         font-size: 18px;
-       padding-right: 65px;
-       padding-left: 65px;
-       padding-top: 10px;
+        padding-right: 65px;
+        padding-left: 65px;
+        padding-top: 10px;
     }
 }
 
 @media screen and (max-width:900px) {
-    .foot{
-      display: inline;
+    .foot {
+        display: inline;
 
     }
-    .foot1, .foot2, .foot3{
+
+    .foot1,
+    .foot2,
+    .foot3 {
         width: 30%;
         height: 150px;
         margin-top: 10%;
         margin-left: 35%;
-     }
+    }
 }
 
 @media screen and (max-width:650px) {
-    
-    .main-text{
+
+    .main-text {
         width: 90%;
-        margin-left: 5%;     
+        margin-left: 5%;
     }
-    .locate{
+
+    .locate {
         flex-wrap: wrap;
     }
-    #box3{
+
+    #box3 {
         font-size: 18px;
-       padding-right: 60px;
-       padding-left: 60px;
-       padding-top: 10px;
-       margin-top: 3px;
-       margin-left: 3%;
+        padding-right: 60px;
+        padding-left: 60px;
+        padding-top: 10px;
+        margin-top: 3px;
+        margin-left: 3%;
     }
 }
 
 @media screen and (max-width:594px) {
-    .foot{
-      display: inline;
+    .foot {
+        display: inline;
 
     }
-    .foot1, .foot2, .foot3{
+
+    .foot1,
+    .foot2,
+    .foot3 {
         width: 35%;
         height: 150px;
         margin-top: 10%;
         margin-left: 35%;
-     }
+    }
 }
 
 @media screen and (max-width:442px) {
-    .foot{
-      display: inline;
+    .foot {
+        display: inline;
 
     }
-    .foot1, .foot2, .foot3{
+
+    .foot1,
+    .foot2,
+    .foot3 {
         width: 50%;
         height: 150px;
         margin-top: 15%;
         margin-left: 25%;
-     }
+    }
 }
 
 @media screen and (max-width:300px) {
-    #box1 button{
+    #box1 button {
         padding-right: 15px;
-       padding-left: 15px;
-   
-    }
-    .foot{
-      display: inline;
+        padding-left: 15px;
 
     }
-    .foot1, .foot2, .foot3{
+
+    .foot {
+        display: inline;
+
+    }
+
+    .foot1,
+    .foot2,
+    .foot3 {
         width: 80%;
         height: 150px;
         margin-top: 15%;
         margin-left: 10%;
-     }
+    }
 }
