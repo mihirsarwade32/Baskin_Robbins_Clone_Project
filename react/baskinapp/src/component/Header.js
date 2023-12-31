@@ -1,5 +1,6 @@
 import react from 'react';
 import './Header.css';
+import { Link } from 'react-router-dom';
 
 const Header = () => {
     return (
@@ -8,7 +9,7 @@ const Header = () => {
             <header className="title-bar">
                 <div className="title-right">
                     <a data-bs-toggle="offcanvas" href="#offcanvasExample" role="button" aria-controls="offcanvasExample">
-                        <img src="https://i.ibb.co/VMZNVR2/Burger-Menu.png" alt="" width="30"/>
+                        <img src="https://i.ibb.co/VMZNVR2/Burger-Menu.png" alt="" width="30" />
                     </a>
 
                     <div className="offcanvas offcanvas-start primary-dark" tabIndex="-1" id="offcanvasExample"
@@ -26,11 +27,13 @@ const Header = () => {
                     </div>
                 </div>
 
-                <img src="https://i.ibb.co/yfqH6X7/Main-Logo.webp" alt="logo" className="logo"/>
+                <img src="https://i.ibb.co/yfqH6X7/Main-Logo.webp" alt="logo" className="logo" />
 
-                    <div className="shop-btn">
-                        <a href="shop.html"><button>SHOP</button></a>
-                    </div>
+                <div className="shop-btn">
+                    <Link to={`/`}><button>Home</button></Link>
+
+                </div>
+
 
             </header>
         </div>

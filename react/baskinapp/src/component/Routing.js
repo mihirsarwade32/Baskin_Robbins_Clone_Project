@@ -4,7 +4,8 @@ import Footer from './Footer';
 import Header from './Header';
 import Main from './Main';
 import Home from './Home/Home';
-
+import Location from './Location/locationLogic';
+import Listing from './Listing/listingLogic';
 
 
 const Routing = () => {
@@ -15,7 +16,9 @@ const Routing = () => {
                 <Routes>
                     <Route path="/" element={<Main/>}>
                         <Route index element={<Home/>} />
-                        
+                        <Route path="location" element={<Location/>} />
+                        <Route path="listing" element={<Listing/>} />
+                      
                     </Route>
                 </Routes>
                 <Footer/>

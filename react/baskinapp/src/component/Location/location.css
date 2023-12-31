@@ -1,0 +1,89 @@
+.main {
+    width: 100%;
+    display: flex;
+    border-top: 1px solid grey;
+}
+
+.main-content {
+    /* border: 1px solid red; */
+    width: 50%;
+    height: auto;
+    align-self: center;
+    margin-left: 25%;
+    margin-bottom: 6%;
+    margin-top: 6%;
+}
+
+.main-text {
+    /* border: 1px solid black; */
+    width: 60%;
+    margin-left: 20%;
+    height: auto;
+
+}
+
+.first-line {
+    color: grey;
+    font-size: 20px;
+    font-family: proxima-nova, sans-serif;
+}
+
+.second-line {
+    color: black;
+    font-size: 32px;
+    font-weight: bold;
+    margin-right: 1%;
+    margin-left: 1%;
+    font-family: proxima-nova, sans-serif;
+}
+
+.locate {
+    margin-top: 8%;
+    align-self: center;
+    justify-content: center;
+}
+
+#box1 button {
+    padding: 15px;
+    text-align: center;
+    background-color: #f20c90;
+    color: white;
+    border: 0;
+    border-radius: 8px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#box3 {
+    border: 1px solid #f20c90;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: bolder;
+    padding-right: 120px;
+    padding-left: 100px;
+    padding-top: 10px;
+    height: 50px;
+    margin-left: 10%;
+    text-align: center;
+    font-family: proxima-nova, sans-serif;
+}
+
+/* .proceed{
+    border: 1px solid #f20c90;
+} */
+
+.proceed button{
+    background-color: #f20c90;
+    padding: 1% 4%;
+    border: 1px solid #f20c90;
+    border-radius: 8px;
+   margin-left: 40%;
+}
+
+.proceed button a{
+    text-decoration: none;
+    color: white;
+    font-size: larger;
+    font-weight: bolder;
+    letter-spacing: 2px;
+}

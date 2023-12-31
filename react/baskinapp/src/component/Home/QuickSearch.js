@@ -1,6 +1,6 @@
 import react from 'react';
 import './QuickSearch.css';
-
+import { Link } from 'react-router-dom';
 
 const QuickSearch = () => {
     // var swiper = new Swiper(".top-slider", {
@@ -115,7 +115,7 @@ const QuickSearch = () => {
     //         },
     //     },
     // })
-   
+
     return (
 
 
@@ -136,7 +136,7 @@ const QuickSearch = () => {
                                         <div className="card-body primary-dark">
                                             <h2 className="name third-dark">Unicorn</h2>
                                             <p className="description secondary-dark">Sundae</p>
-                                            <a href="shop.html"><button className="button1">SHOP NOW</button></a>
+                                            <Link to={`Listing`}><button className="button1">SHOP NOW</button></Link>
                                         </div>
                                     </div>
                                 </div>
@@ -149,7 +149,7 @@ const QuickSearch = () => {
                                         <div className="card-body primary-dark">
                                             <h2 className="name third-dark">Blueberry and White Chocolate</h2>
                                             <p className="description secondary-dark">Icecream</p>
-                                            <a href="shop.html"><button className="button">SHOP NOW</button></a>
+                                            <Link to={`Location`}><button className="button1">SHOP NOW</button></Link>
                                         </div>
                                     </div>
                                 </div>
@@ -162,7 +162,7 @@ const QuickSearch = () => {
                                         <div className="card-body primary-dark">
                                             <h2 className="name third-dark">Ice Cream</h2>
                                             <p className="description secondary-dark">Rocks</p>
-                                            <a href="shop.html"><button className="button1">SHOP NOW</button></a>
+                                            <Link to={`Location`}><button className="button1">SHOP NOW</button></Link>
                                         </div>
                                     </div>
                                 </div>
@@ -175,7 +175,7 @@ const QuickSearch = () => {
                                         <div className="card-body primary-dark">
                                             <h2 className="name third-dark">Mermind</h2>
                                             <p className="description secondary-dark">Sundae</p>
-                                            <a href="shop.html"><button className="button1">SHOP NOW</button></a>
+                                            <Link to={`Location`}><button className="button1">SHOP NOW</button></Link>
                                         </div>
                                     </div>
                                 </div>
@@ -188,7 +188,7 @@ const QuickSearch = () => {
                                         <div className="card-body primary-dark">
                                             <h2 className="name third-dark">Vanilla fruit <br />Cream</h2>
                                             <p className="description secondary-dark">Sundae</p>
-                                            <a href="shop.html"><button className="button">SHOP NOW</button></a>
+                                            <Link to={`Location`}><button className="button1">SHOP NOW</button></Link>
                                         </div>
                                     </div>
                                 </div>
@@ -201,7 +201,7 @@ const QuickSearch = () => {
                                         <div className="card-body primary-dark">
                                             <h2 className="name third-dark">Mango fruit <br />Cream</h2>
                                             <p className="description secondary-dark">Sundae</p>
-                                            <a href="shop.html"><button className="button">SHOP NOW</button></a>
+                                            <Link to={`Location`}><button className="button1">SHOP NOW</button></Link>
                                         </div>
                                     </div>
                                 </div>
@@ -214,7 +214,7 @@ const QuickSearch = () => {
                                         <div className="card-body primary-dark">
                                             <h2 className="name third-dark">Strawberry fruit <br />Cream</h2>
                                             <p className="description secondary-dark">Sundae</p>
-                                            <a href="shop.html"><button className="button">SHOP NOW</button></a>
+                                            <Link to={`Location`}><button className="button1">SHOP NOW</button></Link>
                                         </div>
                                     </div>
                                 </div>
@@ -227,7 +227,7 @@ const QuickSearch = () => {
                                         <div className="card-body primary-dark">
                                             <h2 className="name third-dark">Cotton Candy</h2>
                                             <p className="description secondary-dark">Rocks</p>
-                                            <a href="shop.html"><button className="button1">SHOP NOW</button></a>
+                                            <Link to={`Location`}><button className="button1">SHOP NOW</button></Link>
                                         </div>
                                     </div>
                                 </div>
@@ -240,7 +240,7 @@ const QuickSearch = () => {
                                         <div className="card-body primary-dark">
                                             <h2 className="name third-dark">Three Cheers <br />Chocolate</h2>
                                             <p className="description secondary-dark">Icecream</p>
-                                            <a href="shop.html"><button className="button">SHOP NOW</button></a>
+                                            <Link to={`Location`}><button className="button1">SHOP NOW</button></Link>
                                         </div>
                                     </div>
                                 </div>
@@ -253,7 +253,7 @@ const QuickSearch = () => {
                                         <div className="card-body primary-dark">
                                             <h2 className="name third-dark">Black Current</h2>
                                             <p className="description secondary-dark">Icecream</p>
-                                            <a href="shop.html"><button className="button1">SHOP NOW</button></a>
+                                            <Link to={`Location`}><button className="button1">SHOP NOW</button></Link>
                                         </div>
                                     </div>
                                 </div>
@@ -266,7 +266,7 @@ const QuickSearch = () => {
                                         <div className="card-body primary-dark">
                                             <h2 className="nam third-darke">Fruit Ninja</h2>
                                             <p className="description secondary-dark">Icecream</p>
-                                            <a href="shop.html"><button className="button1">SHOP NOW</button></a>
+                                            <Link to={`Location`}><button className="button1">SHOP NOW</button></Link>
                                         </div>
                                     </div>
                                 </div>
@@ -279,7 +279,7 @@ const QuickSearch = () => {
                                         <div className="card-body primary-dark">
                                             <h2 className="name third-dark">Caramel Milk Cake</h2>
                                             <p className="description secondary-dark">Icecream</p>
-                                            <a href="shop.html"><button className="button1">SHOP NOW</button></a>
+                                            <Link to={`Location`}><button className="button1">SHOP NOW</button></Link>
                                         </div>
                                     </div>
                                 </div>
@@ -292,7 +292,7 @@ const QuickSearch = () => {
                                         <div className="card-body primary-dark">
                                             <h2 className="name third-dark">Very Berry <br />Strawberry</h2>
                                             <p className="description secondary-dark">Icecream</p>
-                                            <a href="shop.html"><button className="button">SHOP NOW</button></a>
+                                            <Link to={`Location`}><button className="button1">SHOP NOW</button></Link>
                                         </div>
                                     </div>
                                 </div>
@@ -384,7 +384,7 @@ const QuickSearch = () => {
                                         </div>
                                         <div className="card-body primary-dark">
                                             <h2 className="name third-dark">Black Current</h2>
-                                            <a href="shop.html"><button className="button1">SHOP NOW</button></a>
+                                            <Link to={`Location`}><button className="button1">SHOP NOW</button></Link>
                                         </div>
                                     </div>
                                 </div>
@@ -396,7 +396,7 @@ const QuickSearch = () => {
                                         </div>
                                         <div className="card-body primary-dark">
                                             <h2 className="name third-dark">Hazelnut Rocher</h2>
-                                            <a href="shop.html"><button className="button1">SHOP NOW</button></a>
+                                            <Link to={`Location`}><button className="button1">SHOP NOW</button></Link>
                                         </div>
                                     </div>
                                 </div>
@@ -408,7 +408,7 @@ const QuickSearch = () => {
                                         </div>
                                         <div className="card-body primary-dark">
                                             <h2 className="name third-dark">Very Berry <br />Strawberry</h2>
-                                            <a href="shop.html"><button className="button">SHOP NOW</button></a>
+                                            <Link to={`Location`}><button className="button1">SHOP NOW</button></Link>
                                         </div>
                                     </div>
                                 </div>
@@ -420,7 +420,7 @@ const QuickSearch = () => {
                                         </div>
                                         <div className="card-body primary-dark">
                                             <h2 className="name third-dark">Cookies 'N Cream</h2>
-                                            <a href="shop.html"><button className="button1">SHOP NOW</button></a>
+                                            <Link to={`Location`}><button className="button1">SHOP NOW</button></Link>
                                         </div>
                                     </div>
                                 </div>
@@ -432,7 +432,7 @@ const QuickSearch = () => {
                                         </div>
                                         <div className="card-body primary-dark">
                                             <h2 className="name third-dark">Classic Vanilla</h2>
-                                            <a href="shop.html"><button className="button1">SHOP NOW</button></a>
+                                            <Link to={`Location`}><button className="button1">SHOP NOW</button></Link>
                                         </div>
                                     </div>
                                 </div>
@@ -444,7 +444,7 @@ const QuickSearch = () => {
                                         </div>
                                         <div className="card-body primary-dark">
                                             <h2 className="name third-dark">Three Cheers <br />Chocolate</h2>
-                                            <a href="shop.html"><button className="button">SHOP NOW</button></a>
+                                            <Link to={`Location`}><button className="button1">SHOP NOW</button></Link>
                                         </div>
                                     </div>
                                 </div>
