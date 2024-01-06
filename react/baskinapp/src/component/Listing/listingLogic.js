@@ -7,8 +7,10 @@ import ListingDisplay from './listingDisplay';
 
 const baseUrl = process.env.REACT_APP_API_URL
 
+
+
 const Listing = () => {
-    // let params = useParams();
+    let params = useParams();
     // console.log(params.location_id);
 
     const [storeList, setStoreList] = useState();
@@ -18,7 +20,11 @@ const Listing = () => {
             .then((res) => {
                 setStoreList(res.data);
             })
-    }, [])
+    }, []);
+
+    const setDataPerFilter = (data) => {
+        setStoreList(data)
+    }
 
     return (
         <>
@@ -26,7 +32,7 @@ const Listing = () => {
             <div class="main">
                 <div class="filter">
                     <h3>Select State</h3>
-                    <input type="radio" id="MAHARASHTRA" name="state" value="MAHARASHTRA" class="radiobtn" /><label
+                    {/* <input type="radio" id="MAHARASHTRA" name="state" value="MAHARASHTRA" class="radiobtn" /><label
                         for="MAHARASHTRA">MAHARASHTRA</label><br />
                     <input type="radio" id="GUJRAT" name="state" value="GUJRAT" class="radiobtn" /><label
                         for="GUJRAT">GUJRAT</label><br />
@@ -43,9 +49,9 @@ const Listing = () => {
                     <input type="radio" id="KERALA" name="state" value="KERALA" class="radiobtn" /><label
                         for="KERALA">KERALA</label><br />
                     <input type="radio" id="TAMILNADU" name="state" value="TAMILNADU" class="radiobtn" /><label
-                        for="TAMILNADU">TAMILNADU</label><br />
+                        for="TAMILNADU">TAMILNADU</label><br /> */}
                 </div>
-                <ListingDisplay listData={storeList} />
+                <ListingDisplay listData={storeList}/>
             </div>
 
 
